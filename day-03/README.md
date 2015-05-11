@@ -9,21 +9,57 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
+        <td>9:00 - 9:15</td>
+        <td> To Dos</td>
         <td>
+            <a href="https://github.com/learn-co-curriculum/css-kitten-wheelbarrow">Kitten Wheelbarrow</a>
+            <br>
+            <a href="https://github.com/learn-co-curriculum/Dev-Tools-Super-Power">Dev Tools Super Power</a>
         </td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
+        <td>9:15 - 10:00</td>
+        <td> HTML5 Semantic Elements</td>
+        <td> NEED TEACHER GUIDE
+        </td>
+    </tr>
+    <tr>
+        <td>10:00 - 11:30</td>
+        <td> CSS Layout</td>
+        <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-layout"> Teacher Guide</a>
+        </td>
+    </tr>
+    <tr>
+        <td>11:30 - 12:30</td>
+        <td> LUNCH</td>
+        <td> EAT FOOD </td>
+    </tr>
+    <tr>
+        <td>12:30 - 1:50</td>
+        <td> CSS LAYOUT LABS</td>
+        <td> <a href="https://github.com/learn-co-curriculum/Hs-Empire-State-Css-Challenge">Empire State</a>
+        <br>
+        <a href="https://github.com/learn-co-curriculum/hs-zetsy">Zetsy</a>
+        <br>
+        <a href="https://github.com/learn-co-curriculum/hs-zhw-shoes-layout"> ZHW Shoes</a>
+         </td>
+    </tr>
+    <tr>
+        <td>1:50 - 2:50</td>
+        <td> Independant Study</td>
         <td> </td>
-        <td>
+    </tr>
+    <tr>
+        <td>2:50 - 3:00</td>
+        <td> Wrap</td>
+        <td> Micro Feedback
+            <br>
+            Deck 
         </td>
     </tr>
 </table>
 
-## SWABATS
-CSS Positioning/Box Model
+## SWBATS
 
 ###HTML
 
@@ -43,3 +79,5 @@ CSS Positioning/Box Model
 ## Resources
 
 ## Lectures
+
+<a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-layout"> CSS Layout</a>

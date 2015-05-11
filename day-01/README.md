@@ -11,7 +11,7 @@
     <tr>
         <td>9:00 - 10:00</td>
         <td> Welcome and Intros</td>
-        <td> LINK TO DECK  !! NEED TO CREATE !!</td>
+        <td> <a href="https://docs.google.com/presentation/d/12H4MDWtvhW_3LY4MKj8qvCKZORWZX2Pw6qIuiVqkdUU/edit#slide=id.p">Day 1 Deck</a> </td>
     </tr>
     <tr>
         <td>10:00 - 10:20</td>
@@ -19,9 +19,15 @@
         <td> ??</td>
     </tr>
     <tr>
-        <td>10:20 - 11:30</td>
-        <td> Student Directory Project Intro </td>
-        <td> ??</td>
+        <td>10:20 - 11:00</td>
+        <td> CLI </td>
+        <td> <a href="lectures/cli">Lecture Guide</a></td>
+    </tr>
+    <tr>
+        <td>11:00 - 11:30</td>
+        <td> Student Directory Project Intro / HTML INTRO </td>
+        <td><a href="lectures/student-directory-project">Lecture Guide</a></td>
+    </tr>
     <tr>
         <td>11:30 - 12:30</td>
         <td> PIZZA PARTY! </td>
@@ -30,22 +36,25 @@
     <tr>
         <td>12:30 - 1:50</td>
         <td> Work on Student Project </td>
-        <td> </td>
+        <td> 
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a></br>
+            If students finish early, have them work on CLI labs from earlier. 
+        </td>
     </tr>
     <tr>
         <td>1:50 - 2:20</td>
         <td> Improv </td>
-        <td> [Improv Games](https://github.com/learn-co-curriculum/tf-improv-games</td>
+        <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
     </tr>
     <tr>
         <td>2:20 - 2:50</td>
-        <td> Git Add, Commit, Push</td>
-        <td></td>
+        <td> Git Add, Commit, Push, Pull Request</td>
+        <td><a href="lectures/git-basics">Lecture Guide</a></td>
     </tr>
     <tr>
         <td>2:50 - 3:00</td>
         <td> Wrap Up</td>
-        <td></td>
+        <td> Micro Feedback - Deck</td>
     </tr>
 
 </table>
@@ -74,4 +83,13 @@
 
 ## Resources
 
++ In General for Day 1:
+  + Students need to download sublime text
+
 ## Lectures
+
+[Command Line](https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-command-line)
+
+[Student Directory Intro](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html)
+
+[Git Add, Commit, Push](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-git-2)
