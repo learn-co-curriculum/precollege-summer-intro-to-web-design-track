@@ -49,7 +49,7 @@
     <tr>
       <td>1:45 - 2:50</td>
       <td>Independant Study</td>
-      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-independent-study">Independant Study Guide</a></td>
+      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-independent-study">Independent Study Guide</a></td>
     </tr>
     <tr>
       <td>2:50 - 3:00</td>
