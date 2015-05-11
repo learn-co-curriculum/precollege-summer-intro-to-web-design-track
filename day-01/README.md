@@ -37,7 +37,7 @@
         <td>12:30 - 1:50</td>
         <td> Work on Student Project </td>
         <td> 
-            <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a></td>br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a></br>
             If students finish early, have them work on CLI labs from earlier. 
         </td>
     </tr>
