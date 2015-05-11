@@ -1,4 +1,4 @@
-###SWABTS
+###SWBATS
 ***Students will create their own profile page using HTML!***
 
   + Create, read, and understand a simple page using html tags

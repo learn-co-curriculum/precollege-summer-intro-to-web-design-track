@@ -1,7 +1,8 @@
 ## Unit 1: Command Line - Lecture Notes
 
 ### SWBATs
-***Students will be able to navigate their system’s file structure using the command line in terminal.***
+
+Objective: Students will be able to navigate their system’s file structure using the command line in terminal.
 
   * CLI - Understand and explain what terminal is and why we use it.
   * CLI - Navigate through directories using relative and absolute paths*
@@ -28,7 +29,7 @@ You're going to learn about the command line by planning for a trip.
   + create directories for countries within the `trip` directory.
   + create directories for cities within the countries.
   + create text files for landmarks you want to visit in the cities directories by using `touch`. 
-  + use `subl <file_name>` to open in sublime and add information about the landmarks.
+  + open the file in your text editor and add information about the landmarks.
   + remove a file that they longer want using `rm`.
   + remove an entire directory using `rm -rf`.
 + Accidentally place a file in the wrong directory, then show students how to move it with `mv`.
@@ -49,10 +50,6 @@ You're going to learn about the command line by planning for a trip.
 ### Hints and Hurdles
 + Navigating your computer from the command line is a lot about muscle memory. It's important that students get a lot of repetition in with these commands.
 + In [Lab: Find The Missing Pets]( https://github.com/learn-co-curriculum/find-missing-pet), instructor should complete one or two examples before releasing students.
-+ In General for Day 1:
-  + Split class into MacBook and Chromebook for environment set up.
-  + Demo the code when demoing final projects from previous students. Soundbite could be something like: this looks like Greek, but at the end of this course you will be able to read it AND write it!
-  + Talk to about website versus web application (use a concrete example like Yelp). Web applications rely on a back-end written in a programming language like Ruby to interact with users and show customized content. 
 
 ### Additional Media
 + It might be fun for the class to play around with these [CLI easter eggs](https://github.com/learn-co-curriculum/hs-cli-cultural-piece).
