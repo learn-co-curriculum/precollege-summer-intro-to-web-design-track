@@ -12,7 +12,10 @@
         <td>9:00 - 10:00</td>
         <td>Intro to jQuery</td>
         <td>
-          <a href="intro-to-jquery">Lecture</a>
+            <ul>
+               <li><a href="intro-to-jquery">Lecture</a></li>
+               <li><a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></li>
+            </ul>
         </td>
     </tr>
     <tr>
