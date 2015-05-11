@@ -19,9 +19,7 @@
         <td>9:15 - 10:00</td>
         <td>Intro to jQuery</td>
         <td>
-            <ul>
-               <a href="intro-to-jquery">Lecture</a>
-            </ul>
+            <a href="intro-to-jquery">Lecture</a>
         </td>
     </tr>
     <tr>
