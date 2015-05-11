@@ -81,3 +81,9 @@
 ## Resources
 
 ## Lectures
+
+[Command Line](https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-command-line)
+
+[Student Directory Intro](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html)
+
+[Git Add, Commit, Push](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-git-2)
