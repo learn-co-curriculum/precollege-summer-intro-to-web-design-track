@@ -37,6 +37,8 @@
   * create and understand when to use tables
   * difference between `id` and `class`
   * Understand when to use `id` vs. `class`
+  * understand how to use HTML5 `audio` and `video` tags
+
 
 ### CSS
 
