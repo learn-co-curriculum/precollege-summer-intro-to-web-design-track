@@ -32,7 +32,11 @@
         <td>10:20 - 11:30</td>
         <td> Selector Labs </td>
         <td>
-        Links to Selector Labs - Graffiti Override and Pseudo Selector Lab*** + 1 more (scaling and/or border properties)?
+        Graffiti Override
+        </br>
+        Pseudo Selector Lab***
+        </br>
+        1 more (scaling and/or border properties)?
         </td>
     </tr>
 </table>
