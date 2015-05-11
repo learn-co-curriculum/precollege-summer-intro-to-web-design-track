@@ -19,7 +19,7 @@
         <td>9:30 - 10:15</td>
         <td> Lecture: Descendant and Pseudo Selectors </td>
         <td>
-            [Lecture Resources](/css-selectors/README.md)
+            <a href="/css-selectors/README.md">Lecture Resources</a>
         </td>
     </tr>
     <tr>
