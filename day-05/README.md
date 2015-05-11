@@ -56,7 +56,7 @@
 ## SWABTs
 * Students will be able to explain the significance of 'User Experience' in the context of programming. 
 * Students will be able to use Storyboarding as a tool for generating compelling narratives and virtual experiences 
-* Students will be able to use wireframing to prototype their websites \n
+* Students will be able to use wireframing to prototype their websites
 
 ## Resources
 
