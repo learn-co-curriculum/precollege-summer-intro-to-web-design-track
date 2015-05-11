@@ -26,7 +26,7 @@
     <tr>
         <td>11:00 - 11:30</td>
         <td> Student Directory Project Intro / HTML INTRO </td>
-        <td><a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html">Lecture Guide</a>/td>
+        <td><a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html">Lecture Guide</a></td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
