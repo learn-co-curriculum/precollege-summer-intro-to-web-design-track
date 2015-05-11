@@ -34,11 +34,23 @@
             
         </td>
     </tr>
-    <tr>
-        <td>12:30 - 2:00</td>
-        <td><a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods">Lab: Exploring jQuery Methods</a></td>
+    tr>
+        <td>12:30 - 1:00</td>
+        <td>Improv</td>
         <td>
             
+        </td>
+    </tr>
+    <tr>
+        <td>1:00 - 2:30</td>
+        <td><a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods">Lab: Exploring jQuery Methods</a></td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>2:30 - 3:00</td>
+        <td>Independent Study</td>
+        <td>
         </td>
     </tr>
 </table>
