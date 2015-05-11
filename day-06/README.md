@@ -24,14 +24,20 @@
     </tr>
     <tr>
         <td>10:00 - 11:30</td>
-        <td>Lab: jQuery selectors</td>
+        <td><a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a>
         </td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
         <td>Lunch</td>
+        <td>
+            
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 2:00</td>
+        <td><a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods">Lab: Exploring jQuery Methods</a></td>
         <td>
             
         </td>
