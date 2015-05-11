@@ -19,9 +19,15 @@
         <td> ??</td>
     </tr>
     <tr>
-        <td>10:20 - 11:30</td>
-        <td> Student Directory Project Intro </td>
-        <td> ??</td>
+        <td>10:20 - 11:00</td>
+        <td> CLI </td>
+        <td> [Teacher Guide](https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-command-line)</td>
+    </tr>
+    <tr>
+        <td>11:00 - 11:30</td>
+        <td> Student Directory Project Intro / HTML INTRO </td>
+        <td> [Teacher Guide](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html)</td>
+    </tr>
     <tr>
         <td>11:30 - 12:30</td>
         <td> PIZZA PARTY! </td>
@@ -35,17 +41,17 @@
     <tr>
         <td>1:50 - 2:20</td>
         <td> Improv </td>
-        <td> [Improv Games](https://github.com/learn-co-curriculum/tf-improv-games</td>
+        <td> [Improv Games](https://github.com/learn-co-curriculum/tf-improv-games)</td>
     </tr>
     <tr>
         <td>2:20 - 2:50</td>
-        <td> Git Add, Commit, Push</td>
-        <td></td>
+        <td> Git Add, Commit, Push, Pull Request</td>
+        <td> [Teacher Guide](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-git-2)</td>
     </tr>
     <tr>
         <td>2:50 - 3:00</td>
         <td> Wrap Up</td>
-        <td></td>
+        <td> Micro Feedback - Deck</td>
     </tr>
 
 </table>
