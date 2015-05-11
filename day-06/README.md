@@ -58,5 +58,7 @@
 ## Resources
 
 [CodeAcademy - jQuery](http://www.codecademy.com/en/tracks/jquery)
+[CodeSchool - jQuery](http://try.jquery.com/)
+[TreeHouse - jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
 
 ## Lectures
