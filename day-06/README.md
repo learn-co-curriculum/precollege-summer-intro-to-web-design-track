@@ -10,8 +10,9 @@
     </tr>
     <tr>
         <td>9:00 - 10:00</td>
-        <td> </td>
+        <td>Intro to jQuery</td>
         <td>
+            
         </td>
     </tr>
     <tr>
