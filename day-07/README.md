@@ -25,7 +25,10 @@
 ## SWBATs
 
 ### JavaScript
-+ Use correct JavaScript syntax 
++ Describe how jQuery is just a javascript library
++ Use correct function and conditional statement syntax
++ Create a variable
++ Understand the difference between string and number datatypes
 + Understand how variables are initialized and store data
 + Create conditional statements
 
