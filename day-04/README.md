@@ -39,6 +39,40 @@
         1 more (scaling and/or border properties)?
         </td>
     </tr>
+    <tr>
+        <td>11:30 - 12:30</td>
+        <td> Lunch </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 1:00</td>
+        <td> User Experience Lecture: Typography </td>
+        <td>
+            Typography Resources
+        </td>
+    </tr>
+    <tr>
+        <td>1:00 - 1:45</td>
+        <td> Lecture: Grid System and Bootstrap </td>
+        <td>
+        Grids and Bootstrap Lecture notes***
+        </td>
+    </tr>
+    <tr>
+        <td>1:45 - 2:50</td>
+        <td> Bootstrap Labs </td>
+        <td>
+            Bootstrap Lab links ***
+        </td>
+    </tr>
+    <tr>
+        <td>2:50 - 3:00</td>
+        <td> Wrap Up </td>
+        <td>
+            
+        </td>
+    </tr>
 </table>
 
 ## SWBAT
