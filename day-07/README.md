@@ -33,10 +33,9 @@
 + Create conditional statements
 
 ### jQuery
-
 + Add event handlers to DOM Elements
-+ Use jQuery and CSS selectors to access HTML elements (this should be day 6)
 + Create, Read, Update, and Delete (CRUD) HTML elements using jQuery
++ Understand how to use JavaScript plugins (jQuery UI)
 
 ## Resources
 
