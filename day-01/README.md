@@ -28,27 +28,48 @@
         <td> Order Pizza </td>
     </tr>
     <tr>
-        <td>12:30 - 1:30</td>
+        <td>12:30 - 1:50</td>
         <td> Work on Student Project </td>
         <td> </td>
     </tr>
+    <tr>
+        <td>1:50 - 2:20</td>
+        <td> Improv </td>
+        <td> [Improv Games](https://github.com/learn-co-curriculum/tf-improv-games</td>
+    </tr>
+    <tr>
+        <td>2:20 - 2:50</td>
+        <td> Git Add, Commit, Push</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2:50 - 3:00</td>
+        <td> Wrap Up</td>
+        <td></td>
+    </tr>
+
 </table>
 
 ##SWBATS
-+ CLI - Understand and explain what terminal is and why we use it
-+ CLI - Navigate through directories using the `cd` command
-+ CLI - use the `ls` comman to list items in a directory
-+ CLI - use `pwd` to see where they are in the file structure
-+ CLI - remove a file and directory using `rm` and `rm -rf`
-+ CLI - move files and directories using the `mv` command
-+ GIT - Understand the purpose of git
-+ GITHUB/GIT - Fork and clone a repository (? not necessary with Nitrous ?)
-+ GIT - add and commit files to local repository
-+ GITHUB - push and commit to a remote repository
-+ GITHUB - Submit a pull request
-+ HTML - Explain the purpose of HTML
-+ HTML - Understand how HTML tags work
-+ HTML - Modify content between HTML tags
+
+###CLI
++ Understand and explain what terminal is and why we use it
++ Navigate through directories using the `cd` command
++ Use the `ls` command to list items in a directory
++ Use `pwd` to see where they are in the file structure
++ Remove a file and directory using `rm` and `rm -rf`
++ Move files and directories using the `mv` command
+
+###GIT / GITHUB
++ Understand the purpose of git
++ Add and commit files to local repository
++ Push and commit to a remote repository
++ Submit a pull request
+
+### HTMl
++ Explain the purpose of HTML
++ Understand the components of an HTML element (opening tag, content, closing tag)
++ Modify content between HTML tags
 
 
 ## Resources
