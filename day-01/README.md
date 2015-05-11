@@ -11,7 +11,7 @@
     <tr>
         <td>9:00 - 10:00</td>
         <td> Welcome and Intros</td>
-        <td> LINK TO DECK  !! NEED TO CREATE !!</td>
+        <td> <a href="https://docs.google.com/presentation/d/12H4MDWtvhW_3LY4MKj8qvCKZORWZX2Pw6qIuiVqkdUU/edit#slide=id.p">Day 1 Deck</a> </td>
     </tr>
     <tr>
         <td>10:00 - 10:20</td>
