@@ -8,10 +8,10 @@
 
 ### Script
 
-[Selectors Script](/SCRIPT.md)
+[Selectors Script](SCRIPT.md)
 
 ### Labs
 
-[Graffiti Override](https://github.com/learn-co-curriculum/Css-Graffiti-Override)
-[Pseudo Selector Blocks](To do) - use this as base: http://jsfiddle.net/webtiki/MpXYr/2/light/
++ [Graffiti Override](https://github.com/learn-co-curriculum/Css-Graffiti-Override)
++ [Pseudo Selector Blocks](To do) - use this as base: http://jsfiddle.net/webtiki/MpXYr/2/light/
 
