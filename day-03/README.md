@@ -60,7 +60,6 @@
 </table>
 
 ## SWBATS
-CSS Positioning/Box Model
 
 ###HTML
 
