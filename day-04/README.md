@@ -12,7 +12,7 @@
         <td>9:00 - 9:30</td>
         <td> ToDo: CSS Positioning </td>
         <td>
-            Todo Link***
+            Todo Link*** (GROVER)
         </td>
     </tr>
     <tr>
