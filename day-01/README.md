@@ -36,7 +36,9 @@
     <tr>
         <td>12:30 - 1:50</td>
         <td> Work on Student Project </td>
-        <td> </td>
+        <td> 
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a>
+        </td>
     </tr>
     <tr>
         <td>1:50 - 2:20</td>

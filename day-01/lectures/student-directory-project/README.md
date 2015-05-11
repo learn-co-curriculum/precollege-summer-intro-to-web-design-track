@@ -25,8 +25,11 @@
     * Ever been frustrated that you didn't have an option to translate a page from another language into English? HTML tags control that
 
 ### Lesson Plan
-+ `cd` into this new directory we just clone and open up the entire thing in Sublime Text `subl .`
-+ Open up index.html in Sublime Text - then right click on the page and click `open in browser` 
+
+Today, we'll be building a student directory with all of your profile information on it. By the end of this project, you'll have deployed live, working code to the internet the same way professional web developers do. 
+
++ `cd` into this new directory we just clone and open up the entire thing in your text editor
++ Open up index.html in your text editor - then right click on the page and click `open in browser` 
   * This is what the home page of our student directory looks like. 
   * I’ll be adding your photos and names here. 
   * Click on the sample student to see what your personal profile page will look like. - just a template. You'll be customizing your own
