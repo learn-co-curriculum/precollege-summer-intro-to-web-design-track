@@ -9,27 +9,31 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:15</td>
-        <td> To Do</td>
+        <td>9:00 - 9:30</td>
+        <td> To Do: Selectors</td>
         <td>
+            Todo Link***
         </td>
     </tr>
-    <tr>
-        <td>9:15 - 10:00</td>
-        <td> Intro to Project — Storyboarding </td>
+        <tr>
+        <td>9:30 - 10:00</td>
+        <td> Lecture: Design Principles — User Experience </td>
         <td>
+            User Experience Resources***
         </td>
     </tr>
     <tr>
         <td>10:00 - 10:30</td>
-        <td> Design Principles — User Experience </td>
+        <td> Intro to Project — Storyboarding </td>
         <td>
+            Storyboarding Resources***
         </td>
     </tr>
     <tr>
         <td>10:30 - 11:00</td>
         <td> Wireframing </td>
         <td>
+            Wireframing resources***
         </td>
     </tr>
     <tr>
