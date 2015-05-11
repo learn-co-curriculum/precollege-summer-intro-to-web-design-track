@@ -39,7 +39,7 @@
     <tr>
         <td>11:00 - 2:00</td>
         <td> Group Project — Choose your own adventure </td>
-        <td> <a href="http://www.w3schools.com">Project Guidelines</a> 
+        <td> <a href="nothing here">Project Guidelines***</a> 
         </td>
     </tr>
     <tr>
