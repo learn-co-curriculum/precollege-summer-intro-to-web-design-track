@@ -9,8 +9,8 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
+        <td>9:00 - 9:30</td>
+        <td> ToDo: CSS Positioning </td>
         <td>
         </td>
     </tr>
