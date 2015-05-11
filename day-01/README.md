@@ -21,12 +21,12 @@
     <tr>
         <td>10:20 - 11:00</td>
         <td> CLI </td>
-        <td> <a href="https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-command-line">Lecture Guide</a></td>
+        <td> <a href="lectures/cli">Lecture Guide</a></td>
     </tr>
     <tr>
         <td>11:00 - 11:30</td>
         <td> Student Directory Project Intro / HTML INTRO </td>
-        <td><a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html">Lecture Guide</a></td>
+        <td><a href="lectures/student-directory-project">Lecture Guide</a></td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
@@ -79,6 +79,11 @@
 
 
 ## Resources
+
++ In General for Day 1:
+  + Split class into MacBook and Chromebook for environment set up.
+  + Demo the code when demoing final projects from previous students. Soundbite could be something like: this looks like Greek, but at the end of this course you will be able to read it AND write it!
+  + Talk to about website versus web application (use a concrete example like Yelp). Web applications rely on a back-end written in a programming language like Ruby to interact with users and show customized content. 
 
 ## Lectures
 
