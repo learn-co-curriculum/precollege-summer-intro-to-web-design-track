@@ -26,6 +26,10 @@
 
 ### HTML
 
+  * Structure an HTML page using `doctype`, `html`, `head` and `body` tags
+  * explain what goes into the `head` of the document
+  * add text to a page using `p` and `h1` tags
+  * add images using `img` tags
   * add links using `a` tags and understand the difference between relative and absolute paths
   * create multiple pages and link them
   * create lists using `ul` and `ol`
