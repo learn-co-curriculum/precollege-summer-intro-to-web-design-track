@@ -22,10 +22,44 @@
         <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html-fundamentals">Teacher Guide<a/></td>
     </tr>
     <tr>
-      <td>9:15 - 10:00</td>
+      <td>10:00 - 11:00</td>
       <td>CSS Fundamentals </td>
       <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-fundamentals">Teacher Guide<a/></td>
     </tr>
+    <tr>
+      <td>11:00 - 11:30</td>
+      <td>Design Principal: Visual Hierarchy </td>
+      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-visual-hierarchy">Teacher Guide<a/></td>
+    </tr>
+    <tr>
+      <td>11:30 - 12:30</td>
+      <td>EAT FOOD</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12:30 - 1:15</td>
+      <td>How The Internet Works</td>
+      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-internet">Teacher Guide</a></td>
+    </tr>
+    <tr>
+      <td>1:15 - 1:45</td>
+      <td>Improv</td>
+      <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Games to Play</a></td>
+    </tr>
+    <tr>
+      <td>1:45 - 2:50</td>
+      <td>Independant Study</td>
+      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-independent-study">Independant Study Guide</a></td>
+    </tr>
+    <tr>
+      <td>2:50 - 3:00</td>
+      <td>Wrap</td>
+      <td> Micro Feedback
+        <br>
+        Deck
+      </td>
+    </tr>
+
 </table>
 
 ## SWBAT
