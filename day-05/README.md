@@ -54,7 +54,7 @@
 </table>
 
 ## SWABTs
-* UX — xplain the significance of 'User Experience' in the context of programming. 
+* UX — Explain the significance of 'User Experience' in the context of programming. 
 * IDEATION — Use storyboarding as a tool for generating compelling narratives and virtual experiences 
 * IDEATION — Use wireframing to prototype their websites
 
