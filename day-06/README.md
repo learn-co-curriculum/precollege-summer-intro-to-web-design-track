@@ -9,19 +9,33 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
+        <td>9:00 - 9:15</td>
+        <td>ToDo</td>
+        <td>
+            
+        </td>
+    </tr>
+    <tr>
+        <td>9:15 - 10:00</td>
         <td>Intro to jQuery</td>
         <td>
             <ul>
-               <li><a href="intro-to-jquery">Lecture</a></li>
-               <li><a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></li>
+               <a href="intro-to-jquery">Lecture</a>
             </ul>
         </td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
+        <td>10:00 - 11:30</td>
+        <td>Lab: jQuery selectors</td>
         <td>
+            <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a>
+        </td>
+    </tr>
+    <tr>
+        <td>11:30 - 12:30</td>
+        <td>Lunch</td>
+        <td>
+            
         </td>
     </tr>
 </table>
