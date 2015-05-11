@@ -12,7 +12,7 @@
         <td>9:00 - 10:00</td>
         <td>Intro to jQuery</td>
         <td>
-            
+          <a href="intro-to-jquery">Lecture</a>
         </td>
     </tr>
     <tr>
