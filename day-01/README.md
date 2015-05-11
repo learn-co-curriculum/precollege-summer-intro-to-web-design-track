@@ -21,12 +21,12 @@
     <tr>
         <td>10:20 - 11:00</td>
         <td> CLI </td>
-        <td> [Teacher Guide](https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-command-line)</td>
+        <td> <a href="https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-command-line">Lecture Guide</a></td>
     </tr>
     <tr>
         <td>11:00 - 11:30</td>
         <td> Student Directory Project Intro / HTML INTRO </td>
-        <td> [Teacher Guide](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html)</td>
+        <td><a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html">Lecture Guide</a>/td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
@@ -41,12 +41,12 @@
     <tr>
         <td>1:50 - 2:20</td>
         <td> Improv </td>
-        <td> [Improv Games](https://github.com/learn-co-curriculum/tf-improv-games)</td>
+        <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
     </tr>
     <tr>
         <td>2:20 - 2:50</td>
         <td> Git Add, Commit, Push, Pull Request</td>
-        <td> [Teacher Guide](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-git-2)</td>
+        <td><a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-git-2">Lecture Guide</a></td>
     </tr>
     <tr>
         <td>2:50 - 3:00</td>
