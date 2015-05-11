@@ -84,9 +84,7 @@
 ## Resources
 
 + In General for Day 1:
-  + Split class into MacBook and Chromebook for environment set up.
-  + Demo the code when demoing final projects from previous students. Soundbite could be something like: this looks like Greek, but at the end of this course you will be able to read it AND write it!
-  + Talk to about website versus web application (use a concrete example like Yelp). Web applications rely on a back-end written in a programming language like Ruby to interact with users and show customized content. 
+  + Students need to download sublime text
 
 ## Lectures
 
