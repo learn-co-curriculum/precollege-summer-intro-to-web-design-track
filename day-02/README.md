@@ -35,9 +35,13 @@
   * create lists using `ul` and `ol`
   * include comments
   * create and understand when to use tables
+  * difference between `id` and `class`
+  * Understand when to use `id` vs. `class`
 
 ### CSS
 
+  * Use selectors
+  * Write CSS Syntax
   * link a CSS stylesheet to an HTML page
   * explain the purpose of CSS
   * adjust basic properties of text: `font-size`, `font-family`, `text-align`, `font-color`
