@@ -11,23 +11,23 @@ Here you'll find:
 
 ## Course Outline
 
-### [Day 1 - Intro to HTML](day-1/)
+### [Day 1 - Intro to HTML](day-01/)
 
-### [Day 2 - HTML & CSS Basics](day-2/)
+### [Day 2 - HTML & CSS Basics](day-02/)
 
-### [Day 3 - CSS Layout](day-3/)
+### [Day 3 - CSS Layout](day-03/)
 
-### [Day 4 - Advanced Styling](day-4/)
+### [Day 4 - Advanced Styling](day-04/)
 
-### [Day 5 - User Experiencee](day-5/)
+### [Day 5 - User Experiencee](day-05/)
 
-### [Day 6 - jQuery Basics](day-6/)
+### [Day 6 - jQuery Basics](day-06/)
 
-### [Day 7 - jQuery Events](day-7/)
+### [Day 7 - jQuery Events](day-07/)
 
-### [Day 8 - Project 1](day-8/)
+### [Day 8 - Project 1](day-08/)
 
-### [Day 9 - Project 2](day-9/)
+### [Day 9 - Project 2](day-09/)
 
 ### [Day 10 - Project 3](day-10/)
 
