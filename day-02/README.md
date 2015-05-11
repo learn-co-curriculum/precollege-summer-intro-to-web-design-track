@@ -9,16 +9,22 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
-        <td>
+        <td>9:00 - 9:15</td>
+        <td> To Dos</td>
+        <td><a href="https://github.com/learn-co-curriculum/hs-cli-world-travel-todo">World Travel</a>
+        <br>
+        <a href="https://github.com/learn-co-curriculum/Html-Album-Cover"> Happy</a>
         </td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
-        <td>
-        </td>
+        <td>9:15 - 10:00</td>
+        <td>HTML Fundamental </td>
+        <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html-fundamentals">Teacher Guide<a/></td>
+    </tr>
+    <tr>
+      <td>9:15 - 10:00</td>
+      <td>CSS Fundamentals </td>
+      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-fundamentals">Teacher Guide<a/></td>
     </tr>
 </table>
 
