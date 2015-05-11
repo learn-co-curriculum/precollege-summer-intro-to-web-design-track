@@ -38,5 +38,7 @@
 + Understand how to use JavaScript plugins (jQuery UI)
 
 ## Resources
+[Donut Lab](https://github.com/learn-co-curriculum/js-donut-lab/tree/master): Explores Javascript Conditionals
+
 
 ## Lectures
