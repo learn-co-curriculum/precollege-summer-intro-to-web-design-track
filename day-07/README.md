@@ -9,14 +9,21 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
+        <td>9:00 - 9:15</td>
+        <td>To Do: </td>
+        <td>
+            <b>Create One</b>
+        </td>
+    </tr>
+    <tr>
+        <td>9:15 - 10:00</td>
+        <td>Lecture: JavaScript Basics</td>
         <td>
         </td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
+        <td>10:00 - 11:30</td>
+        <td><a href="https://github.com/learn-co-curriculum/Js-Donut-Lab">Lab: Donut Lab (Conditionals)</a></td>
         <td>
         </td>
     </tr>
