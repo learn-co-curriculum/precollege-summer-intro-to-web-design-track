@@ -2,18 +2,19 @@
 
 ### SWBATs
 
-Objective: Students will be able to navigate their system’s file structure using the command line in terminal.
+Objective: Students will be able to navigate their system’s file structure using the CLI (command line interface) in terminal.
 
-  * CLI - Understand and explain what terminal is and why we use it.
-  * CLI - Navigate through directories using relative and absolute paths*
-  * CLI - use the cd command to move up and down directories
-  * CLI - Use the `ls` keyword to list items in a directory
-  * CLI - Remove a file and a directory by using ‘rm’ and `rm -rf` keywords
-  * CLI - move files and directories using the mv command
+#### CLI
+* Understand and explain what a terminal is and why we use it
+* Navigate through directories using relative and absolute paths
+* Use the cd command to move up and down directories
+* Use the `ls` keyword to list items in a directory
+* Remove a file and a directory by using `rm` and `rm -rf` keywords
+* Move files and directories using the `mv` command
 
 
 ### Motivation / Why Should You Care?
-Back in the day (the 1980s!), computers only had a terminal to control them. Later on, Graphical User Interfaces (GUIs) were created to make computers more accessible (like for your computer-illiterate grandparents). Developers continue to use the terminal instead of the GUI because it makes you faster and more in control.
+Back in the day (the 1980s!), computers only had a terminal to control them. Later on, Graphical User Interfaces (GUIs) were created to make computers more accessible (like for your computer-illiterate grandparents). Developers continue to use the terminal instead of the GUI because it speeds up development and allows for more granular control.
 
 ### Lesson Plan
 ***Any students that have done this lesson before should do the advanced [CLI Bash Scripting Lab](https://github.com/learn-co-curriculum/hs-advanced-cli) ***
