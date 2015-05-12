@@ -24,7 +24,7 @@
         <td> 
             <a href="lectures/cli">Lecture Guide</a></br>
             <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Castle Code Along</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Castle Code Along</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Advanced CLI</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-cli-cultural-piece">Resource: Command Line Fun</a>
         </td>
     </tr>
