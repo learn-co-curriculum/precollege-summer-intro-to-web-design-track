@@ -26,9 +26,11 @@
 
 ### Lesson Plan
 
+[Lab: Student Directory Project](https://github.com/learn-co-curriculum/hs-intro-web-student-directory)
+
 Today, we'll be building a student directory with all of your profile information on it. By the end of this project, you'll have deployed live, working code to the internet the same way professional web developers do. 
 
-+ `cd` into this new directory we just clone and open up the entire thing in your text editor
++ `cd` into this new directory we just cloned and open up the entire thing in your text editor
 + Open up index.html in your text editor - then right click on the page and click `open in browser` 
   * This is what the home page of our student directory looks like. 
   * I’ll be adding your photos and names here. 
@@ -86,7 +88,7 @@ Today, we'll be building a student directory with all of your profile informatio
 + `<ul></ul>`: unordered list.
 + `<li></li>`: list item. 
 + Give them time to customize their pages
-+ For students who finish this up really quickly have them try out the HTML Playground lab or the Riyadh lab from Day 2.
++ For students who finish this up really quickly have them try out the [HTML Playground lab](https://github.com/learn-co-curriculum/html-playground).
 
 ### Conclusion / So What?
 HTML makes up every single page on the internet. You can't create a web page without it. 
