@@ -74,7 +74,6 @@ Yesterday we used CSS to style the fonts, images and backgrounds of our page. To
 	```
 + Have students practice with [this example](http://jsfiddle.net/flatiron_school/sFfw5/)
 
-<img src="http://jsfiddle.net/flatiron_school/sFfw5/">
 
 + Another default for most browsers is to display divs,p,h in block style. That means that each element on the page will be displayed directly below the next one and take up the whole width of the page.
 	+ displays one above the other, takes up the whole line. Able to specify width and top and bottom margin
