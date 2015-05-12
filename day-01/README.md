@@ -21,7 +21,11 @@
     <tr>
         <td>10:20 - 11:00</td>
         <td> CLI </td>
-        <td> <a href="lectures/cli">Lecture Guide</a></td>
+        <td> 
+            <a href="lectures/cli">Lecture Guide</a></br>
+            <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Castle Code Along</a>
+            <a href="https://github.com/learn-co-curriculum/hs-cli-cultural-piece">Resource: Command Line Fun</a>
+        </td>
     </tr>
     <tr>
         <td>11:00 - 11:30</td>
@@ -38,7 +42,8 @@
         <td> Work on Student Project </td>
         <td> 
             <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a></br>
-            If students finish early, have them work on CLI labs from earlier. 
+            If students finish early, have them work on CLI labs or HTML playground. 
+            <a href="https://github.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
         </td>
     </tr>
     <tr>
