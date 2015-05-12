@@ -24,6 +24,7 @@
         <td> 
             <a href="lectures/cli">Lecture Guide</a></br>
             <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Castle Code Along</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Castle Code Along</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-cli-cultural-piece">Resource: Command Line Fun</a>
         </td>
     </tr>
@@ -84,7 +85,7 @@
 + Push and commit to a remote repository
 + Submit a pull request
 
-### HTMl
+### HTML
 + Explain the purpose of HTML
 + Understand the components of an HTML element (opening tag, content, closing tag)
 + Modify content between HTML tags
