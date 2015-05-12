@@ -20,7 +20,8 @@
     <tr>
         <td>9:15 - 10:00</td>
         <td> HTML5 Semantic Elements</td>
-        <td> NEED TEACHER GUIDE
+        <td> 
+            <a href="lectures/html-5">Lecture - HTML 5</a>
         </td>
     </tr>
     <tr>
