@@ -48,10 +48,37 @@ Yesterday you used a prepared template to create personal pages for our student 
   * If site has `index.html` and `pig_facts.html` and theyre in the same directory, having a link from `index.html` to `pig_facts.html` looks like this: `<a href="pig_facts.html">click here for pig facts</a>`
 + Put links in an unordered list using `ul` and `li` tags
   * will style next class as a nav bar
++ HTML5 makes it super easy to embed video and audio into your website with these tags:
++ Audio:
+  ```html
+    <audio>
+        <source src="audio.mp3" type="audio/mp3">
+        <source src="audio.ogg" type="audio/ogg”> 
+        <!-– fallback content here -->
+    </audio>
+  ```
++ Video
+  ```html
+    <video>
+        <source src="movie.mp4" type="video/mp4">
+        <source src="movie.ogv" type="video/ogg">
+        <source src="movie.webm" type="video/webm”>
+        <!-– fall back content here -->
+      </video>
+  ```
++ The fallback content is important because there are still old browsers out there that are not good at handling HTML5 audio and video elements.
++ Check out this great [resource](http://caniuse.com/) for checking out HTML5 compatibility
++ You can also embed YouTube video's really easily. Just go to the YouTube site for a video you like. Follow these steps:
+
+<img src="https://s3.amazonaws.com/after-school-assets/YouTube-embed.png">
+
++ *Try adding an audio or video to your personal website.*
+
 
 ### Conclusion / So What?
 HTML allows us to define and label the content of our page. Across browsers, there isn't a specification about how text without tags should be rendered. You have no control over how it's displayed, and in future versions of a browser, your code might not be displayed.
 
 ### Hints and Hurdles
 + An HTML element is composed of an opening tag, content, and a closing tag
-+ Students should have their HTML files in both the browser and in the text editor. (nitrous?)
++ Students should have their HTML files in both the browser and in the text editor. 
++ iTune encrypts audio files so they won't be able to be played with the audio tags. Students have to use legally acquired mp3 files - You can download Girl Talk's album for free [here](http://illegalart.net/girltalk/shop/)
