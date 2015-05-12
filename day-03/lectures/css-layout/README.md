@@ -59,7 +59,7 @@ Yesterday we used CSS to style the fonts, images and backgrounds of our page. To
 	* No matter what size the screen is the div will be the same size - which means there might be a lot of white space on larger screens or the user might have to scroll when not all of the content fits on the page. 
 + A fluid design uses percentages. So width and height can be set to take up a certain amount of the screen.
 	* This is a major part of creating a “responsive site”.
-	* We are going to take a lot more about responsive web design later but in a nutshell - RWD is hugely important because people access web applications from a ton of different types of devices - from cell phones to giant wide screen desktop monitors and you want your website to look good on all of these devices. 
+	* We are going to talk more about responsive web design later but in a nutshell - RWD is hugely important because people access web applications from a ton of different types of devices - from cell phones to giant wide screen desktop monitors and you want your website to look good on all of these devices. 
 + Another option is set min and max width and heights.
 	+ This is a pretty good compromise in that it gives you more control over what the user sees, while also making the site flexible for multiple screen sizes.
 	+ 960px is generally the max-width for a smaller screen and 1180px for a larger screen
