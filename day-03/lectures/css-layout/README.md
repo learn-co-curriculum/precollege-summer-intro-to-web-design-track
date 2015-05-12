@@ -4,11 +4,6 @@ Students will be able to use the box model to create cohesive page layouts
 
 ### SWBATS
 
-#### HTML
-
-+ break up a page with divs
-+ Understand how to use HTML5 semantic elements - header, footer, nav, etc.
-
 #### CSS
 
 + Understand box model and how it is impacted by padding, margin and border
@@ -25,35 +20,9 @@ Students will be able to use the box model to create cohesive page layouts
 
 Yesterday we used CSS to style the fonts, images and backgrounds of our page. Today we’re going to learn how to use CSS to break up and arrange the content on our page.
 
+### Lesson Plan
 
-### Lesson Plan 
-+ We can break up a page with a generic sort of container called a div
-
-```html
-<div></div>
-```
-
-+ We can add `class`es and `id`s to these divs to style them however we want. Adding `id`s and `class`es is the only way to differentiate these generic div containers.
-+ Problem is how does a computer know the different things that a div could contain?
-+ HTML5 provides us with some helpful elements that we can use to break up our page and describe what each section is being used for. These are:
-	+ `header`
-	+ `footer`
-	+ `nav`
-	+ `aside`
-	+ `section`
-	+ `article`
-+ These are effectively just `div` elements. You’ll still need to apply styles to these items like:
-```css
-	footer {
-		background-color: purple;
-		color: white;
-		display:block;
-		float: right;
-}
-```
-+ But it is a little cleaner and saves you some time by eliminating the need to add a div with the class or ID footer.
-+ Not all older browsers support these HTML5 semantic elements but in other cases they just show up as a normal `div` element
-+ So how do we style these `div`s? You probably want to set your `div`s to a certain width and height.
+ You probably want to set your `div`s to a certain width and height.
 + There are several important elements that go into determining the total size of the div though. These include:
 	+ margin - the space that you want between your divs
 	+ border - you might want to include a bold border around your div

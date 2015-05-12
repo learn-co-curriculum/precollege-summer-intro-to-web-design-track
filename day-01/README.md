@@ -72,7 +72,7 @@
 ##SWBATS
 
 ###CLI
-+ Understand and explain what terminal is and why we use it
++ Understand and explain what the terminal is and why we use it
 + Navigate through directories using the `cd` command
 + Use the `ls` command to list items in a directory
 + Use `pwd` to see where they are in the file structure
@@ -94,7 +94,7 @@
 ## Resources
 
 + In General for Day 1:
-  + Students need to download sublime text
+  + Students need to download Sublime Text
 
 ## Lectures
 
