@@ -54,7 +54,11 @@
     <tr>
         <td>2:20 - 2:50</td>
         <td> Git Add, Commit, Push, Pull Request</td>
-        <td><a href="lectures/git-basics">Lecture Guide</a></td>
+        <td>
+            <a href="lectures/git-basics">Lecture Guide</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-git-code-along-catch-up">Interactive Practice: Github I</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-foundations-git-studyguide">Interactive Practice II: Github II</a></br>
+        </td>
     </tr>
     <tr>
         <td>2:50 - 3:00</td>
