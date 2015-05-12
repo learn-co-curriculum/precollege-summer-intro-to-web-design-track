@@ -64,7 +64,7 @@ Yesterday we used CSS to style the fonts, images and backgrounds of our page. To
 	+ This is a pretty good compromise in that it gives you more control over what the user sees, while also making the site flexible for multiple screen sizes.
 	+ 960px is generally the max-width for a smaller screen and 1180px for a larger screen
 	+ Note that setting the height of a div to 100% will only make it 100% as tall as its parent div. If you want it to take up 100% of the page, make sure that the parent div also has a height and min-height that is set to 100%.
-+ ***[Demo](/height.html) these things for students and have them practice/test.*** 
++ ***[Demo](height.html) these things for students and have them practice/test.*** 
 + If you do not set a height for a div it will automatically be tall enough to fit the content. If you set a height you have a few options for how you display the content with the overflow property.
 + Demonstrate how each of these (`visible`, `hidden`, `scroll`, `auto`) 
 	```css
