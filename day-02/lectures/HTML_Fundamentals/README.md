@@ -33,19 +33,37 @@ Yesterday you used a prepared template to create personal pages for our student 
   * In terminal enter: `mkdir css`
 + Add this HTML to `index.html`:
 
-  ```HTML
-  <!doctype html> 
-  <html></html>
-  <head></head>
-  <body></body>
-  ```
+```HTML
+<!doctype html> 
+<html></html>
+<head></head>
+<body></body>
+```
 
-+ What do you want your website to be about, and three things you love about it:
-  * [Corgis?](http://corgiaddict.com/) 
-  * [Bacon?](http://www.royalbaconsociety.com/)
-  * [Sanwiches?](http://fortheloveofsandwich.tumblr.com/) 
-  * [Norwegian Olympic Curling Team’s pants?](https://www.facebook.com/NOCTP)
-+ Header: h1 tags
+You are now have a blank HTML page that's ready to turn into anything!
+
+#### Ideation
+
+People make websites about all sorts of stuff:
++ [Corgis?](http://corgiaddict.com/) 
++ [Bacon?](http://www.royalbaconsociety.com/)
++ [Sanwiches?](http://fortheloveofsandwich.tumblr.com/) 
++ [Norwegian Olympic Curling Team’s pants?](https://www.facebook.com/NOCTP)
+
+*Ask the students for some website ideas about things they love.*
+
+#### HTML tag syntax
+Every HTML tag has an opening and closing tag with its content in the middle. The tag names are contained within angle brackets, and a closing tag has a `/` before the tag name, like so:
+
+```
+<tag_name>
+    .... CONTENT GOES HERE ....
+</tag_name
+```
+
+#### Headers
+
+A header which are usually the title of pages uses the `<h1>` tags
  * Visitors can see right away what your site is about 
  * Google looks for `h1` tags for page topics for search indexing
 + Add the following to your page for each of the three reasons you love your topic:
