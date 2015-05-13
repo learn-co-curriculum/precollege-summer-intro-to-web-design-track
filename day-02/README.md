@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td>1:45 - 2:50</td>
-      <td>Independant Study</td>
+      <td>Independent Study</td>
       <td> 
         <a href="lectures/independent_study">Independent Study Guide</a></br>
 
