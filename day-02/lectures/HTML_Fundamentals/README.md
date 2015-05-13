@@ -1,7 +1,9 @@
-###Objective
+### Objective
+
 Create a brand new HTML page from scratch using HTML5
 
-###SWABTS
+### SWABTS
+
 + Structure an html page using `doctype`, `html`, `head` and `body` tags
 + Explain what goes into the head of the document
 + Add text to a page using `p` and `h1` tags
@@ -15,20 +17,29 @@ Create a brand new HTML page from scratch using HTML5
 + Understand how to use HTML5 `audio` and `video` tags
 
 ### Motivation / Why Should You Care?
+
+HTML is the foundational technology for the Internet, every one of your favorite websites is HTML at its core. 
+
 Yesterday you used a prepared template to create personal pages for our student directory. Today you are going to learn how to create an HTML site from scratch, create your own styles for the page and deploy it to the world wide web with GitHub.
 
 ### Lesson Plan
-+ In terminal from inside `development` directory make a directory called `my_website`
-+ cd into that directory and make a `css` directory and an `index.html` file.
+
+#### Setup
+
+*Students should be able to follow along with this demo*
++ In Nitrous terminal/command line from inside `development` directory make a directory (`mkdir`) called `my_website`
++ `cd` into that directory and make a `css` directory and an `index.html` file.
   * In terminal enter: `touch index.html`
   * In terminal enter: `mkdir css`
-+ In `index.html`:
++ Add this HTML to `index.html`:
+
   ```HTML
   <!doctype html> 
   <html></html>
   <head></head>
   <body></body>
   ```
+
 + What do you want your website to be about, and three things you love about it:
   * [Corgis?](http://corgiaddict.com/) 
   * [Bacon?](http://www.royalbaconsociety.com/)
