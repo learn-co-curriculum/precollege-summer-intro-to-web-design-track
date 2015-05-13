@@ -58,8 +58,6 @@
       <td>2:50 - 3:00</td>
       <td>Wrap</td>
       <td> Micro Feedback
-        <br>
-        Deck
       </td>
     </tr>
 
