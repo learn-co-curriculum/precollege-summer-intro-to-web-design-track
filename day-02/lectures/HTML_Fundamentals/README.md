@@ -32,7 +32,7 @@ Yesterday you used a prepared template to create personal pages for our student 
   * In terminal enter: `mkdir css`
 + Add this HTML to `index.html`:
 
-```HTML
+```html
 <!doctype html> 
 <html></html>
 <head></head>
@@ -54,7 +54,7 @@ People make websites about all sorts of stuff:
 ### Tag syntax
 Every HTML tag has an opening and closing tag with its content in the middle. The tag names are contained within angle brackets, and a closing tag has a `/` before the tag name, like so:
 
-```HTML
+```html
 <tag>
     .... CONTENT GOES HERE ....
 </tag>
@@ -62,14 +62,14 @@ Every HTML tag has an opening and closing tag with its content in the middle. Th
 
 Tags can also have attributes applied to them. These can be thought of as modifying or providing additional information to a tag. If `teacher` was a tag, it might have an attribute `subject` or `personality`.  A tag can have any number of attributes. These are placed in the opening tag like so:
 
-```HTML
+```html
 <tag attribute="attribute value" attribute2="2nd attribute">
     .... CONTENT GOES HERE ....
 </tag>
 ```
 Or with fictional `teacher` tag it would look like
 
-```HTML
+```html
 <teacher subject="coding" personality="super strict">
     .... CONTENT GOES HERE ....
 </teacher>
@@ -81,7 +81,7 @@ Most tags can contain other tags inside of them. When we do this it is customary
 
 *Bad indentation*
 
-```HTML
+```html
 <html><head><title>The end of the world as we know it</title>
 </head><body><p>
 Some text about things</p></body>
@@ -89,7 +89,7 @@ Some text about things</p></body>
 This is not only confusing but can also make it harder to find errors. *Can you spot the missing tag?*
 
 *Good indentation*
-```HTML
+```html
 <html>
   <head>
     <title>
@@ -107,7 +107,7 @@ Using whitespace allows us to much more easily see at-a-glance how the HTML is s
 However, be careful to close (`</tag>`) the nested tag before closing it's parent tag. Let's show a bad example first:
 
 *Bad closing order*
-```HTML
+```html
 <head>
   <body>
 </head>
@@ -117,7 +117,7 @@ However, be careful to close (`</tag>`) the nested tag before closing it's paren
 This is wrong because we should close tags in the reverse order that we opened them. In our case we opened `<head>` then `<body>`, so we need to close them with `</body>` then `</head>`.
 
 *Good closing order*
-```HTML
+```html
 <head>
   <body>
   </body>
@@ -133,7 +133,7 @@ One important type of tag is a header. Headers tell your visitors what your site
 
 Netflix might use headers like this: 
 
-```HTML
+```html
 <!DOCTYPE html>
 <body>
   <h1>Netflix</h1>
@@ -150,16 +150,16 @@ Netflix might use headers like this:
 
 ### Other Tags
 
-+ `<p>` tags, delineate paragraph text.
-+ `<b>` will make any text contained within bold.
-+ `<i>` ... Can you guess?
++ `<p>` tags, delineate paragraph text
++ `<strong>` will make any text contained within bold
++ `<em>` will italicize text or add *emphasis* 
 
 #### Lists
 + Bullet point lists start with `<ul>` for *unordered list*
 + Numbered lists (computer will automatically count up from 1) start with `<ol>` for *ordered list*
 + The actual list items go between `<li>` tags for, you guessed it, *list items*
 
-```HTML
+```html
 <ul>
   <li>item with bullet point</li>
   <li>2nd item with bullet point</li>
@@ -175,14 +175,14 @@ Netflix might use headers like this:
 
 #### Links
 Links use an `<a>` tag, which stands for *anchor*. If you wanted a link to Google it would look like this:
-```HTML
+```html
 <a href="http://www.google.com">Super secret link</a>
 ```
 Notice that the `<a>` tag has an `href=""` attribute! href stands for *hypertext reference*. This is where the link will tell the browser to go when clicked. The text between the opening and closing tags are what the user will see, "Super secret link" in this case.
 
 #### Images
 Images use an `<img>` tag to embed an image in a webpage.
-```HTML
+```html
 <img src="your_image_location">
 ```
 The `src` attribute can be a URL of an image from the Internet or a relative link to an asset on your computer.
