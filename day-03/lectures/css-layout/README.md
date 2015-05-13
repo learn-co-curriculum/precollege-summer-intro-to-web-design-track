@@ -113,19 +113,15 @@ Most browsers display `div`,`p`,`h` in `block` style. That means that each eleme
 + Demo an example. To solve this you can set up a clearfix class like this:
 ```css
 		.clearfix:after {
-			content: "."; /* Content property - inserts the text in quotes */ 
-    	display: block;
-    	clear: both;
-    	visibility: hidden;
-    	height: 0;
-    	line-height: 0;
+			content: ".";  /* Content property - inserts the text in quotes */ 
+    	display: block; /* Display: block (take up the whole width of page) */
+    	clear: both; /* Clear: says which side (right or left) of this element floating elements are allowed - in this case no elements can float right or left */
+    	visibility: hidden; /* Hides the element but leaves it in the layout */
+    	height: 0; /* Height: how tall the element is, in this case, not at all */
+    	line-height: 0; /* Line-Height: on block elements (like this one), specifies the minimum height of line boxes within the element */
 		}
 ```
 
-* Display: block (take up the whole width of page)
-* Clear: says which side (right or left) of this element floating elements are allowed - in this case no elements can float right or left
-* height: how tall the element is, in this case, not at all
-* line-height: on block elements (like this one), specifies the minimum height of line boxes within the element
 + We can also control the positioning of our divs more granularly with CSS positioning techniques like:
 + Relative - will position a div relative to its parent
 + Absolute - will position a div in absolute relation to the screen UNLESS it is within a div that is positioned in some way.
