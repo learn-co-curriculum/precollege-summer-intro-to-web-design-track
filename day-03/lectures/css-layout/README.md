@@ -1,32 +1,34 @@
-### Objective
+# CSS Layout - Lecture Notes
+
+## Objective
 
 Students will be able to use the box model to create cohesive page layouts
 
-### SWBATS
+## SWBATS
 
-#### CSS
-
-+ Understand box model and how it is impacted by padding, margin and border
++ Understand box model and how it is affected by padding, margin and border
 + Understand how to use box-sizing property to standardize the box-model across browsers
-+ use content overflow property - visible, hidden, scroll, auto
-+ understand inline vs. block vs. inline-block element displays
-+ understand how to use float and clear properties
-+ understand how to apply clearfix solution
-+ understand how to use CSS position properties - relative, absolute and fixed
++ Use content overflow property - visible, hidden, scroll, auto
++ Understand inline vs. block vs. inline-block element displays
++ Understand how to use float and clear properties
++ Understand how to apply clearfix solution
++ Understand how to use CSS position properties - relative, absolute and fixed
 + Use background properties for box styling
 
 
-### Motivation
+## Motivation
 
 Yesterday we used CSS to style the fonts, images and backgrounds of our page. Today we’re going to learn how to use CSS to break up and arrange the content on our page.
 
-### Lesson Plan
+## Lesson Plan
+
+### Box Model
 
  You probably want to set your `div`s to a certain width and height.
 + There are several important elements that go into determining the total size of the div though. These include:
-	+ margin - the space that you want between your divs
-	+ border - you might want to include a bold border around your div
-	+ padding - how much space you want between the edge of your div and the content inside your div
+	+ Margin - the space that you want between your divs
+	+ Border - you might want to include a bold border around your div
+	+ Padding - how much space you want between the edge of your div and the content inside your div
 + For instance - this is what your page might look like if you do not take these things into account: <a href="no-padding.html">here is an example</a>.
   * Play around with inspect element and noticing what changes when you modify each param
 + These sizing attributes are part of something that we call the box model.
@@ -65,6 +67,9 @@ Yesterday we used CSS to style the fonts, images and backgrounds of our page. To
 	+ 960px is generally the max-width for a smaller screen and 1180px for a larger screen
 	+ Note that setting the height of a div to 100% will only make it 100% as tall as its parent div. If you want it to take up 100% of the page, make sure that the parent div also has a height and min-height that is set to 100%.
 + ***[Demo](height.html) these things for students and have them practice/test.*** 
+
+### Overflow Visibility 
+
 + If you do not set a height for a div it will automatically be tall enough to fit the content. If you set a height you have a few options for how you display the content with the overflow property.
 + Demonstrate how each of these (`visible`, `hidden`, `scroll`, `auto`) 
 	```css
@@ -74,21 +79,26 @@ Yesterday we used CSS to style the fonts, images and backgrounds of our page. To
 	```
 + Have students practice with [this example](http://jsfiddle.net/flatiron_school/sFfw5/)
 
+### Display Type
 
-+ Another default for most browsers is to display divs,p,h in block style. That means that each element on the page will be displayed directly below the next one and take up the whole width of the page.
-	+ displays one above the other, takes up the whole line. Able to specify width and top and bottom margin
-	+ margins will overlap for block elements (above and below) but not for inline elements (horizontal)
-+ There are a few other elements like spans and images which display inline - meaning they show up side by side. 
-	+ appears side by side does not accept width or top and bottom margins
+Most browsers display `div`,`p`,`h` in `block` style. That means that each element on the page will be displayed directly below the next one and take up the whole width of the page. 
++ There are a few other elements, such as `span`s and `img`s which display inline - meaning they show up side by side. 
+	+ Appears side by side does not accept width or top and bottom margins
 	+ [Example](http://jsfiddle.net/flatiron_school/352A6/1/)
-+ We can change this by modifying the display property like this: 
++ We can change the default display property in CSS like this: 
 	+ `display: block;`
 	+ `display: inline;`
 	+ `display: inline-block;`
++ Margins will overlap for block elements (above and below) but not for inline elements (horizontal)
 
 <img src="https://s3.amazonaws.com/after-school-assets/display-property.png">
 
-+ That last one inline-block is sort of a combo of the other two - which seems like the best of both worlds - except here you can see that using inline-block doesn’t give us as much control - this element is kind of floating here instead of aligning at the top - display with jsfiddle. You can use inline-block just be aware of how it affects your layout.
++ The `inline-block` is sort of a combo of the other two - the content of each item stays seperate, but display inline next to each other. 
+
++ This seems like the best of both worlds - except that using inline-block doesn’t give us as much control - this element is kind of floating here instead of aligning at the top - display with jsfiddle. You can use inline-block just be aware of how it affects your layout.
+
+### Float
+
 + By using the `float` property with display: block; you should have good control over how things are displayed on the page - including placement AND width/height + margins.
 + The float property accepts two values: right and left.
 	+ ***Demo how float works with three divs.***
