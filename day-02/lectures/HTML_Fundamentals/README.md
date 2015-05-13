@@ -1,10 +1,10 @@
 # HTML Fundamentals
 
-### Objective
+## Objective
 
 Create a brand new HTML page from scratch using HTML5
 
-### SWABTS
+## SWABTS
 
 + Structure an html page using `doctype`, `html`, `head` and `body` tags
 + Explain what goes into the head of the document
@@ -15,15 +15,15 @@ Create a brand new HTML page from scratch using HTML5
 + Create an ordered list using `ul` and `ol` tags
 + Understand how to use HTML5 `audio` and `video` tags
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 
 HTML is the foundational technology for the Internet, every one of your favorite websites is HTML at its core. 
 
 Yesterday you used a prepared template to create personal pages for our student directory. Today you are going to learn how to create an HTML site from scratch, create your own styles for the page and deploy it to the world wide web with GitHub.
 
-### Lesson Plan
+## Lesson Plan
 
-#### Setup
+### Setup
 
 *Students should be able to follow along with this demo*
 + In Nitrous terminal/command line from inside `development` directory make a directory (`mkdir`) called `my_website`
@@ -41,7 +41,7 @@ Yesterday you used a prepared template to create personal pages for our student 
 
 You are now have a blank HTML page that's ready to turn into anything!
 
-#### Ideation
+### Ideation
 
 People make websites about all sorts of stuff:
 + [Corgis?](http://corgiaddict.com/) 
@@ -51,7 +51,7 @@ People make websites about all sorts of stuff:
 
 *Ask the students for some website ideas about things they love.*
 
-#### Tag syntax
+### Tag syntax
 Every HTML tag has an opening and closing tag with its content in the middle. The tag names are contained within angle brackets, and a closing tag has a `/` before the tag name, like so:
 
 ```HTML
@@ -75,7 +75,7 @@ Or with fictional `teacher` tag it would look like
 </teacher>
 ```
 
-#### Tag Nesting and Whitespace
+### Tag Nesting and Whitespace
 
 Most tags can contain other tags inside of them. When we do this it is customary to indent the nested tags and their content by 2 or 4 spaces. This is to make it easier to read for humans. Computers only care that you close the tags.
 
@@ -125,7 +125,7 @@ This is wrong because we should close tags in the reverse order that we opened t
 ```
 Notice that when you do it right, the indentation/whitespace makes sense.
 
-#### Headers
+### Headers
 
 One important type of tag is a header. Headers tell your visitors what your site is about. Usually, the main title of pages uses the `<h1>` tag. 
  * Google looks for `h1` tags to figure out what a page is about. 
@@ -148,7 +148,7 @@ Netflix might use headers like this:
 </body>
 ```
 
-#### Other Tags
+### Other Tags
 
 + `<p>` tags, delineate paragraph text.
 + `<b>` will make any text contained within bold.
@@ -187,9 +187,9 @@ Images use an `<img>` tag to embed an image in a webpage.
 ```
 The `src` attribute can be a URL of an image from the Internet or a relative link to an asset on your computer.
 
-### Practice
+## Practice
 
-#### Adding sections
+### Adding sections
 
 For your new website about a thing you love, create three sections describing why you love that thing using the following format:
 + a subheader for the top (using h2-h6 tags)
@@ -197,7 +197,7 @@ For your new website about a thing you love, create three sections describing wh
 + an image that goes along with the thing 
 + a link to somewhere on the web where I can find more information about the topic. 
 
-#### Adding pages
+### Adding pages
 
 Add pages to your site by creating three separate html files 
 + Start each page with the proper HTML tag structure (`html`, `body`, `title`, ...)
