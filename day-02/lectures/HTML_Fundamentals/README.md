@@ -52,29 +52,79 @@ People make websites about all sorts of stuff:
 
 *Ask the students for some website ideas about things they love.*
 
-#### HTML tag syntax
+#### Tag syntax
 Every HTML tag has an opening and closing tag with its content in the middle. The tag names are contained within angle brackets, and a closing tag has a `/` before the tag name, like so:
 
 ```HTML
-<tag_name>
+<tag>
     .... CONTENT GOES HERE ....
-</tag_name
+</tag>
 ```
 
 Tags can also have attributes applied to them. These can be thought of as modifying or providing additional information to a tag. If `teacher` was a tag, it might have an attribute `subject` or `personality`.  A tag can have any number of attributes. These are placed in the opening tag like so:
 
 ```HTML
-<tag_name attribute="attribute value" attribute2="2nd attribute">
+<tag attribute="attribute value" attribute2="2nd attribute">
     .... CONTENT GOES HERE ....
-</tag_name>
+</tag>
 ```
-Or with the `teacher` tag it would look like
+Or with fictional `teacher` tag it would look like
 
 ```HTML
 <teacher subject="coding" personality="super strict">
     .... CONTENT GOES HERE ....
 </teacher>
 ```
+
+#### Tag Nesting and Whitespace
+
+Most tags can contain other tags inside of them. When we do this it is customary to indent the nested tags and their content by 2 or 4 spaces. This is to make it easier to read for humans. Computers only care that you close the tags.
+
+*Bad*
+
+```HTML
+<html><head><title>The end of the world as we know it</title>
+</head><body><p>
+Some text about things</p></body>
+```
+This is not only confusing but can also make it harder to find errors. *Can you spot the missing tag?*
+
+*Good*
+```HTML
+<html>
+  <head>
+    <title>
+      The end of the world as we know it
+    </title>
+  </head>
+  <body>
+    <p>
+      Some text about things
+    </p>
+  </body>
+```
+Using whitespace allows us to much more easily see at-a-glance how the HTML is structured.  *Can you spot the missing tag now that they all line up?* (closing `</html>` tag is missing.)
+
+However, be careful to close (`</tag>`) the nested tag before closing it's parent tag. Let's show a bad example first:
+
+*Bad*
+```HTML
+<head>
+  <body>
+</head>
+</body
+```
+
+This is wrong because we should close tags in the reverse order that we opened them. In our case we opened `<head>` then `<body>`, so we need to close them with `</body>` then `</head>`.
+
+*Good*
+```HTML
+<head>
+  <body>
+  </body
+</head>
+```
+Notice that when you do it right, the indentation/whitespace makes sense.
 
 #### Headers
 
