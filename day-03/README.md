@@ -12,9 +12,9 @@
         <td>9:00 - 9:15</td>
         <td> To Dos</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/css-kitten-wheelbarrow">Kitten Wheelbarrow</a>
+            <a href="https://github.com/learn-co-curriculum/css-kitten-wheelbarrow">To-Do: Kitten Wheelbarrow</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/Dev-Tools-Super-Power">Dev Tools Super Power</a>
+            <a href="https://github.com/learn-co-curriculum/Dev-Tools-Super-Power">To-Do: Dev Tools Super Power</a>
         </td>
     </tr>
     <tr>

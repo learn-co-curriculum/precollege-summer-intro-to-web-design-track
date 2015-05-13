@@ -1,14 +1,16 @@
-#### HTML
+# HTML-5 - Lecture Notes
+
+## SWBATs
 
 + break up a page with divs
 + Understand how to use HTML5 semantic elements - header, footer, nav, etc.
 
 
-### Motivation
+## Motivation
 
 We've already learned some of the basics of using html tags. Today, we're going to use semantic tags to break up and describe the content of our page. 
 
-### Why Should I Care?
+## Why Should I Care?
 
 HTML code can be hard for a human being to read! Breaking up and describing our content makes it easier to collborate with other programmers. 
 
@@ -45,4 +47,37 @@ HTML code can be hard for a human being to read! Breaking up and describing our 
 ```
 + But it is a little cleaner and saves you some time by eliminating the need to add a div with the class or ID footer.
 + Not all older browsers support these HTML5 semantic elements but in other cases they just show up as a normal `div` element
+
+## Fancy audio/video tags
+
++ HTML5 makes it super easy to embed video and audio into your website with these tags:
++ Audio:
+  ```html
+    <audio>
+        <source src="audio.mp3" type="audio/mp3">
+        <source src="audio.ogg" type="audio/ogg”> 
+        <!-– fallback content here -->
+    </audio>
+  ```
++ Video
+  ```html
+    <video>
+        <source src="movie.mp4" type="video/mp4">
+        <source src="movie.ogv" type="video/ogg">
+        <source src="movie.webm" type="video/webm”>
+        <!-– fall back content here -->
+      </video>
+  ```
++ The fallback content is important because there are still old browsers out there that are not good at handling HTML5 audio and video elements.
++ Check out this great [resource](http://caniuse.com/) for checking out HTML5 compatibility
++ You can also embed YouTube video's really easily. Just go to the YouTube site for a video you like. Follow these steps:
+
+[Embed a Youtube Video](https://support.google.com/youtube/answer/171780?hl=en)
+
++ *Try adding an audio or video to your personal website.*
++ iTunes encrypts audio files so they won't be able to be played with the audio tags. Students have to use legally acquired mp3 files - You can download Girl Talk's album for free [here](http://illegalart.net/girltalk/shop/)
+
+
 + So how do we style these `div`s? Let's find out!!!
+
+
