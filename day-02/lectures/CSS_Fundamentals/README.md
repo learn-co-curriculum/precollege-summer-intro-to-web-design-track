@@ -14,7 +14,7 @@ Create a brand new HTML page and style it with CSS
 + Use hexadecimal, rgba, and rgb color values
 
 ### Motivation / Why Should You Care?
-Have Justin Bieber’s twitter page up with all stylesheets unlinked (with dev tools can just delete all the link tags). Explain that this is what his twitter looks like with JUST HTML. It’s a lot like what our sites look like with just HTML.
+Have Beyonce’s twitter page up with all stylesheets unlinked (with dev tools can just delete all the link tags). Explain that this is what his twitter looks like with JUST HTML. It’s a lot like what our sites look like with just HTML.
 Have students point out things that look different, from what it normally looks like -- all the styling.
 So far, all we’ve been able to do is put content on a page with HTML to make some ugly looking websites. So how do we actually make our sites stuff look good? CSS!
 CSS stands for Cascading Style Sheets. We write CSS in separate files, so that each file of our web site does one job and one job only. Single purpose files. 
