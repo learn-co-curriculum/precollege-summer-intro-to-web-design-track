@@ -11,15 +11,18 @@
     <tr>
         <td>9:00 - 9:15</td>
         <td> To Dos</td>
-        <td><a href="https://github.com/learn-co-curriculum/hs-cli-world-travel-todo">World Travel</a>
+        <td>
+        <a href="https://docs.google.com/presentation/d/13WdKRsOFH1jBkkdLtMhrjSPVCRljYivgM3JUMLgpNmY/edit">Day 2 Deck</a></br>
+        <a href="https://github.com/learn-co-curriculum/hs-cli-world-travel-todo">To Do: World Travel</a>
         <br>
-        <a href="https://github.com/learn-co-curriculum/Html-Album-Cover"> Happy</a>
+        <a href="https://github.com/learn-co-curriculum/Html-Album-Cover">To Do: Happy</a>
         </td>
     </tr>
     <tr>
         <td>9:15 - 10:00</td>
         <td>HTML Fundamentals </td>
-        <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html-fundamentals">Teacher Guide</a></td>
+        <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html-fundamentals">Teacher Guide</a>
+        </td>
     </tr>
     <tr>
       <td>10:00 - 11:00</td>
