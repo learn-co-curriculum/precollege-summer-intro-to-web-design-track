@@ -55,10 +55,25 @@ People make websites about all sorts of stuff:
 #### HTML tag syntax
 Every HTML tag has an opening and closing tag with its content in the middle. The tag names are contained within angle brackets, and a closing tag has a `/` before the tag name, like so:
 
-```
+```HTML
 <tag_name>
     .... CONTENT GOES HERE ....
 </tag_name
+```
+
+Tags can also have attributes applied to them. These can be thought of as modifying or providing additional information to a tag. If `teacher` was a tag, it might have an attribute `subject` or `personality`.  A tag can have any number of attributes. These are placed in the opening tag like so:
+
+```HTML
+<tag_name attribute="attribute value" attribute2="2nd attribute">
+    .... CONTENT GOES HERE ....
+</tag_name>
+```
+Or with the `teacher` tag it would look like
+
+```HTML
+<teacher subject="coding" personality="super strict">
+    .... CONTENT GOES HERE ....
+</teacher>
 ```
 
 #### Headers
