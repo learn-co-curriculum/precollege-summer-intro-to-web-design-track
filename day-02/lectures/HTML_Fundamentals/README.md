@@ -13,7 +13,6 @@ Create a brand new HTML page from scratch using HTML5
 + Add links using `a` tags and understand the difference between relative and absolute paths
 + Create multiple pages and link them
 + Create an ordered list using `ul` and `ol` tags
-+ Understand how to use HTML5 `audio` and `video` tags
 
 ## Motivation / Why Should You Care?
 

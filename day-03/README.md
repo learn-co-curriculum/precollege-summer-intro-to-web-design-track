@@ -66,6 +66,7 @@
 
 + Break up a page with divs
 + Understand how to use HTML5 semantic elements - header, footer, nav, etc.
++ Understand how to use HTML5 `audio` and `video` tags
 
 ###CSS
 
