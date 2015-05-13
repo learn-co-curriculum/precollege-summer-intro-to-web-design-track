@@ -121,22 +121,23 @@ Most browsers display `div`,`p`,`h` in `block` style. That means that each eleme
     	line-height: 0; /* Line-Height: on block elements (like this one), specifies the minimum height of line boxes within the element */
 		}
 ```
+### Positioning and Z-Index
 
 + We can also control the positioning of our divs more granularly with CSS positioning techniques like:
-+ Relative - will position a div relative to its parent
-+ Absolute - will position a div in absolute relation to the screen UNLESS it is within a div that is positioned in some way.
-+ Fixed - Will position the div at a fixed place on the page - even if the person scrolls down the fixed div will stay on their screen.
++ `relative` - will position a `div` relative to its parent
++ `absolute` - will position a `div` in absolute relation to the screen UNLESS it is within a `div` that is positioned in some way.
++ `fixed` - Will position the `div` at a fixed place relative to the browser window - even if the person scrolls down the fixed `div` will stay on their screen.
 + Let’s take a look at how this works with this [example](http://jsfiddle.net/flatiron_school/rgyPC/1/).
 + One last thing you can control when it comes to positioning is the `z-index` which lets you layer divs and control their position into the third dimension!
 + Divs with a higher z-index will be positioned on top of elements with a lower z-index or no z index at all.
 + Here is an example:
 ```css
-	.bluebox {
-     position: relative;
-     top: 125px;
-     left: 125px;
-     z-index: 3;
-	 }
+.bluebox {
+   position: relative;
+   top: 125px;
+   left: 125px;
+   z-index: 3;
+ }
 ```
 <img src="https://s3.amazonaws.com/after-school-assets/z-index.png">
 
