@@ -23,14 +23,17 @@
         <td>HTML Fundamentals </td>
         <td> 
           <a href="lectures/HTML_Fundamentals">Lecture: HTML Fundamentals</a></br>
-          <a href="https://docs.google.com/presentation/d/1eU-4wD5dsxV1t-3CA3T82gbv2K3pAs92pq30HlmXM_U/edit">Slides: HTML Fundamentals</a></br>
+          <a href="https://docs.google.com/presentation/d/1eU-4wD5dsxV1t-3CA3T82gbv2K3pAs92pq30HlmXM_U/edit">Resource: HTML Fundamentals Slides</a></br>
           <a href="https://github.com/learn-co-curriculum/HTML-ISSUE-BOT-9000">Lab: HTML Issue Bot 9000</a>
         </td>
     </tr>
     <tr>
       <td>10:00 - 11:00</td>
       <td>CSS Fundamentals </td>
-      <td> <a href="lectures/CSS_Fundamentals">Lecture: CSS Fundamentals<a/></td>
+      <td> 
+        <a href="lectures/CSS_Fundamentals">Lecture: CSS Fundamentals</a></br>
+        <a href="https://docs.google.com/presentation/d/1wTkUPKfSKt7ueUeKsZ6cYQ0RjRzpnEDLCqKKTB041P8/edit#slide=id.p19">Resource: CSS Fundamentals Slides</a></br>
+      </td>
     </tr>
     <tr>
       <td>11:00 - 11:30</td>

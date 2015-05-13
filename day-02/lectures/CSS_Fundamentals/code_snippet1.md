@@ -19,14 +19,14 @@ Note that setting both `width` and `height` may cause an image to stretch. Typic
 ```
 ```css
   img {
-    width: 50px
+    width: 50px;
   }
 ```
 
 ### Centering Text
 
 ```html
-  <h2> I love kittens <h2>
+  <h2> I love kittens </h2>
 ```
 
 ```css
