@@ -19,7 +19,7 @@ Here you'll find:
 
 ### [Day 4 - Advanced Styling](day-04/)
 
-### [Day 5 - User Experiencee](day-05/)
+### [Day 5 - User Experience](day-05/)
 
 ### [Day 6 - jQuery Basics](day-06/)
 
