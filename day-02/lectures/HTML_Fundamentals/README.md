@@ -156,9 +156,9 @@ Netflix might use headers like this:
 + `<i>` ... Can you guess?
 
 Lists
-+ Bullet point lists start with `<ul>` for "unordered list"
-+ Numbered lists (computer will automatically count up from 1) start with `<ol>` for "ordered list"
-+ The actual list items go between `<li>` tags for, you guessed it, "list items"
++ Bullet point lists start with `<ul>` for *unordered list*
++ Numbered lists (computer will automatically count up from 1) start with `<ol>` for *ordered list*
++ The actual list items go between `<li>` tags for, you guessed it, *list items*
 
 ```HTML
 <ul>
@@ -175,7 +175,15 @@ Lists
 ```
 
 Links
-+ Links go
++ Links use an `<a>` tag, which stands for *anchor*. If you wanted a link to Google it would look like this:
+```HTML
+<a href="http://www.google.com">Super secret link</a>
+```
+Notice that the `<a>` tag has an `href=""` attribute! href stands for *hypertext reference*. This is where the link will tell the browser to go when clicked. The text between the opening and closing tags are what the user will see, "Super secret link" in this case.
+
+
+
+
 
 
 + Add the following to your page for each of the three reasons you love your topic:
