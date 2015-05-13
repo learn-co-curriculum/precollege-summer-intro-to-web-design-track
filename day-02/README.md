@@ -58,7 +58,10 @@
     <tr>
       <td>1:45 - 2:50</td>
       <td>Independant Study</td>
-      <td> <a href="lectures/independent_study">Independent Study Guide</a></td>
+      <td> 
+        <a href="lectures/independent_study">Independent Study Guide</a></br>
+
+      </td>
     </tr>
     <tr>
       <td>2:50 - 3:00</td>
@@ -80,8 +83,6 @@
 + add links using `a` tags and understand the difference between relative and absolute paths
 + create multiple pages and link them
 + create lists using `ul` and `ol`
-+ include comments
-+ create and understand when to use tables
 + difference between `id` and `class`
 + Understand when to use `id` vs. `class`
 + understand how to use HTML5 `audio` and `video` tags
