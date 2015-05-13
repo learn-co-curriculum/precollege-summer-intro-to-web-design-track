@@ -21,7 +21,9 @@
     <tr>
         <td>9:15 - 10:00</td>
         <td>HTML Fundamentals </td>
-        <td> <a href="lectures/HTML_Fundamentals">Lecture: HTML Fundamentals</a>
+        <td> 
+          <a href="lectures/HTML_Fundamentals">Lecture: HTML Fundamentals</a></br>
+          <a href="https://github.com/learn-co-curriculum/HTML-ISSUE-BOT-9000">Lab: HTML Issue Bot 9000</a>
         </td>
     </tr>
     <tr>
