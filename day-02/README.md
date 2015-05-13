@@ -42,7 +42,7 @@
     <tr>
       <td>12:30 - 1:15</td>
       <td>How The Internet Works</td>
-      <td> <a href="lectures/how_the_internet_works">Teacher Guide</a></td>
+      <td> <a href="lectures/how_the_internet_works">Lecture: How the Internet Works</a></td>
     </tr>
     <tr>
       <td>1:15 - 1:45</td>
