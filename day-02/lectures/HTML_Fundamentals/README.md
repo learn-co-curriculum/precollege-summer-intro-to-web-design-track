@@ -205,7 +205,7 @@ Add pages to your site by creating three separate html files
   * If your site has `index.html` and `facts.html` and they're in the same directory, having a link from `index.html` to `facts.html` looks like this: `<a href="facts.html">click here for more facts</a>`. This is a relative link.
 + Put links in an unordered list using `ul` and `li` tags
 
-### Fancy audio/video tags
+## Fancy audio/video tags
 
 + HTML5 makes it super easy to embed video and audio into your website with these tags:
 + Audio:
@@ -234,10 +234,10 @@ Add pages to your site by creating three separate html files
 + *Try adding an audio or video to your personal website.*
 
 
-### Conclusion / So What?
+## Conclusion / So What?
 HTML allows us to define and label the content of our page. Across browsers, there isn't a specification about how text without tags should be rendered. You have no control over how it's displayed, and in future versions of a browser, your code might not be displayed.
 
-### Hints and Hurdles
+## Hints and Hurdles
 + An HTML element is composed of an opening tag, content, and a closing tag
 + Students should have their HTML files in both the browser and in the text editor. 
 + iTune encrypts audio files so they won't be able to be played with the audio tags. Students have to use legally acquired mp3 files - You can download Girl Talk's album for free [here](http://illegalart.net/girltalk/shop/)
