@@ -149,6 +149,35 @@ Netflix might use headers like this:
 </body>
 ```
 
+#### Other Tags
+
++ `<p>` tags, delineate paragraph text.
++ `<b>` will make any text contained within bold.
++ `<i>` ... Can you guess?
+
+Lists
++ Bullet point lists start with `<ul>` for "unordered list"
++ Numbered lists (computer will automatically count up from 1) start with `<ol>` for "ordered list"
++ The actual list items go between `<li>` tags for, you guessed it, "list items"
+
+```HTML
+<ul>
+  <li>item with bullet point</li>
+  <li>2nd item with bullet point</li>
+  <li>another list item</li>
+</ul>
+
+<ol>
+  <li>Numbered item</li>
+  <li>List item #2</li>
+  <li>Third list item</li>
+</ol>
+```
+
+Links
++ Links go
+
+
 + Add the following to your page for each of the three reasons you love your topic:
   * a subheader for the top (using h2-h6 tags)
   * a `p` tag with a short descriptive paragraph
