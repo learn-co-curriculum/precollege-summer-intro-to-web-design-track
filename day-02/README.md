@@ -60,14 +60,15 @@
     <tr>
       <td>1:15 - 1:45</td>
       <td>Improv</td>
-      <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Games to Play</a></td>
+      <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
     </tr>
     <tr>
       <td>1:45 - 2:50</td>
       <td>Independent Study</td>
       <td> 
         <a href="lectures/independent_study">Independent Study Guide</a></br>
-
+        Students who want to can work on the Riyadh Blog lab for HTML/CSS practice.</br>
+        <a href="https://github.com/learn-co-curriculum/FE-RIYADH-BLOG">Lab: Riyadh Blog</a></br>
       </td>
     </tr>
     <tr>
