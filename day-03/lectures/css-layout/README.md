@@ -113,7 +113,7 @@ Most browsers display `div`,`p`,`h` in `block` style. That means that each eleme
 + Demo an example. To solve this you can set up a clearfix class like this:
 ```css
 		.clearfix:after {
-			content: ".";
+			content: "."; /* Content property - inserts the text in quotes */ 
     	display: block;
     	clear: both;
     	visibility: hidden;
@@ -121,7 +121,7 @@ Most browsers display `div`,`p`,`h` in `block` style. That means that each eleme
     	line-height: 0;
 		}
 ```
-* Content property - inserts the text in quotes 
+
 * Display: block (take up the whole width of page)
 * Clear: says which side (right or left) of this element floating elements are allowed - in this case no elements can float right or left
 * height: how tall the element is, in this case, not at all
