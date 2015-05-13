@@ -45,7 +45,10 @@
     <tr>
       <td>11:00 - 11:30</td>
       <td>Design Principal: Visual Hierarchy </td>
-      <td> <a href="lectures/visual_hierarchy">Lecture: Visual Hierarchy</a></td>
+      <td> 
+        <a href="https://docs.google.com/presentation/d/1zDmP-gLao4qE5Fi6qBwQ66cSQccfKN-mZDIKbcLDmFE/edit#slide=id.gafebb4385_0_32">Deck: Visual Hierarchy</a></br>
+        <a href="lectures/visual_hierarchy">Lecture: Visual Hierarchy</a></br>
+      </td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
@@ -112,6 +115,8 @@
 ## Resources
 
 [Deck: How The Internet Works](https://docs.google.com/presentation/d/1t0MNjDKfmiSJSG0LP3dmEfK25guIIW8tncV41Hugk2E/edit#slide=id.gafe5def2e_0_109)
+
+[Deck: Visual Hierarchy](https://docs.google.com/presentation/d/1zDmP-gLao4qE5Fi6qBwQ66cSQccfKN-mZDIKbcLDmFE/edit#slide=id.gafebb4385_0_32)
 
 ## Lectures
 

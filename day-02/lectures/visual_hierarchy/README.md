@@ -1,3 +1,6 @@
+# Visual Hierarchy - Lecture Notes
+
+
 ##Objective
 Students will be able to Understand and use concepts of visual hierarchy to provide appropriate weight to the important features of a site.
 
@@ -5,7 +8,9 @@ Students will be able to Understand and use concepts of visual hierarchy to prov
 You may have a great idea for a website and build something that works, but soon notice that people are coming and then leaving after a very short amount of time. They're not engaging or clicking on any of the links. Sometimes they might end up not being interested in your sight, but without a good design, it could be that users can't find the things they're looking for.
 
 ### Lesson Plan
-***NEED A DECK FOR THIS!!!***
+
+[Deck](https://docs.google.com/presentation/d/1zDmP-gLao4qE5Fi6qBwQ66cSQccfKN-mZDIKbcLDmFE/edit#slide=id.gafebb4385_0_32)
+
 * helps you organize and prioritize the most important content on the page in a way that helps users understand the purpose of your site and navigate throughout the site.
 * Where do you want your audience to look first? 
 * What is the call-to-action that you need to draw attention to?
