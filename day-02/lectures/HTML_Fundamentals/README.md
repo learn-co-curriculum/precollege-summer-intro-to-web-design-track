@@ -130,7 +130,7 @@ Notice that when you do it right, the indentation/whitespace makes sense.
 
 One important type of tag is a header. Headers tell your visitors what your site is about. Usually, the main title of pages uses the `<h1>` tag. 
  * Google looks for `h1` tags to figure out what a page is about. 
-+ We also have subheaders we can use - our header tags range from '<h1>' through '<h6>', which range from largest to smallest.
++ We also have subheaders we can use - our header tags range from `<h1>` through `<h6>`, which range from largest to smallest.
 
 Netflix might use headers like this: 
 
