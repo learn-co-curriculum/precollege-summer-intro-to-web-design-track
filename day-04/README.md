@@ -32,7 +32,7 @@
         <td>10:20 - 11:30</td>
         <td> Selector Labs </td>
         <td>
-        Graffiti Override
+        <a href="https://github.com/learn-co-curriculum/Css-Graffiti-Override">Lab: Graffiti Override</a>
         </br>
         Pseudo Selector Lab***
         </br>
