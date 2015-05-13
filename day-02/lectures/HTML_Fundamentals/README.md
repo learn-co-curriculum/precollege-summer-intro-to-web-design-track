@@ -80,7 +80,7 @@ Or with fictional `teacher` tag it would look like
 
 Most tags can contain other tags inside of them. When we do this it is customary to indent the nested tags and their content by 2 or 4 spaces. This is to make it easier to read for humans. Computers only care that you close the tags.
 
-*Bad*
+*Bad indentation*
 
 ```HTML
 <html><head><title>The end of the world as we know it</title>
@@ -89,7 +89,7 @@ Some text about things</p></body>
 ```
 This is not only confusing but can also make it harder to find errors. *Can you spot the missing tag?*
 
-*Good*
+*Good indentation*
 ```HTML
 <html>
   <head>
@@ -107,7 +107,7 @@ Using whitespace allows us to much more easily see at-a-glance how the HTML is s
 
 However, be careful to close (`</tag>`) the nested tag before closing it's parent tag. Let's show a bad example first:
 
-*Bad*
+*Bad closing order*
 ```HTML
 <head>
   <body>
@@ -117,7 +117,7 @@ However, be careful to close (`</tag>`) the nested tag before closing it's paren
 
 This is wrong because we should close tags in the reverse order that we opened them. In our case we opened `<head>` then `<body>`, so we need to close them with `</body>` then `</head>`.
 
-*Good*
+*Good closing order*
 ```HTML
 <head>
   <body>
