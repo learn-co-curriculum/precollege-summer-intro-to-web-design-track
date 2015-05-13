@@ -64,7 +64,7 @@
     <tr>
         <td>2:50 - 3:00</td>
         <td> Wrap Up</td>
-        <td> Micro Feedback - Deck</td>
+        <td> Micro Feedback</td>
     </tr>
 
 </table>
