@@ -128,13 +128,13 @@ Notice that when you do it right, the indentation/whitespace makes sense.
 
 #### Headers
 
-One important type of tag is a header. Headers tell your visiots what your site is about. Usually, the main title of pages uses the `<h1>` tag. 
+One important type of tag is a header. Headers tell your visitors what your site is about. Usually, the main title of pages uses the `<h1>` tag. 
  * Google looks for `h1` tags to figure out what a page is about. 
-+ We also have subheaders we can use - our header tags range from '<h1>' through '<h6>'
++ We also have subheaders we can use - our header tags range from '<h1>' through '<h6>', which range from largest to smallest.
 
 Netflix might use headers like this: 
 
-'''HTML
+```HTML
 <!DOCTYPE html>
 <body>
   <h1>Netflix</h1>
@@ -147,7 +147,8 @@ Netflix might use headers like this:
   <h3>Horror</h3>
   <!-- Horror Movies here! -->
 </body>
-'''
+```
+
 + Add the following to your page for each of the three reasons you love your topic:
   * a subheader for the top (using h2-h6 tags)
   * a `p` tag with a short descriptive paragraph
