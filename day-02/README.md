@@ -21,28 +21,28 @@
     <tr>
         <td>9:15 - 10:00</td>
         <td>HTML Fundamentals </td>
-        <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html-fundamentals">Teacher Guide</a>
+        <td> <a href="lectures/HTML_Fundamentals">Lecture: HTML Fundamentals</a>
         </td>
     </tr>
     <tr>
       <td>10:00 - 11:00</td>
       <td>CSS Fundamentals </td>
-      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-fundamentals">Teacher Guide<a/></td>
+      <td> <a href="lectures/CSS_Fundamentals">Lecture: CSS Fundamentals<a/></td>
     </tr>
     <tr>
       <td>11:00 - 11:30</td>
       <td>Design Principal: Visual Hierarchy </td>
-      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-visual-hierarchy">Teacher Guide</a></td>
+      <td> <a href="lectures/visual_hierarchy">Lecture: Visual Hierarchy</a></td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
-      <td>EAT FOOD</td>
+      <td>Lunch</td>
       <td></td>
     </tr>
     <tr>
       <td>12:30 - 1:15</td>
       <td>How The Internet Works</td>
-      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-internet">Teacher Guide</a></td>
+      <td> <a href="lectures/how_the_internet_works">Teacher Guide</a></td>
     </tr>
     <tr>
       <td>1:15 - 1:45</td>
@@ -52,7 +52,7 @@
     <tr>
       <td>1:45 - 2:50</td>
       <td>Independant Study</td>
-      <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-independent-study">Independent Study Guide</a></td>
+      <td> <a href="lectures/independent_study">Independent Study Guide</a></td>
     </tr>
     <tr>
       <td>2:50 - 3:00</td>
@@ -98,12 +98,12 @@
 
 ## Lectures
 
-<a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html-fundamentals">HTML Fundamentals</a>
+<a href="lectures/HTML_Fundamentals">HTML Fundamentals</a>
 
-<a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-fundamentals">CSS Fundamentals</a>
+<a href="lectures/CSS_Fundamentals">CSS Fundamentals</a>
 
-<a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-visual-hierarchy">Visual Hierarchy</a>
+<a href="lectures/visual_hierarchy">Visual Hierarchy</a>
 
-<a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-internet">How The Internet Works</a>
+<a href="lectures/how_the_internet_works">How The Internet Works</a>
 
-<a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-independent-study">Independant Study Guide</a>
+<a href="lectures/independant_study">Independant Study Guide</a>
