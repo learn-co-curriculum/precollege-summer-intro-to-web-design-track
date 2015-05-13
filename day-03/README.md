@@ -27,7 +27,7 @@
     <tr>
         <td>10:00 - 11:30</td>
         <td> CSS Layout</td>
-        <td> <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-layout"> Teacher Guide</a>
+        <td> <a href="lectures/css-layout">Lecture: CSS Layout</a>
         </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@
     </tr>
     <tr>
         <td>1:50 - 2:50</td>
-        <td> Independant Study</td>
+        <td> Independent Study</td>
         <td> </td>
     </tr>
     <tr>
