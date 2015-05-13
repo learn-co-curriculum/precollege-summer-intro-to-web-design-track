@@ -229,7 +229,7 @@ Add pages to your site by creating three separate html files
 + Check out this great [resource](http://caniuse.com/) for checking out HTML5 compatibility
 + You can also embed YouTube video's really easily. Just go to the YouTube site for a video you like. Follow these steps:
 
-<img src="https://s3.amazonaws.com/after-school-assets/YouTube-embed.png">
+[Embed a Youtube Video](https://support.google.com/youtube/answer/171780?hl=en)
 
 + *Try adding an audio or video to your personal website.*
 
