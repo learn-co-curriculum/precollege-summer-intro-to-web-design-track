@@ -1,27 +1,31 @@
-### Overview
+# CSS Fundamentals
+
+## Overview
 
 Create a brand new HTML page and style it with CSS
 
-###SWBATs
+##SWBATs
 
++ Explain the purpose of CSS
 + Use selectors
 + Write CSS Syntax
-+ link a CSS stylesheet to an HTML page
-+ explain the purpose of CSS
-+ adjust basic properties of text: `font-size`, `font-family`, `text-align`, `font-color`
-+ adjust basic properties of images: `height`, `width`
++ Link a CSS stylesheet to an HTML page
++ Adjust basic properties of text: `font-size`, `font-family`, `text-align`, `font-color`
++ Adjust basic properties of images: `height`, `width`
 + Adjust backgrounds elements
 + Use hexadecimal, rgba, and rgb color values
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
+Have Beyonce’s twitter page up with all stylesheets unlinked (with dev tools can just delete all the link tags). Explain that this is what his twitter looks like with JUST HTML. It’s a lot like what our sites look like with just HTML.
 
-Have Justin Bieber’s twitter page up with all stylesheets unlinked (with dev tools can just delete all the link tags). Explain that this is what his twitter looks like with JUST HTML. It’s a lot like what our sites look like with just HTML.
 Have students point out things that look different, from what it normally looks like -- all the styling.
 So far, all we’ve been able to do is put content on a page with HTML to make some ugly looking websites. So how do we actually make our sites stuff look good? CSS!
-CSS stands for Cascading Style Sheets. We write CSS in separate files, so that each file of our web site does one job and one job only. Single purpose files. 
+CSS stands for Cascading Style Sheets. We write CSS in separate files, so that each file of our web site does one job and one job only. Single purpose files.
+
+*Ask your students what they would want to style about their website? Or the one you have shown.*
 
 
-### Lesson Plan
+## Lesson Plan
 + CSS: 
   * write in a separate file - separation of concerns, easier to debug
   * Using the `my_website` project we started earlier with HTML, make a `style.css` file inside the `css` directory
