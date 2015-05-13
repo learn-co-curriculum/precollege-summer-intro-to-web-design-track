@@ -121,7 +121,7 @@ This is wrong because we should close tags in the reverse order that we opened t
 ```HTML
 <head>
   <body>
-  </body
+  </body>
 </head>
 ```
 Notice that when you do it right, the indentation/whitespace makes sense.
