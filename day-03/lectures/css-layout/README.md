@@ -101,7 +101,7 @@ Most browsers display `div`,`p`,`h` in `block` style. That means that each eleme
 
 + By using the `float` property with display: block; you should have good control over how things are displayed on the page - including placement AND width/height + margins.
 + The float property accepts two values: right and left.
-	+ ***Demo how float works with three divs.***
+	+ ***[Demo](https://jsfiddle.net/qjjqv315/) how float works with three divs.***
 + Float only affects elements after it. So we can leave this first div as block display and adding float: right to the second div will cause it to float to the right of the last div but still below the first one.
 + You may run into a situation where you are floating your elements and something like the footer is sneaking up
 
@@ -121,15 +121,15 @@ Most browsers display `div`,`p`,`h` in `block` style. That means that each eleme
     	line-height: 0;
 		}
 ```
-	* Content property - inserts the text in quotes 
-	* Display: block (take up the whole width of page)
-	* Clear: says which side (right or left) of this element floating elements are allowed - in this case no elements can float right or left
-	* height: how tall the element is, in this case, not at all
-	* line-height: on block elements (like this one), specifies the minimum height of line boxes within the element
+* Content property - inserts the text in quotes 
+* Display: block (take up the whole width of page)
+* Clear: says which side (right or left) of this element floating elements are allowed - in this case no elements can float right or left
+* height: how tall the element is, in this case, not at all
+* line-height: on block elements (like this one), specifies the minimum height of line boxes within the element
 + We can also control the positioning of our divs more granularly with CSS positioning techniques like:
-	+ Relative - will position a div relative to its parent
-	+ Absolute - will position a div in absolute relation to the screen UNLESS it is within a div that is positioned in some way.
-	+ Fixed - Will position the div at a fixed place on the page - even if the person scrolls down the fixed div will stay on their screen.
++ Relative - will position a div relative to its parent
++ Absolute - will position a div in absolute relation to the screen UNLESS it is within a div that is positioned in some way.
++ Fixed - Will position the div at a fixed place on the page - even if the person scrolls down the fixed div will stay on their screen.
 + Let’s take a look at how this works with this [example](http://jsfiddle.net/flatiron_school/rgyPC/1/).
 + One last thing you can control when it comes to positioning is the `z-index` which lets you layer divs and control their position into the third dimension!
 + Divs with a higher z-index will be positioned on top of elements with a lower z-index or no z index at all.
@@ -149,7 +149,7 @@ Most browsers display `div`,`p`,`h` in `block` style. That means that each eleme
 
 
 ### Conclusion 
-CSS controls the entire layout of our page, and how elements relate to each other.
+With CSS, we can controls the entire layout of our page, and how elements relate to each other.
 
 ### Hints/Hurdles
 + Make sure you are familiar with all the coding examples, or create your own examples before class. Layout can get tricky and CSS elements can compete with each other. It's easy to break things live and not be able to dig yourself out.
