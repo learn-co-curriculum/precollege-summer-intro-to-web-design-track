@@ -155,7 +155,7 @@ Netflix might use headers like this:
 + `<b>` will make any text contained within bold.
 + `<i>` ... Can you guess?
 
-Lists
+#### Lists
 + Bullet point lists start with `<ul>` for *unordered list*
 + Numbered lists (computer will automatically count up from 1) start with `<ol>` for *ordered list*
 + The actual list items go between `<li>` tags for, you guessed it, *list items*
@@ -174,29 +174,40 @@ Lists
 </ol>
 ```
 
-Links
-+ Links use an `<a>` tag, which stands for *anchor*. If you wanted a link to Google it would look like this:
+#### Links
+Links use an `<a>` tag, which stands for *anchor*. If you wanted a link to Google it would look like this:
 ```HTML
 <a href="http://www.google.com">Super secret link</a>
 ```
 Notice that the `<a>` tag has an `href=""` attribute! href stands for *hypertext reference*. This is where the link will tell the browser to go when clicked. The text between the opening and closing tags are what the user will see, "Super secret link" in this case.
 
+#### Images
+Images use an `<img>` tag to embed an image in a webpage.
+```HTML
+<img src="your_image_location">
+```
+The `src` attribute can be a URL of an image from the Internet or a relative link to an asset on your computer.
 
+### Practice
 
+#### Adding sections
 
+For your new website about a thing you love, create three sections describing why you love that thing using the following format:
++ a subheader for the top (using h2-h6 tags)
++ a `p` tag with a short descriptive paragraph
++ an image that goes along with the thing 
++ a link to somewhere on the web where I can find more information about the topic. 
 
+#### Adding pages
 
-+ Add the following to your page for each of the three reasons you love your topic:
-  * a subheader for the top (using h2-h6 tags)
-  * a `p` tag with a short descriptive paragraph
-  * an image that goes along with the thing 
-  * a link to somewhere on the web where I can find more information about the topic. 
-+ Adding pages to your site: create three separate html files 
-+ Inside of those files set up your html file structure
-+ To link to pages in the same site, use a tag.
-  * If site has `index.html` and `pig_facts.html` and theyre in the same directory, having a link from `index.html` to `pig_facts.html` looks like this: `<a href="pig_facts.html">click here for pig facts</a>`
+Add pages to your site by creating three separate html files 
++ Start each page with the proper HTML tag structure (`html`, `body`, `title`, ...)
++ To link to pages in the same site, use an `<a>` tag.
+  * If your site has `index.html` and `facts.html` and they're in the same directory, having a link from `index.html` to `facts.html` looks like this: `<a href="facts.html">click here for more facts</a>`. This is a relative link.
 + Put links in an unordered list using `ul` and `li` tags
-  * will style next class as a nav bar
+
+### Fancy audio/video tags
+
 + HTML5 makes it super easy to embed video and audio into your website with these tags:
 + Audio:
   ```html
