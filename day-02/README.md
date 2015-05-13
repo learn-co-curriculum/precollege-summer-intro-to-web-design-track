@@ -55,7 +55,10 @@
     <tr>
       <td>12:30 - 1:15</td>
       <td>How The Internet Works</td>
-      <td> <a href="lectures/how_the_internet_works">Lecture: How the Internet Works</a></td>
+      <td> 
+        <a href="lectures/how_the_internet_works">Lecture: How the Internet Works</a></br>
+        <a href="https://docs.google.com/presentation/d/1t0MNjDKfmiSJSG0LP3dmEfK25guIIW8tncV41Hugk2E/edit#slide=id.gafe5def2e_0_109">Deck: How the Internet Works</a></br>
+      </td>
     </tr>
     <tr>
       <td>1:15 - 1:45</td>
@@ -108,6 +111,8 @@
 
 ## Resources
 
+[Deck: How The Internet Works](https://docs.google.com/presentation/d/1t0MNjDKfmiSJSG0LP3dmEfK25guIIW8tncV41Hugk2E/edit#slide=id.gafe5def2e_0_109)
+
 ## Lectures
 
 <a href="lectures/HTML_Fundamentals">HTML Fundamentals</a>
@@ -118,4 +123,4 @@
 
 <a href="lectures/how_the_internet_works">How The Internet Works</a>
 
-<a href="lectures/independant_study">Independant Study Guide</a>
+<a href="lectures/independent_study">Independent Study Guide</a>
