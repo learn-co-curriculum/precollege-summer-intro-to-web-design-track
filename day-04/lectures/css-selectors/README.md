@@ -70,6 +70,22 @@ We’re starting to make some complex HTML pages and sometimes you need to get r
 + There are a few other helpful selectors that we can use: Universal `* {…}`, Attribute `img[alt="Cat"] {…}` and Pseudo selectors `li:first-child {…}`, `a:link {…}`
 + The universal selector will do exactly what you think it will. It will affect every element on the page. 
 
+### Attribute Selectors
+
++ The attribute selector will look for tags that have a certain attribute. Like this:
+CSS:
+```css
+img[alt="Cat"] { 
+  border: 1px solid black;
+ }
+```
+HTML:
+```html
+<img src="myimage.jpg" alt="Cat">` <!-- this will have a solid black border -->
+```
+The attribute selector can really help you target elements in unique ways. Examples:
+
+<img src="https://s3.amazonaws.com/after-school-assets/css-selector1.png">
 
 ### Pseudo Selectors
 
