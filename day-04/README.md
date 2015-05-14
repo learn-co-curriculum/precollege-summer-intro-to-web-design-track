@@ -43,7 +43,7 @@
         <td>12:30 - 1:00</td>
         <td> User Experience Lecture: Typography </td>
         <td>
-            Typography Resources
+            <a href="lectures/typography">Lecture: Typography</a>
         </td>
     </tr>
     <tr>
@@ -92,3 +92,5 @@
 ## Lectures
 
 [CSS Selectors](lectures/css-selectors)
+
+[Typography](lectures/typography)
