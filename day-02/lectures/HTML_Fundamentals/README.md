@@ -4,7 +4,7 @@
 
 Create a brand new HTML page from scratch using HTML5
 
-## SWABTS
+## SWBATS
 
 + Structure an html page using `doctype`, `html`, `head` and `body` tags
 + Explain what goes into the head of the document
