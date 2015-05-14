@@ -43,7 +43,7 @@
         <td>12:30 - 1:00</td>
         <td> User Experience Lecture: Typography </td>
         <td>
-            Typography Resources
+            <a href="lectures/typography">Lecture: Topography</a>
         </td>
     </tr>
     <tr>
