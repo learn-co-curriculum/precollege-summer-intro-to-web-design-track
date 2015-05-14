@@ -50,7 +50,9 @@
         <td>1:00 - 1:45</td>
         <td> Lecture: Grid System and Bootstrap </td>
         <td>
-        Grids and Bootstrap Lecture notes***
+            <a href="lectures/bootstrap">Lecture: Bootstrap</a></br>
+            <a href="https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough">Walkthrough: Bootstrap</a></br>
+            <a href="lectures/bootstrap">Lecture: Bootstrap</a></br>
         </td>
     </tr>
     <tr>
