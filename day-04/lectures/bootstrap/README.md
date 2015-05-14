@@ -36,8 +36,42 @@ CSS is awesome, but can be time consuming to write. Using Bootstrap allows get o
 
 ### Grid System
 
-+ Bootstrap comes with some great layout features as well. 
++ Bootstrap comes with some great layout features as well. Imagine if we divied our site into twelve equal-sized columns. Rather than describing the size of our elements in pixels or percentages, we could describe them by number of columns they take up. 
++ First, we need a container to hold everything. For this, we can use a `<div>` with the class of `container`. 
++ Inside of our container, we should define our rows. Again, we can use a `div` with an class of `row`. 
++ Now that we're in our row, we can divide our content into columns. Take a look at this example: 
 
+```HTML
 
+<div class='container'>
+	<div class="row">
+		<div class="col-md-6">
+		</div>
+	</div>
+</div>
+```
+
++ In our div with the class of `col-md-6` will take up half the row on a medium-sized screen (the `md` stands for medium.)
++ We can apply multiple classes to the same `div` to define different sizes on different screens. 
++ In the below example, the div will take up the entire row on small and extra small screens, like phones and tablets, and half the screen on larger devices, like laptops and large displays. 
+
+```HTML
+
+<div class='container'>
+	<div class="row">
+		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		</div>
+	</div>
+</div>
+```
++ This will help our site look great on a bunch of different screens. 
+
+### Conclusions
+
+Bootstrap helps us make our sites looks great without having to write out own CSS every time. 
+
+### Next Steps
+
+Check out [this walkthrough](https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough) to start playing around with bootstrap!
 
 
