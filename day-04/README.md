@@ -92,4 +92,5 @@
 ## Lectures
 
 [CSS Selectors](lectures/css-selectors)
+
 [Typography](lectures/typography)
