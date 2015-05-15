@@ -17,9 +17,11 @@
     </tr>
         <tr>
         <td>9:30 - 10:00</td>
-        <td> Lecture: Design Principles — User Experience </td>
+        <td> 
+           Lecture: User Experience Design 
+        </td>
         <td>
-            User Experience Resources***
+            <a href="lectures/ux">Lecture: Design Principles — User Experience Design</a> 
         </td>
     </tr>
     <tr>
@@ -39,7 +41,7 @@
     <tr>
         <td>11:00 - 2:00</td>
         <td> Group Project — Choose your own adventure </td>
-        <td> <a href="nothing here">Project Guidelines***</a> 
+        <td> <a href="lectures/group-project-guide">Lecture - Project Guidelines</a> 
         </td>
     </tr>
     <tr>
