@@ -23,7 +23,8 @@
            User Experience Design 
         </td>
         <td>
-            <a href="lectures/ux">Lecture: Design Principles — User Experience Design</a> 
+            <a href="lectures/ux">Lecture: User Experience Design</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-design-principles-user-experience">Resources: User Experience Design</a></br>
         </td>
     </tr>
     <tr>
