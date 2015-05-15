@@ -52,7 +52,6 @@
         <td>
             <a href="lectures/bootstrap">Lecture: Bootstrap</a></br>
             <a href="https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough">Walkthrough: Bootstrap</a></br>
-            <a href="lectures/bootstrap">Lecture: Bootstrap</a></br>
         </td>
     </tr>
     <tr>

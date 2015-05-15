@@ -52,19 +52,20 @@ CSS is awesome, but can be time consuming to write. Using Bootstrap allows get o
 ```
 
 + In our div with the class of `col-md-6` will take up half the row on a medium-sized screen (the `md` stands for medium.)
-+ We can apply multiple classes to the same `div` to define different sizes on different screens. 
++ On smaller screens, the div will take up the whole row. 
 + In the below example, the div will take up the entire row on small and extra small screens, like phones and tablets, and half the screen on larger devices, like laptops and large displays. 
 
 ```HTML
 
 <div class='container'>
 	<div class="row">
-		<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		<div class="col-lg-6">
 		</div>
 	</div>
 </div>
 ```
 + This will help our site look great on a bunch of different screens. 
++ Look at the example [here](http://learn-co-curriculum.github.io/bootstrap-grid-example/)
 
 ### Conclusions
 
