@@ -9,8 +9,8 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:30</td>
-        <td> ToDo: CSS Positioning </td>
+        <td>9:00 - 9:15</td>
+        <td> To-Do: <a href="https://github.com/learn-co-curriculum/css-issue-bot-9000">CSS Issue Bot 9000</a> </td>
         <td>
             <a href="https://docs.google.com/presentation/d/1NJ4YCU7Sj1H_KoMkF-s2aswr-b39JMNTWILe4bLTmNU/edit#slide=id.gafe5a1ee8_0_0">Day 4 Deck</a>
             <br>
@@ -18,7 +18,7 @@
         </td>
     </tr>
     <tr>
-        <td>9:30 - 10:15</td>
+        <td>9:15 - 10:15</td>
         <td> Lecture: Descendant and Pseudo Selectors </td>
         <td>
             <a href="lectures/css-selectors">Lecture: CSS Selectors</a>
