@@ -29,8 +29,9 @@
     </tr>
     <tr>
         <td>10:00 - 10:30</td>
-        <td> Intro to Project — Storyboarding </td>
+        <td> Introduce Group Project/Storyboarding </td>
         <td>
+            <a href="lectures/group-project-guide">Lecture - Project Guidelines</a></br>
             <a href="lectures/storyboarding">Lecture: Storyboarding</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-storyboarding">Lab: Storyboarding</a></br>
         </td>
@@ -47,7 +48,6 @@
         <td>11:00 - 2:00</td>
         <td> Group Project — Choose your own adventure </td>
         <td> 
-            <a href="lectures/group-project-guide">Lecture - Project Guidelines</a></br>
             <a href="https://github.com/learn-co-curriculum/Hs-Html-Css-Group-Project">Lab - Choose Your Own Adventure</a></br>
         </td>
     </tr>
