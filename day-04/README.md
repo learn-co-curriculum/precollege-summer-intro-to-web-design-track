@@ -58,7 +58,7 @@
         <td>1:45 - 2:50</td>
         <td> Bootstrap Labs </td>
         <td>
-            Bootstrap Lab links ***
+            <a href="https://github.com/learn-co-curriculum/fe-bootstRAPPERS">Lab: BootstRAPPERS</a>
         </td>
     </tr>
     <tr>
