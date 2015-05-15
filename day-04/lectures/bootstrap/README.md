@@ -2,25 +2,26 @@
 
 ## SWBATs
 
-+ Understand the concept of a library
-+ Include libraries such as Bootstrap by using the `<link>` tab
++ Understand the concept of a CSS library
++ Include CSS libraries such as Bootstrap by using the `<link>` tab
 + Use Bootstrap Resources to add styling to their sites
 + Understand the concept of the 'grid' and how to use it to create responsive designs
 
 ## Motivation/Why Should I Care? 
 
-CSS is awesome, but can be time consuming to write. Using Bootstrap allows get our sites looking great really quickly. 
+CSS is awesome, but can be time consuming to write. Bootstrap allows developers to make beautiful sites very quickly.
 
 ## Lesson Plan
 
 ### Bootstrap Setup
 
 + You've already been writing CSS to see how you can style your pages. Writing your own CSS is a great way to style your pages, but it can take a long time. 
-+ Sometimes, you want to get up and running more quickly. Enter Bootstrap. Bootstrap is a framework that gives us access to a bunch of pre-defined CSS.
++ Sometimes, you want to get up and running more quickly. Enter Bootstrap. 
++ Bootstrap is a CSS library, which means it's just a big CSS file with pre-defined class styles ready to go.  The actual file can be viewed by navigating to it's [URL](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.css)
 + Let's checkout Bootstrap here: [Get Bootstrap](https://www.getbootstrap.com/getting-started)
 + Bootstrap gives different options to get up and running. 
 	* We can download the files and include them with our project, the same way we include our own custom css files. 
-	* These files are also hosted for us to use by MaxCDN. By simplying including a link in our `<head>` section, we can get the same access to those files. 
+	* These files are also hosted for us to use by MaxCDN. By simply including a link in our `<head>` section, we can get the same access to those files. 
 + Make sure to include this link on any projects that you want to use Bootstrap: `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">`
 
 ### Styling Your Page With Classes
@@ -52,8 +53,7 @@ CSS is awesome, but can be time consuming to write. Using Bootstrap allows get o
 + Inside of our container, we should define our rows. Again, we can use a `div` with an class of `row`. 
 + Now that we're in our row, we can divide our content into columns. Take a look at this example: 
 
-```HTML
-
+```html
 <div class='container'>
 	<div class="row">
 		<div class="col-md-6">
@@ -66,8 +66,7 @@ CSS is awesome, but can be time consuming to write. Using Bootstrap allows get o
 + On smaller screens, the div will take up the whole row. 
 + In the below example, the div will take up the entire row on small and extra small screens, like phones and tablets, and half the screen on larger devices, like laptops and large displays. 
 
-```HTML
-
+```html
 <div class='container'>
 	<div class="row">
 		<div class="col-lg-6">
@@ -81,10 +80,10 @@ CSS is awesome, but can be time consuming to write. Using Bootstrap allows get o
 
 ### Conclusions
 
-Bootstrap helps us make our sites looks great without having to write out own CSS every time. 
+Bootstrap helps us make our sites looks great without having to write new CSS every time. 
 
 ### Next Steps
 
-Check out [this walkthrough](https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough) to start playing around with bootstrap!
+Check out [this walkthrough](https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough) to start playing around with Bootstrap!
 
 
