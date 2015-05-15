@@ -36,7 +36,18 @@ CSS is awesome, but can be time consuming to write. Using Bootstrap allows get o
 
 ### Grid System
 
-+ Bootstrap comes with some great layout features as well. Imagine if we divied our site into twelve equal-sized columns. Rather than describing the size of our elements in pixels or percentages, we could describe them by number of columns they take up. 
++ Bootstrap comes with some great layout features as well. Imagine if we divied our site into twelve equal-sized columns. Rather than describing the size of our elements in pixels or percentages, we could describe them by number of columns they take up.
++ The human brain is good at identifying patterns and one way that patterns are reflected in design is through the use of grids.
++ A grid is a tool that can be used to establish a spacial hierarchy of the content. It can be fixed or fluid, horizontal or vertical, uniform or responsive. Grids should be viewed as guides, not boundaries; good designers know how to use grids, great designers know how and when to break them.
++ The rules of threes or four 
+	+ Dividing a page up into threes or fours tends to be pleasing to the eye - and to take advantage of both these ratios web design tends to split up a page into a 12 column grid (12 = 3 * 4)
+	+ This way you can easily split the page in half, thirds or fourths
+
++ Here are some examples of how you can split up the 12-grid:
+
+<img src="https://s3.amazonaws.com/after-school-assets/grid-system.png">
+
++ We can use Bootstrap classes to setup our elements on a nice-looking 12 column grid. 
 + First, we need a container to hold everything. For this, we can use a `<div>` with the class of `container`. 
 + Inside of our container, we should define our rows. Again, we can use a `div` with an class of `row`. 
 + Now that we're in our row, we can divide our content into columns. Take a look at this example: 
@@ -66,6 +77,7 @@ CSS is awesome, but can be time consuming to write. Using Bootstrap allows get o
 ```
 + This will help our site look great on a bunch of different screens. 
 + Look at the example [here](http://learn-co-curriculum.github.io/bootstrap-grid-example/)
+	* Notice that the arrangement changes based on the size of the window. 
 
 ### Conclusions
 
