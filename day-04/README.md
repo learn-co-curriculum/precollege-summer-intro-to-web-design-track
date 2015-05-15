@@ -12,6 +12,8 @@
         <td>9:00 - 9:30</td>
         <td> ToDo: CSS Positioning </td>
         <td>
+            <a href="https://docs.google.com/presentation/d/1NJ4YCU7Sj1H_KoMkF-s2aswr-b39JMNTWILe4bLTmNU/edit#slide=id.gafe5a1ee8_0_0">Day 4 Deck</a>
+            <br>
             Todo Link*** (GROVER)
         </td>
     </tr>
