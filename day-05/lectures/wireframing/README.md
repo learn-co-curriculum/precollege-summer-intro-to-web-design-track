@@ -5,6 +5,8 @@
 + A whiteboard and markers
 + One laptop
 
+### Lesson Plan
+
 **Intro:**
 A wireframe is a blueprint for a website. It is a skeletal map for what a website will look like and where elements will go on a page. When designing a page with multiple developers, drawing out a wireframe is an incredibly important step in order to get everyone on the same page before you start building. It also lets you set your designs in stone so you don’t do a redesign in the middle of coding out the page. Time saver.
 
