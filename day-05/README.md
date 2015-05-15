@@ -13,7 +13,8 @@
         <td> To Do: Selectors</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1IT7IQpPvNgd9TyYDu2tSoBw_ozNYUufaB9D-RArG15U/edit">Day 5 Deck</a></br>
-            Todo Link***
+            <a href="https://github.com/learn-co-curriculum/hs-css-online-diner">ToDo: Online Diner Game</a>
+            
         </td>
     </tr>
         <tr>
