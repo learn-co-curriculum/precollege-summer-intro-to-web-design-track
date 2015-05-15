@@ -27,7 +27,7 @@ CSS is awesome, but can be time consuming to write. Bootstrap allows developers 
 ### Styling Your Page With Classes
 
 + Once we have bootstrap included in our project, we can add pre-defined classes to our HTML elements and they'll automatically get that style. 
-+ Check out this example * open this [page](./bootstrap.html) in your browser * 
++ Check out this example *open this [page](./bootstrap.html) in your browser*
 + Here's a button with no styling at all. 
 + When I give the button a class of `btn-primary`, it changes. What changed? 
 	* Color
