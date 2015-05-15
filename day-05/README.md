@@ -32,6 +32,7 @@
         <td> Intro to Project — Storyboarding </td>
         <td>
             <a href="lectures/storyboarding">Lecture: Storyboarding</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-storyboarding">Lab: Storyboarding</a></br>
         </td>
     </tr>
     <tr>
@@ -39,6 +40,7 @@
         <td> Wireframing </td>
         <td>
             <a href="lectures/wireframing">Lecture: Wireframing</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-wireframing">Lab: Wireframing</a></br>
         </td>
     </tr>
     <tr>
