@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>10:00 - 11:30</td>
-        <td>Work on jQuery Labs</td>
+        <td>Group Lab: jQuery Selectors</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></br>
         </td>
@@ -45,7 +45,7 @@
     <tr>
         <td>1:00 - 2:30</td>
         <td>
-            Keep Working on jQuery Labs
+            Group Lab: jQuery Methods
         </td>
         <td>
             <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods">Lab: Exploring jQuery Methods</a></br>
