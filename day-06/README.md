@@ -34,7 +34,6 @@
             
         </td>
     </tr>
-    tr>
         <td>12:30 - 1:00</td>
         <td>Improv</td>
         <td>
