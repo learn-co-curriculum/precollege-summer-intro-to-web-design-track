@@ -149,12 +149,12 @@ combine; //returns "105"
 		+ reports the age they entered into the JS Console located in the developer tool window.
 		+ *ProTip: This can be a great way to show output of code as you're working. [JSbin](http://jsbin.com/?js,console) or similar editors usually have a console window
 
-+ Doing math with JavaScript: 
+### Doing math with JavaScript: 
 	+ Arithmetic Operators
 
 <img src= "https://s3.amazonaws.com/after-school-assets/jquery.png">
 
-+ Shorthand Operators
+### Shorthand Operators
 
 | shortcut  | original  | 
 |---|---|
@@ -165,60 +165,66 @@ combine; //returns "105"
 | x /= y | x = x / y |
 |	x %= y | x = x % y | 
 
-+ Conditional Statements
-	+ Who here has done if-then statements in math class? This is a conditional statement.
-	+ A conditional statement is a set of commands that executes if a specified condition is true. 
-	+ JavaScript supports two conditional statements: `if-else` and `switch`.
-	+ Use the if statement to execute a statement if a logical condition is true. Use the optional else clause to execute a statement if the condition is false. An if statement looks as follows:
-	```
-		if (condition)
-		  statement_1
-		[else
-		  statement_2]
-	```
-	+ Example:
-	```js
-		var gasTank = 34; //gallons of gas
+### Conditional Statements
++ Who here has done if-then statements in math class? This is a conditional statements
++ A conditional statement is a set of commands that executes *if* a specified condition is `true`. 
++ JavaScript supports two conditional statements: `if-else` and `switch`.
++ Use the `if` statement to execute a statement if a logical condition is `true`. Use the optional `else` clause to execute a statement if the condition is `false`. An `if` statement looks as follows:
 
-		if (gasTank === 34) {
-		   console.log('Tank is full');
-		 } else {
-		    console.log('Tank is not full');
-		 }
-	```
-	+ You can see that there are a few syntax details that you’ll need to pay attention to. What is syntax? Syntax is like the grammar of a programming language. There are certain conventions that you need to follow in order for your program to run properly.
-		+ JS requires that the conditions in your if statement be surrounded by `()`
-		+ You’ll need to encapsulate your conditional statement with `{}
-		+ **almost** every line of JS ends with a `;`
+```
+if (condition)
+  statement_1
+[else
+  statement_2]
+```
+
++ Example:
+```js
+var gasTank = 34; //gallons of gas
+
+if (gasTank === 34) {
+   console.log('Tank is full');
+} else {
+    console.log('Tank is not full');
+}
+```
+
++ You can see that there are a few syntax details that you’ll need to pay attention to. What is syntax? Syntax is like the grammar of a programming language. There are certain conventions that you need to follow in order for your program to run properly.
+	+ JS requires that the conditions in your `if` statement be surrounded by `()`
+	+ You’ll need to encapsulate your conditional statement with `{}
+	+ **almost** every line of JS ends with a `;`
+
+
+### Comparison Operators
+
 + You can also see that we have a funny looking triple equals `===`. This is how we compare the values of two things. One equal to assign value, triple equals to compare values. The equality operator
 + Here is a list of all of JS comparison values and what they do
-+ COMPARISON Operators
 
 <img src="https://s3.amazonaws.com/after-school-assets/jquery2.png">
 
-	+ We can add additional branches to a conditional statement with the else if keywords like this:
-	```js
-		if (gasTank === 34) {
-		   console.log('Tank is full.');
-		 } else if (gasTank > 34) {
-		    console.log('Oops, tank is overfilled!');
-		 } else {
-		  	console.log(’Tank refill mandatory!');
-		 }
-	```
-	+ We can also make more complex conditional statements with logical operators, like this:
-	```js
-		if (gasTank === 34) {
-		    console.log('Tank is full.');
-		 } else if (gasTank > 34) {
-		    console.log('Oops, tank is overfilled!');
-		 } else if (gasTank < 34 && gasTank > 5) {
-		 		console.log(’Tank refill suggested.');
-		 } else {
-		   console.log(’Tank refill mandatory!');
-		 }
-	```
-	+ Here is a list of all the Logical Operators and what they do:
++ We can add additional branches to a conditional statement with the `else if` keywords like this:
+```js
+	if (gasTank === 34) {
+	   console.log('Tank is full.');
+	 } else if (gasTank > 34) {
+	    console.log('Oops, tank is overfilled!');
+	 } else {
+	  	console.log(’Tank refill mandatory!');
+	 }
+```
++ We can also make more complex conditional statements with logical operators, like this:
+```js
+	if (gasTank === 34) {
+	    console.log('Tank is full.');
+	 } else if (gasTank > 34) {
+	    console.log('Oops, tank is overfilled!');
+	 } else if (gasTank < 34 && gasTank > 5) {
+	 		console.log(’Tank refill suggested.');
+	 } else {
+	   console.log(’Tank refill mandatory!');
+	 }
+```
++ Here is a list of all the Logical Operators and what they do:
 
 <img src="https://s3.amazonaws.com/after-school-assets/jquery3.png">
 
