@@ -4,13 +4,15 @@
 
 ***Students will be able to understand the fundamentals of jQuery and incorporate them into their projects***
 
-+ DOM - Explain what the document object model is and how we can interact with it
-+ DOM - Understand the tree-like structure of the DOM
-+ jQuery - Understand what jQuery is - a library that helps us interact with the DOM
-+ jQuery - Set up a document with jQuery
-+ jQuery - Use proper syntax
-+ jQuery - Use jQuery selectors - they are essentially the same as CSS selectors
-+ jQuery - Use selectors and methods together to manipulate the DOM
++ Understand that Javascript provides a language to add behaviors to our web pages.
++ Include Javascript in their HTML using `<script>` tags with `src` and in-line Javascript.
++ Include jQuery in their web pages from a CDN host.
++ Understand that Javascript creates a Document Object Model where you can represent the HTML nodes and elements from Week 1 as "Objects" that you can manipulate.
++ Use `$` and `jQuery` to select an element from their page.
++ Call basic methods on those jQuery DOM elements.
++ Manipulate existing DOM elements through `jQuery` (change text, change properties).
++ Insert DOM and modify the page with methods like `append` and `prepend`.
++ Understand what a DOM Event is and how to add a handler for an event.
 
 
 ### Motivation/ Why Should You Care
@@ -34,8 +36,9 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
 
 <img src="https://s3.amazonaws.com/after-school-assets/jquery4.png">
 
++ Take a look at this image - these are all HTML elements that we know and love. 
 + This model enables us to modify the content and visual presentation on our HTML document with scripting languages such as JavaScript.
-+ What kind of things can we do with JS + DOM.
++ What kind of things can we do with JS + DOM?
   + Add/remove/hide/show HTML elements in the page.
   + Add/remove/change HTML attributes.
   + Add/remove/change  CSS styles.
@@ -59,6 +62,7 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
 + To setup a document to run jQuery we must link to the jQuery core library first, just like linking your HTML and CSS! Imagine that JavaScript is like a pet dog. On it’s own it knows how to eat, sleep, and play. Loading jQuery is like teaching the dog new tricks such as roll over, fetch, etc… Imagine what would happen if we gave the command for our dog to fetch before we had taught it this trick (linked to jQuery). Therefore, we always link to the jQuery core library first.
 + Inside your `<head></head>`, remote link: 
 `<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>`
+  * This is hosted for us, just like Bootstrap. We can also download the files and include them with our project
 + Inside your `<head></head>`, local link (downloaded from jquery.com):
 `<script src=”js/jquery-1.8.2.min.js"></script>`
 + Inside your `<head></head>`, both using local as fallback solution:
@@ -103,15 +107,17 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
   + Select by position
   + `$('li:eq(1)')` //selects the second list item
 
+
+
 + A few examples of jQuery methods
   + Effects
-    + animate(`, `fadeTo()`, show(), hide(),  slideToggle()
+    + `animate()`, `fadeTo()`, `show()`, `hide()`,  `slideToggle()`
   + Events
-    + click(), hover(), focus(), blur(), keypress()
+    + `click()`, `hover()`, `focus()`, `blur()`, `keypress()`
   + Manipulation
-    + addClass(), clone(), empty(), attr(), val()
+    + `addClass()`, `clone()`, `empty()`, `attr()`, `val()`
   + Traversing
-    + eq(), each(), has(), closest(), find()
+    + `eq()`, `each()`, `has()`, `closest()`, `find()`
 + If you want to do something to your DOM jQuery probably has a method for it. 
 + Note that to execute a method, you put `()` after it. That means, "hey, run this method now!"
 + YOU DO NOT HAVE TO MEMORIZE ALL OF THE METHODS
@@ -174,7 +180,12 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
     });
   });
   ```
-+ You can see that we have a button in our dom and when we click that button the .click method performs the action within the function that we’ve given as an argument.
+
++ There's a lot happening here, so let's break it down step by step. 
+  + First, we're calling our document ready method. 
+  + Inside of our document ready function, we use the jQuery object `$` to select anything with the id of `"#alert"`. In this case, that's our button.
+  + We call a method, `.click`, which fires a function whenever the item is clicked on. 
+ 
 + We can get even fancier and include jQuery methods within the function. 
 + For instance - what if we want to add some text to our page every time the button is clicked? 
 + We can use a very handy jQuery append method. The append method will add HTML to any piece of the DOM indicated. 
