@@ -1,18 +1,36 @@
-###SWBATS
+## Intro to jQuery - Full Lecture
+
+### SWBATS
+
 ***Students will be able to understand the fundamentals of jQuery and incorporate them into their projects***
 
-+ DOM - Explain what the document object model is and how we can interact with it
-+ DOM - Understand the tree-like structure of the DOM
-+ jQuery - Use proper syntax
-+ jQuery - Use selectors and methods together to manipulate the DOM
-+ jQuery - Use jQuery selectors - they are essentially the same as CSS selectors
-+ jQuery - Understand what jQuery is - a library that helps us interact with the DOM
-+ jQuery - Set up a document with jQuery
++ Understand that Javascript provides a language to add behaviors to our web pages.
++ Include Javascript in their HTML using `<script>` tags with `src` and in-line Javascript.
++ Include jQuery in their web pages from a CDN host.
++ Understand that Javascript creates a Document Object Model where you can represent the HTML nodes and elements from Week 1 as "Objects" that you can manipulate.
++ Use `$` and `jQuery` to select an element from their page.
++ Call basic methods on those jQuery DOM elements.
++ Manipulate existing DOM elements through `jQuery` (change text, change properties).
++ Insert DOM and modify the page with methods like `append` and `prepend`.
++ Understand what a DOM Event is and how to add a handler for an event.
+
 
 ### Motivation/ Why Should You Care
-jQuery is a powerful JavaScript library that controls all the magic you see on your page, from sliding menus to animations. [Beyonce](beyonce.com) has some amazing jQuery on her page.
+
+jQuery is a powerful JavaScript library that controls all the magic you see on your page, from sliding menus to animations. [Beyonce](beyonce.com) has some amazing jQuery on her page. Using Javascript and jQuery makes our pages interactive and awesome. 
 
 ### Lesson  Plan
+
+#### Intro
+
++ So far, we've used HTML and CSS to structure and style our pages and present information to our users. However, it doesn't let our users interact with our page. Let's say we wanted part of our page to animate when a user clicks on it. What would we need to be able to do? 
+  + First, say what the page should look like when it loads. 
+  + Identify when a user clicks on a certain part of a page. 
+  + Say what should happen after the user clicks. 
+
++ We can do this with Javascript, a programming language built to run in a web browser, and jQuery, a Javascript library that gives us some awesome functionality for manipulating the DOM. 
+
+#### The DOM
 
 + The DOM, stands for document object model and it is a structural representation of our HTML in tree form. Like this:
 
@@ -28,40 +46,22 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
 
 <img src="https://s3.amazonaws.com/after-school-assets/tumblr_mo32apssfq1r8lg7to1_500.jpg">
 
-+ We can select elements on the page like this:
-  ```js
-  // using “plain old vanilla” JavaScript
-  document.getElementsByTagName("p");
+#### jQuery Intro
 
-  // using jQuery
-  $("p");
-  ```
-+ And manipulate content like this:
-  ```js
-  // using “plain old” JavaScript
-  document.getElementById("foo").innerHTML("hello world");
-
-  // using jQuery
-  $("#foo").text("hello world");
-  ```
-+ You can probably already see how jQuery is going to help simplify your life. Let’s dive right in to learning more about it.
++ We can use vanilla Javascript to manipulate the DOM, but it's a lot easier to use jQuery. 
 + So what is jQuery?
   + jQuery is a JavaScript library
 + What is a library?
   + A library is a  collection of code that extends the abilities and features of a core programming language, offering additional methods and often simplifying the process to build in that native language.
 + Why use jQuery?
-  + It just works everywhere! jQuery has been written to solve many cross browser issues that exist in core JavaScript.
-  + Terse code. You can often write fewer lines of code than you would in using core JavaScript to accomplish the same thing. Hence jQuery’s slogan “Write Less Do More”.
-  + Popularity. jQuery is currently at the time of writing this by far the most popular JavaScript framework. That means more forums, more code sharing, and more plugins.
-  + Easy extending methods. Coders can create and share their own custom plugins easily.
-  + Familiar DOM selectors. If you already know CSS you’re a step ahead as jQuery uses all our familiar CSS selector statements.
-+ Are their other JS libraries out there?
-  + Yes, there are a lot each with their strengths and weaknesses and some are broad, while others suit specific purposes.
-  + At the time of writing this, here are some other popular JS libraries and frameworks:
-  + MooTools, YUI, Prototype, Backbone, Cappuccino, Sammy, Angular, Ext JS, Knockout, Dojo, MochiKit, The M Project, Embed JS, MobilizeJS…etc
+  + It just works everywhere and it's much shorter to write than vanilla Javascript!
+
+#### Setup
+
 + To setup a document to run jQuery we must link to the jQuery core library first, just like linking your HTML and CSS! Imagine that JavaScript is like a pet dog. On it’s own it knows how to eat, sleep, and play. Loading jQuery is like teaching the dog new tricks such as roll over, fetch, etc… Imagine what would happen if we gave the command for our dog to fetch before we had taught it this trick (linked to jQuery). Therefore, we always link to the jQuery core library first.
 + Inside your `<head></head>`, remote link: 
 `<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>`
+  * This is hosted for us, just like Bootstrap. We can also download the files and include them with our project
 + Inside your `<head></head>`, local link (downloaded from jquery.com):
 `<script src=”js/jquery-1.8.2.min.js"></script>`
 + Inside your `<head></head>`, both using local as fallback solution:
@@ -69,11 +69,16 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="js/jquery-1.8.2.min.js"> <\/script>')</script>
   ```
+
+#### Syntax, Selectors, and Methods
+
 + jQuery syntax 
 + Here is an example of the syntax for using a jQuery method
-  + `$(selector).method(parameters);`
+  + `$("selector").method(parameters);`
   + `$` refers to the jQuery object.
-+ `selector` asks jQuery to go out into the DOM (Document Object Model) web page and select an element(s). In jQuery we can use all of the familiar selectors we use in CSS yay!
+    + Wriing a `$` is like saying, 'hey, jQuery, wake up!'
++ `selector` asks jQuery to go out into the DOM (Document Object Model) web page and select an element(s). In jQuery we can use all of the familiar HTML tags and selectors we use in CSS yay!
+  + Note that we always write our selectors in quotation marks.
 + `.method` these are various actions and commands attached to the jQuery object that allow us to do things like fade elements in an out or change the content of the DOM and much much more
 + `parameters` are options we can set for each method.
 + An example of real code:
@@ -83,22 +88,24 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
   + `css` method applies some CSS upon the selected element(s).
   + `{'background':'yellow'}` changes the background color to yellow.
 + A few more examples of jQuery selectors:
+  **Write these on the board and have students guess what they select**
   + Select Elements
-    + `$('h1')`
+    + `$('h1')` // all the h1s
   + Select ID
-    + `$('#nav')`
+    + `$('#nav')` // all elements with the ID of `nav`
   + Select Class
-    + `$('.celeb')`
+    + `$('.celeb')` // all elements with the Class of `celeb`
   + Select Attribute
-    + `$('a[href^=http://]')`
+    + `$('a[href^=http://]')` // all `a` elements with a specific `href` value
   + Select Descendent(s)
-    + `$('#nav li')`
+    + `$('#nav li')` // any `li` that's nested inside an element with the ID of `nav`
   + Select Child(ren)
-    + `$('#nav > li')`
+    + `$('#nav > li')` // any `li` directly inside an element with the ID of `nav`
   + Select Sibling(s)
-    + `$('h3 + p')`
+    + `$('h3 + p')` // h3s and ps
   + Select by position
   + `$('li:eq(1)')` //selects the second list item
+
 + A few examples of jQuery methods
   + Effects
     + animate(`, `fadeTo()`, show(), hide(),  slideToggle()
@@ -109,14 +116,18 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
   + Traversing
     + eq(), each(), has(), closest(), find()
 + If you want to do something to your DOM jQuery probably has a method for it. 
++ Note that to execute a method, you put `()` after it. That means, "hey, run this method now!"
 + YOU DO NOT HAVE TO MEMORIZE ALL OF THE METHODS
 + Having an idea of what possibilities are available is useful, and familiarizing yourself with some that you will use from day to day is useful, unless you’re a jQuery guru you probably will not memorize every method. Fortunately we can look them up and see their usage at sites like:
   + [API](http://api.jquery.com/)
   + [Documentation](http://docs.jquery.com/)
   + Or nifty [cheatsheets](http://oscarotero.com/jquery/)
   + [and](http://overapi.com/jquery)
+
+#### Using jQuery and Javascript
+
 + How will I know when to use jQuery versus core JavaScript?
-  + Firstly, jQuery is written in JavaScript so you can think of them as variations of the same thing instead of two separate things. To help answer this, jQuery methods are useful for many things; however there are certain fundamental parts of JavaScript that we still need in order to make flexible web applications. For example jQuery on its own does not have method for declaring variables, functions, if statements, or doing math…
+  + Remember, jQuery is written in Javascript - it's just an extension of the basic Javascript 
   + This means that we can get a lot more mileage by integrating jQuery with core JavaScript.
 + An example of JS and jQuery working together:
   ```js
@@ -141,7 +152,18 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
        // your app code goes here.
     });
     ```
-+ You’ll notice that here we are calling the ready method on the `$(document)` object and that ready function takes an argument that is another function. This happens a lot in jQuery. One jQuery method that you will probably be using a lot is the `.click()` method.
+
+#### Events
+
+##### Document Ready
++ You’ll notice that here we are calling the ready method on the `$(document)` object and that ready function takes an argument that is another function. This happens a lot in jQuery. 
++ Our javascript files often get loaded before any other elements on our page. 
++ That means we apply jQuery selectors before any selectors have loaded on our page, so nothing happens. 
++ Using Document Ready is the same as saying, "Okay, as soon as the page is done loading, apply all of our cool jQuery methods "
+
+##### Click
+
++ One jQuery method that you will probably be using a lot is the `.click()` method.
 + The `.click()` method also takes a function as an argument - a function that describes what should be done when that particular part of the dom is clicked. Here is an example (demo this in jsFiddle):
   HTML:
   ```html
@@ -155,7 +177,12 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
     });
   });
   ```
-+ You can see that we have a button in our dom and when we click that button the .click method performs the action within the function that we’ve given as an argument.
+
++ There's a lot happening here, so let's break it down step by step. 
+  + First, we're calling our document ready method. 
+  + Inside of our document ready function, we use the jQuery object `$` to select anything with the id of `"#alert"`. In this case, that's our button.
+  + We call a method, `.click`, which fires a function whenever the item is clicked on. 
+ 
 + We can get even fancier and include jQuery methods within the function. 
 + For instance - what if we want to add some text to our page every time the button is clicked? 
 + We can use a very handy jQuery append method. The append method will add HTML to any piece of the DOM indicated. 
@@ -176,7 +203,7 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
 + Now go get some practice with the labs on Learn.co!
 
 ### Conclusion
-jQuery is magic.
+jQuery is magic - it lets users interactive with our pages in awesome ways.
 
 ### Hints and Hurdles
 + The `$` is like saying "hey jQuery, wake up. It's time for you to get to work"
