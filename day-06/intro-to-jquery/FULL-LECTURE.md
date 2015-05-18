@@ -4,13 +4,15 @@
 
 ***Students will be able to understand the fundamentals of jQuery and incorporate them into their projects***
 
-+ DOM - Explain what the document object model is and how we can interact with it
-+ DOM - Understand the tree-like structure of the DOM
-+ jQuery - Understand what jQuery is - a library that helps us interact with the DOM
-+ jQuery - Set up a document with jQuery
-+ jQuery - Use proper syntax
-+ jQuery - Use jQuery selectors - they are essentially the same as CSS selectors
-+ jQuery - Use selectors and methods together to manipulate the DOM
++ Understand that Javascript provides a language to add behaviors to our web pages.
++ Include Javascript in their HTML using `<script>` tags with `src` and in-line Javascript.
++ Include jQuery in their web pages from a CDN host.
++ Understand that Javascript creates a Document Object Model where you can represent the HTML nodes and elements from Week 1 as "Objects" that you can manipulate.
++ Use `$` and `jQuery` to select an element from their page.
++ Call basic methods on those jQuery DOM elements.
++ Manipulate existing DOM elements through `jQuery` (change text, change properties).
++ Insert DOM and modify the page with methods like `append` and `prepend`.
++ Understand what a DOM Event is and how to add a handler for an event.
 
 
 ### Motivation/ Why Should You Care
@@ -180,8 +182,7 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
   + First, we're calling our document ready method. 
   + Inside of our document ready function, we use the jQuery object `$` to select anything with the id of `"#alert"`. In this case, that's our button.
   + We call a method, `.click`, which fires a function whenever the item is clicked on. 
-  + Inside of that function, we pop up an alert that says "hello there."
-  + You can see that we have a button in our dom and when we click that button the .click method performs the action within the function that we’ve given as an argument.
+ 
 + We can get even fancier and include jQuery methods within the function. 
 + For instance - what if we want to add some text to our page every time the button is clicked? 
 + We can use a very handy jQuery append method. The append method will add HTML to any piece of the DOM indicated. 

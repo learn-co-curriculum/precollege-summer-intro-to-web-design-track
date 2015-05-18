@@ -17,14 +17,16 @@
     </tr>
     <tr>
         <td>9:15 - 10:00</td>
-        <td><a href="intro-to-jquery">Lecture: Intro to jQuery</a></td>
+        <td>Intro to jQuery</td>
         <td>
+            <a href="lectures/intro-to-jquery">Lecture: Intro to jQuery</a>
         </td>
     </tr>
     <tr>
         <td>10:00 - 11:30</td>
-        <td><a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></td>
+        <td>Work on jQuery Labs</td>
         <td>
+            <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></br>
         </td>
     </tr>
     <tr>
@@ -42,8 +44,11 @@
     </tr>
     <tr>
         <td>1:00 - 2:30</td>
-        <td><a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods">Lab: Exploring jQuery Methods</a></td>
         <td>
+            Keep Working on jQuery Labs
+        </td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods">Lab: Exploring jQuery Methods</a></br>
         </td>
     </tr>
     <tr>
@@ -54,7 +59,7 @@
     </tr>
 </table>
 
-## SWBAT 
+## SWBAT
 
 + Understand that Javascript provides a language to add behaviors to our web pages.
 + Include Javascript in their HTML using `<script>` tags with `src` and in-line Javascript.
