@@ -1,7 +1,9 @@
-#
+#JavaScript Basics
 
-###SWBATs
+##SWBATs
+
 ***Students will be able understand the fundamentals of JavaScript***
++ Display text in the console
 + Perform math with JS
 + Declare JavaScript variables
 + Declare JS constants
@@ -10,24 +12,25 @@
 + Utilize string methods
 + Execute string concatenate
 + Understand datatype conversion and why/when to use it
-+ Use different types of dialogue boxes like alerts and
-+ Display text in the console
++ Use different types of dialogue boxes like alert and prompt
 + Understand comparison and logic operators
 + Use conditional statements to control program flow (if/else and switch)
 
 
-###Motivation
-You guys have all of the basics for creating fantastic, responsive web designs. Now for the icing on the cake - using jQuery to add animated and interactive elements. jQuery is a JavaScript library, which means you need to understand some JS fundamentals. JS is the most widely used programming language. 
+##Motivation
+We've seen how we can use jQuery to manipulate the elements of a website. Now we are going to learn about the technology that jQuery is built upon, JavaScript. JavaScript is a coding language that is supported by every browser and allows developers to write code that can do amazing things on any platform.
 
-###Lesson Plan
-+ Before we launch right into jQuery there are a few fundamental principles of JavaScript that we are going to have to go over.
-+ Variables
-	+ A variable is like a bucket that we can store some data inside and then later change the data it stores.
-	+ You need to declare variables explicitly in JavaScript with the var keyword like this:
-		+ `var x;` 
-		+ `var` is a keyword that declares a variable
+##Lesson Plan
+
+### Variables
+
++ A variable is like a bucket that we can store some data inside and then later change the data it stores.
+	+ The bucket has a name that is arbitrary but should make it easy for a developer to understand what goes inside
++ You need to declare variables explicitly in JavaScript with the `var` keyword like this:
+	+ `var x;` 
+	+ `var` is a keyword that declares a variable
 + Naming variables: start with letter a-z A-Z remaining 0-9 a-z A-Z, you can also use `_ `never use spaces ' ' or or illegal characters (! % ?)
-+ For variable names consisting of multiple words you should use camelCase or snake_case (camelCase is generally what JS developers use by convention)
++ For variable names consisting of multiple words you should use camelCase or snake_case (camelCase is generally what JS developers use by convention and is called that becauseTheLettersMakeHumpsInTheName)
 + Let's assign a value in x (remember we said var x; previously)
 	+ `x = 10;`
 + I can refer directly to x and change its value using `=` symbol
@@ -39,61 +42,79 @@ You guys have all of the basics for creating fantastic, responsive web designs. 
 	b = 2, 
 	c = 3;
 	```
+
+### Math
+
++ JavaScript supports the basic math operators you would expect (`+`, `-`, `*`, `/`, `%`)
++ Anytime we see an equation in code JS will try to run the equations
+	+ So `10*3` becomes `30` to the computer running your code.  
 + Perform math on variables
 	```js
 	var x = 10, 
 	y = 20,
 	myMath = x + y;
-	//What does myMath equal? 
+	//What does myMath equal? (30)
 
 	x = 5;
 	myMath = x + y;
-	//What does myMath equal now?
+	//What does myMath equal now? (25)
 ```
-+ Constants
-	+ A constant is like a bucket with a lid that is glued shut, and once you store a value inside it, you cannot change that value again.
-		+ `const STAY_THE_SAME = 1;`
-	+ Just like `var`, `const` is a keyword that declares a constant
-		+ `STAY_THE_SAME = 2;`
-	+ How much does STAY_THE_SAME equal now?
-		+ Still equals 1… Always equals 1…
-+ *What are the types of values that I can store inside of variables?*
-+ JavaScript data types:
-	+ Numbers: integers (whole numbers) like 2, floats (decimals) like 3.56789
-	+ Strings: (text) like 'hello' or "hello"
-	+ Boolean: true or false
-	+ null (empty)
-	+ undefined (not yet defined)
-+ Checking the data type:
-	+ `typeof` is a keyword that allows us to check the data type.
-	```js
-		const STAY_THE_SAME = 1;
-		typeof STAY_THE_SAME; //reports type of number 
-		var hamburger = 'Yumm';
-		typeof hamburger; //reports type of string
-	```
-+ Concatenation:
-	+ JavaScript uses `+` symbol for math when surrounded by numbers, but when any content is a string, it will concatenate the text. If Boolean and a number: `true = 1` and `false = 0`. So `true + 2 = 3`… weird huh? This can produce unexpected results unless we are careful how we use `+` symbol. It’s also good idea to be aware what data types are involved.
-	```js
-		var combine = '10' + 5;` //string concatenation
-		combine; //returns "105"
-		// adding a string and an integer gives you a string
-	```
 
-+ String Methods:
-	+ String methods can be called on a string to modify the string in some way. Usually you can figure out what a method is going to do just based on its name. Some examples:
-	```js
-	//toUpperCase
-		"Foobar”.toUpperCase(); //returns "FOOBAR"
-	//toLowerCase
-		"Foobar".toLowerCase(); //returns "foobar"
-	//replace
-		"Foobar".replace("bar", "baz"); //returns "Foobaz"
-		"Foobar".replace(/o/g, "x"); //returns "Fxxbar
-	+ //method chaining
-		+ "Foobar".replace(/o/g, "x").toUpperCase(); //returns "FXXBAR"
-	```
-+ Data Type Conversion
+### Constants
+
++ A constant is like a bucket (variable) with a lid that is glued shut, and once you store a value inside it, you cannot change that value again.
+	+ `const STAY_THE_SAME = 1;`
++ Just like `var`, `const` is a keyword that declares a constant
+	+ `STAY_THE_SAME = 2;`
++ How much does STAY_THE_SAME equal now?
+	+ Still equals 1… Always equals 1…
++ `const` variables are often named with ALL_CAPS so that developers know not to try and change them
+
+*What are the types of values that I can store inside of variables?*
+
+### JavaScript data types
+
++ Numbers: integers (whole numbers) like 2, floats (decimals) like 3.56789
++ Strings: (text) like 'hello' or "hello", anything within quotes
++ Boolean: true or false
++ null (empty)
++ undefined (not yet defined)
+
+Checking the data type:
++ `typeof` is a keyword that allows us to check the data type.
+```js
+const STAY_THE_SAME = 1;
+typeof STAY_THE_SAME; //reports type of number 
+var hamburger = 'Yumm';
+typeof hamburger; //reports type of string
+```
+
+### Concatenation
+
++ JavaScript uses `+` symbol for math when surrounded by numbers, but when any content is a string, it will concatenate the text. If Boolean and a number: `true = 1` and `false = 0`. So `true + 2 = 3`… weird huh? This can produce unexpected results unless we are careful how we use `+` symbol. It’s also good idea to be aware what data types are involved.
+
+```js
+var combine = '10' + 5;` //string concatenation
+combine; //returns "105"
+// adding a string and an integer gives you a string
+```
+
+### String Methods:
+
++ String methods can be called on a string to modify the string in some way. Usually you can figure out what a method is going to do just based on its name. Some examples:
+```js
+//toUpperCase
+	"Foobar”.toUpperCase(); //returns "FOOBAR"
+//toLowerCase
+	"Foobar".toLowerCase(); //returns "foobar"
+//replace
+	"Foobar".replace("bar", "baz"); //returns "Foobaz"
+	"Foobar".replace(/o/g, "x"); //returns "Fxxbar
+```
++ Method Chaining is also possible with the output of one statement feeds into the next one.
+	+ `"Foobar".replace(/o/g, "x").toUpperCase(); //returns "FXXBAR"`
+
+### Data Type Conversion
 	+ Concatenating empty string changes number to a string.
 	```js
 		var stringy = 12 + ' ';
@@ -115,16 +136,19 @@ You guys have all of the basics for creating fantastic, responsive web designs. 
 		gallonsGas; //reports 10.25 as number
 	```
 	+ `parseInt` stops at whole number and ignores characters that are not numbers. 10xffffff same as 10.12345 becomes 10. Where as `parseFloat` maintains decimal values.
-+ Dialog Boxes and JS Console
-	+ alerts:
+
+### Dialog Boxes and JS Console
+	+ alerts (Outputs a string)
 		+ `alert('warning do not attempt to cook food using this website!');`
-	+ confirm
+	+ confirm (Boolean values)
 		+ `var delete = confirm('Are you sure you want to delete this?');` //true or false
 	+ prompt
 		+ `var age = prompt('Please enter your age: ');` //captures the value inserted.
 	+ Log
 		+ `console.log(age);` 
-		+ reports the age they entered into the JS Console located in the developer too window.
+		+ reports the age they entered into the JS Console located in the developer tool window.
+		+ *ProTip: This can be a great way to show output of code as you're working. [JSbin](http://jsbin.com/?js,console) or similar editors usually have a console window
+
 + Doing math with JavaScript: 
 	+ Arithmetic Operators
 
