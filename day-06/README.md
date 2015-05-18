@@ -12,14 +12,15 @@
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
-            
+            <a href="https://github.com/learn-co-curriculum/Hs-Zhw-Shoes-Layout">ToDo: ZHW Shoes</a>
         </td>
     </tr>
     <tr>
         <td>9:15 - 10:00</td>
         <td>Intro to jQuery</td>
         <td>
-            <a href="lectures/intro-to-jquery">Lecture: Intro to jQuery</a>
+            <a href="lectures/intro-to-jquery">Lecture: Intro to jQuery</a></br>
+            <a href="lectures/using-selectors">Interactive Practice: jQuery Selectors</a></br>
         </td>
     </tr>
     <tr>

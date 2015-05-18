@@ -36,8 +36,9 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
 
 <img src="https://s3.amazonaws.com/after-school-assets/jquery4.png">
 
++ Take a look at this image - these are all HTML elements that we know and love. 
 + This model enables us to modify the content and visual presentation on our HTML document with scripting languages such as JavaScript.
-+ What kind of things can we do with JS + DOM.
++ What kind of things can we do with JS + DOM?
   + Add/remove/hide/show HTML elements in the page.
   + Add/remove/change HTML attributes.
   + Add/remove/change  CSS styles.
@@ -106,15 +107,17 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
   + Select by position
   + `$('li:eq(1)')` //selects the second list item
 
+
+
 + A few examples of jQuery methods
   + Effects
-    + animate(`, `fadeTo()`, show(), hide(),  slideToggle()
+    + `animate()`, `fadeTo()`, `show()`, `hide()`,  `slideToggle()`
   + Events
-    + click(), hover(), focus(), blur(), keypress()
+    + `click()`, `hover()`, `focus()`, `blur()`, `keypress()`
   + Manipulation
-    + addClass(), clone(), empty(), attr(), val()
+    + `addClass()`, `clone()`, `empty()`, `attr()`, `val()`
   + Traversing
-    + eq(), each(), has(), closest(), find()
+    + `eq()`, `each()`, `has()`, `closest()`, `find()`
 + If you want to do something to your DOM jQuery probably has a method for it. 
 + Note that to execute a method, you put `()` after it. That means, "hey, run this method now!"
 + YOU DO NOT HAVE TO MEMORIZE ALL OF THE METHODS
