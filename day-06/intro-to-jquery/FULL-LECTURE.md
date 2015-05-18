@@ -59,6 +59,7 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
 + To setup a document to run jQuery we must link to the jQuery core library first, just like linking your HTML and CSS! Imagine that JavaScript is like a pet dog. On it’s own it knows how to eat, sleep, and play. Loading jQuery is like teaching the dog new tricks such as roll over, fetch, etc… Imagine what would happen if we gave the command for our dog to fetch before we had taught it this trick (linked to jQuery). Therefore, we always link to the jQuery core library first.
 + Inside your `<head></head>`, remote link: 
 `<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>`
+  * This is hosted for us, just like Bootstrap. We can also download the files and include them with our project
 + Inside your `<head></head>`, local link (downloaded from jquery.com):
 `<script src=”js/jquery-1.8.2.min.js"></script>`
 + Inside your `<head></head>`, both using local as fallback solution:
@@ -174,7 +175,13 @@ jQuery is a powerful JavaScript library that controls all the magic you see on y
     });
   });
   ```
-+ You can see that we have a button in our dom and when we click that button the .click method performs the action within the function that we’ve given as an argument.
+
++ There's a lot happening here, so let's break it down step by step. 
+  + First, we're calling our document ready method. 
+  + Inside of our document ready function, we use the jQuery object `$` to select anything with the id of `"#alert"`. In this case, that's our button.
+  + We call a method, `.click`, which fires a function whenever the item is clicked on. 
+  + Inside of that function, we pop up an alert that says "hello there."
+  + You can see that we have a button in our dom and when we click that button the .click method performs the action within the function that we’ve given as an argument.
 + We can get even fancier and include jQuery methods within the function. 
 + For instance - what if we want to add some text to our page every time the button is clicked? 
 + We can use a very handy jQuery append method. The append method will add HTML to any piece of the DOM indicated. 
