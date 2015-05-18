@@ -184,21 +184,23 @@ $(document).ready(function(){
 + For instance - what if we want to add some text to our page every time the button is clicked? 
 + We can use a very handy jQuery append method. The append method will add HTML to any piece of the DOM indicated. 
   + For example if I add `<div id="alert-tracker"></div> `to my dom I can append “alert clicked!” every time the button is pushed and keep track of how many times the alert button has been pushed like this:
+
 HTML:
 
 ```html
 <button id="alert">Push to Alert</button>
 ```
 
-  JS:
-  ```js
-  $(document).ready(function(){
-    $('#alert').click(function(){
-      alert('hello there');
-      $('#alert-tracker').append("<p>alert clicked!</p>");
-    });
+JS:
+
+```js
+$(document).ready(function(){
+  $('#alert').click(function(){
+    alert('hello there');
+    $('#alert-tracker').append("<p>alert clicked!</p>");
   });
-  ```
+});
+```
 
 + Pretty cool, huh! 
 + Now go get some practice with the labs on Learn.co!
