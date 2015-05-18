@@ -20,6 +20,7 @@
         <td>Intro to jQuery</td>
         <td>
             <a href="lectures/intro-to-jquery">Lecture: Intro to jQuery</a>
+            <a href="lectures/using-selectors">Interactive Practice: jQuery Selectors</a>
         </td>
     </tr>
     <tr>
