@@ -159,6 +159,7 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
 
 + One jQuery method that you will probably be using a lot is the `.click()` method.
 + The `.click()` method also takes a function as an argument - a function that describes what should be done when that particular part of the DOM is clicked. Here is an example (demo this in jsFiddle):
+
 HTML:
 
 ```html
