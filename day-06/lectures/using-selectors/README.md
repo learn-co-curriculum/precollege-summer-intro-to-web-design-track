@@ -1,14 +1,14 @@
-## Interactive Practice - jQuery Selectors
+# Interactive Practice - jQuery Selectors
 
-### Motivation/Why Should You Care? 
+## Motivation/Why Should You Care? 
 
 We've seen how powerful jQuery can be, but the syntax can be a little hard to pick up. Let's practice together to start getting the hang of it. 
 
-### Lesson Plan
+## Lesson Plan
 
-#### Selecting an Element
+### Selecting an Element
 
-+ Open Google Chrome and navigate to beyonce.com](http://www.beyonce.com)
++ Open Google Chrome and navigate to [beyonce.com](http://www.beyonce.com)
 	*If Beyonce is down, you can use [Instagram](https://www.instagram.com)*
 + In the toolbar, click "View" > "Developer" > "Javascript Console"
 + Remember that Javascript was built to run in our browser - the console lets us type in Javascript and jQuery commands to test things out and play around. 
@@ -21,7 +21,7 @@ We've seen how powerful jQuery can be, but the syntax can be a little hard to pi
 	* *If there are more than one h1s, they'll show up in brackets like this. We'll talk more about this tomorrow.*
 + So that's how we select h1s, how could I select all the p tags? What about h2, or a?
 
-#### Modifying an Element
+### Modifying an Element
 
 + So we can know select an h1 element. What if I want to know what text it contains? I can do this by calling a jQuery method on the element. 
 + Does anyone know what method I can use to get the text from the h1?
@@ -36,7 +36,7 @@ We've seen how powerful jQuery can be, but the syntax can be a little hard to pi
 + There's a lot going on here, can someone explain to me all of the steps?
 	+ *Teachers - have a student walk through all of the steps going on. Make sure that they understand they are selecting an element and modifying it with a method. 
 
-#### Bonus Fun - Animation Methods
+### Bonus Fun - Animation Methods
 
 + Do you guys want to see something cool? jQuery has lots of great animation methods built into it. Try selecting our h1 again, but this time call the `slideUp()` method on it. 
 	* `$( "h1" ).slideUp()`
