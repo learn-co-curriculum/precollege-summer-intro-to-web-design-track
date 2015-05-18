@@ -32,7 +32,7 @@ jQuery is a powerful JavaScript library that can control all the magic you see o
 
 ### The DOM
 
-+ The DOM, stands for document object model and it is a structural representation of our HTML in tree form. Like this:
+Before we can really dive into jQuery we need to understand the DOM. The DOM, stands for *Document Object Model* and it is a structural representation of our HTML in tree form. Like this:
 
 <img src="https://s3.amazonaws.com/after-school-assets/jquery4.png">
 
