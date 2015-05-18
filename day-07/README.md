@@ -19,6 +19,7 @@
         <td>9:15 - 10:00</td>
         <td>Lecture: JavaScript Basics</td>
         <td>
+            <a href="lectures/js-basics">Lecture: JavaScript Basics</a>
         </td>
     </tr>
     <tr>
