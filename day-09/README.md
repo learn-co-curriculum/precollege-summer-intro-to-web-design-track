@@ -9,15 +9,10 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
+        <td>9:00 - 3:00</td>
+        <td>Project Mode!</td>
         <td>
-        </td>
-    </tr>
-    <tr>
-        <td>9:00 - 10:00</td>
-        <td> </td>
-        <td>
+            Students should work on projects all day. They should take a lunch break as appropriate. Feel free to add improv/review lectures as needed. 
         </td>
     </tr>
 </table>
