@@ -37,13 +37,13 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
 <img src="https://s3.amazonaws.com/after-school-assets/jquery4.png">
 
 + Take a look at this image - these are all HTML elements that we know and love. 
-+ This model enables us to modify the content and visual presentation on our HTML document with scripting languages such as JavaScript.
++ This model enables us to modify the content and visual presentation on our HTML document with scripting languages such as jQuery (and plain JavaScript).
 + What kind of things can we do with JS + DOM?
-  + Add/remove/hide/show HTML elements in the page.
-  + Add/remove/change HTML attributes.
-  + Add/remove/change  CSS styles.
+  + Add/remove/hide/show HTML elements in the page
+  + Add/remove/change HTML attributes
+  + Add/remove/change CSS styles
   + Listen for key presses or mouse events upon Elements
-  + Create events in the page.
+  + Animate Elements
 
 <img src="https://s3.amazonaws.com/after-school-assets/tumblr_mo32apssfq1r8lg7to1_500.jpg">
 
@@ -54,8 +54,9 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
   + jQuery is a JavaScript library
 + What is a library?
   + A library is a  collection of code that extends the abilities and features of a core programming language, offering additional methods and often simplifying the process to build in that native language.
+  + You can even look at the text file that makes up jQuery by navigating to `https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.js` in your browser!
 + Why use jQuery?
-  + It just works everywhere and it's much shorter to write than vanilla Javascript!
+  + Since it's just JavaScript, it works everywhere JavaScript does, and it's much simpler to write than vanilla Javascript!
 
 ### Setup
 
@@ -66,10 +67,14 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
 + Inside your `<head></head>`, local link (downloaded from jquery.com):
 `<script src=”js/jquery-1.8.2.min.js"></script>`
 + Inside your `<head></head>`, both using local as fallback solution:
+
 ```html
+<head>
+  ... Other stuff that goes in between the head tags ...
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/jquery-1.8.2.min.js"> <\/script>')</script>
-  ```
+  <script>window.jQuery || document.write('<script src="js/jquery-1.8.2.min.js"> <  \/script>')</script>
+</head>
+```
 
 ### Syntax, Selectors, and Methods
 
