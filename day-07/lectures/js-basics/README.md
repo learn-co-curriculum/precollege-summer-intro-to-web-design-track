@@ -202,6 +202,8 @@ if (gasTank === 34) {
 
 <img src="https://s3.amazonaws.com/after-school-assets/jquery2.png">
 
+### Complex Conditionals
+
 + We can add additional branches to a conditional statement with the `else if` keywords like this:
 ```js
 	if (gasTank === 34) {
@@ -224,9 +226,14 @@ if (gasTank === 34) {
 	   console.log(’Tank refill mandatory!');
 	 }
 ```
+
+### Logical Operators 
+
 + Here is a list of all the Logical Operators and what they do:
 
 <img src="https://s3.amazonaws.com/after-school-assets/jquery3.png">
+
+### Linking to HTML and websites
 
 + What do I do with my JavaScript. You write out your JS in a `.js` file and require it in your html files like this:
 	+ `<script src="js/myScript.js"></script>`
