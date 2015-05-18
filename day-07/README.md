@@ -16,17 +16,38 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:00</td>
+        <td>9:15 - 10:45</td>
         <td>Lecture: JavaScript Basics</td>
         <td>
+            <a href="lectures/js-basics">Lecture: JavaScript Basics</a>
         </td>
     </tr>
     <tr>
-        <td>10:00 - 11:30</td>
+        <td>10:45 - 11:30</td>
         <td><a href="https://github.com/learn-co-curriculum/Js-Donut-Lab">Lab: Donut Lab (Conditionals)</a></td>
         <td>
         </td>
     </tr>
+    <tr>
+        <td>11:30 - 12:30</td>
+        <td>Lunch</td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>12:30 - 1:30</td>
+        <td>Lecture: jQuery Event Handlers</td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td>1:30 - 2:30</td>
+        <td>Lab: jQuery Event Handlers</td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/jQuery-user-input-calculator">Lab: Calculator</a>
+        </td>
+    </tr>
+    
 </table>
 
 ## SWBATs
