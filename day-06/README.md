@@ -12,7 +12,7 @@
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
-            
+            <a href="https://github.com/learn-co-curriculum/Hs-Zhw-Shoes-Layout">ToDo: ZHW Shoes</a>
         </td>
     </tr>
     <tr>
