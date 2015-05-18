@@ -19,12 +19,18 @@
         <td>9:15 - 10:00</td>
         <td>Intro to jQuery</td>
         <td>
-            <a href="lectures/intro-to-jquery">Lecture: Intro to jQuery</a></br>
-            <a href="lectures/using-selectors">Interactive Practice: jQuery Selectors</a></br>
+            <a href="lectures/intro-to-jquery">Lecture: Intro to jQuery</a>
         </td>
     </tr>
     <tr>
-        <td>10:00 - 11:30</td>
+        <td>10:00 - 10:30</td>
+        <td>Interactive Practice: jQuery Selectors</td>
+        <td>
+            <a href="lectures/using-selectors">Interactive Practice: jQuery Selectors</a>
+        </td>
+    </tr>
+    <tr>
+        <td>10:30 - 11:30</td>
         <td>Group Lab: jQuery Selectors</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></br>
