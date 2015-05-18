@@ -24,8 +24,9 @@
     </tr>
     <tr>
         <td>10:45 - 11:30</td>
-        <td><a href="https://github.com/learn-co-curriculum/Js-Donut-Lab">Lab: Donut Lab (Conditionals)</a></td>
+        <td>Lab: Conditionals</td>
         <td>
+            <a href="https://github.com/learn-co-curriculum/Js-Donut-Lab">Lab: Donut Lab</a>
         </td>
     </tr>
     <tr>
@@ -36,8 +37,12 @@
     </tr>
     <tr>
         <td>12:30 - 1:30</td>
-        <td>Lecture: jQuery Event Handlers</td>
+        <td>Labs</td>
         <td>
+            <a href="https://github.com/learn-co-curriculum/js-atm-function-based">Lab: ATM</a>
+            <a href="https://github.com/learn-co-curriculum/fe-jquery-simple-calc">Lab: Simple Calculator</a>
+            <a href="https://github.com/learn-co-curriculum/whac-a-mole.js">Stretch Lab: Whac-a-Mole</a>
+            <a href="https://github.com/learn-co-curriculum/task-list/blob/solution/js/tasklist.js">Stretch Lab: Task List</a>
         </td>
     </tr>
     <tr>
