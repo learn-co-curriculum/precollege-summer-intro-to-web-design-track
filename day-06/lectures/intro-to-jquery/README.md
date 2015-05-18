@@ -130,31 +130,17 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
   + [API](http://api.jquery.com/)
   + [Documentation](http://docs.jquery.com/)
   + Or nifty [cheatsheets](http://oscarotero.com/jquery/)
-  + [and](http://overapi.com/jquery)
+  + [Overview](http://overapi.com/jquery)
 
-### Using jQuery and Javascript
+### Using jQuery 
 
-+ How will I know when to use jQuery versus core JavaScript?
-  + Remember, jQuery is written in Javascript - it's just an extension of the basic Javascript 
-  + This means that we can get a lot more mileage by integrating jQuery with core JavaScript.
-+ An example of JS and jQuery working together:
-  ```js
-  var x = 12, 
-  y = 5,
-  total = x + y;
-
-  If (total === 17) {
-    $(’p').text('Correct!');
-  } else {
-    $(’p').text('Incorrect.');
-  }
-  ```
 + Set up steps for using jQuery in your websites:
-  +  Include link to jQuery core library:
+  +  Include link to jQuery core library between your `<head>` tags:
    `<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>`
   + Link to your custom js file
   `<script src=”./js/app.js"></script>`
   + Start your `app.js` with document ready command:
+
     ```js
     $(document).ready(function() {
        // your app code goes here.
@@ -165,53 +151,64 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
 
 #### Document Ready
 + You’ll notice that here we are calling the ready method on the `$(document)` object and that ready function takes an argument that is another function. This happens a lot in jQuery. 
-+ Our javascript files often get loaded before any other elements on our page. 
-+ That means we apply jQuery selectors before any selectors have loaded on our page, so nothing happens. 
-+ Using Document Ready is the same as saying, "Okay, as soon as the page is done loading, apply all of our cool jQuery methods "
++ Our javascript files often get loaded before any other elements on our page. This can be dangerous if we want to access the DOM before it has loaded 
++ If we apply jQuery selectors before any DOM elements have loaded on our page then nothing will happen since those elements don't exist yet
++ Using Document Ready is the same as saying, "Okay, as soon as the page is done loading, apply all of our cool jQuery methods"
 
 #### Click
 
 + One jQuery method that you will probably be using a lot is the `.click()` method.
-+ The `.click()` method also takes a function as an argument - a function that describes what should be done when that particular part of the dom is clicked. Here is an example (demo this in jsFiddle):
-  HTML:
-  ```html
-  <button id="alert">Push to Alert</button>
-  ```
-  JS:
-  ```js
-  $(document).ready(function(){
-    $('#alert').click(function(){
-      alert('hello there');
-    });
++ The `.click()` method also takes a function as an argument - a function that describes what should be done when that particular part of the DOM is clicked. Here is an example (demo this in jsFiddle):
+
+HTML:
+
+```html
+<button id="alert">Push to Alert</button>
+```
+
+JS:
+
+```js
+$(document).ready(function(){
+  $('#alert').click(function(){
+    alert('hello there');
   });
-  ```
+});
+```
 
 + There's a lot happening here, so let's break it down step by step. 
   + First, we're calling our document ready method. 
-  + Inside of our document ready function, we use the jQuery object `$` to select anything with the id of `"#alert"`. In this case, that's our button.
-  + We call a method, `.click`, which fires a function whenever the item is clicked on. 
+  + Inside of our document ready function, we use the jQuery object `$` to select anything with the id (`#`) of `"alert"`. In this case, that's our button.
+  + We call a method, `.click()`, which fires a function whenever the item is clicked on. 
  
 + We can get even fancier and include jQuery methods within the function. 
 + For instance - what if we want to add some text to our page every time the button is clicked? 
 + We can use a very handy jQuery append method. The append method will add HTML to any piece of the DOM indicated. 
   + For example if I add `<div id="alert-tracker"></div> `to my dom I can append “alert clicked!” every time the button is pushed and keep track of how many times the alert button has been pushed like this:
-  HTML:
-  ``html
-  <button id="alert">Push to Alert</button>
-  ```
-  JS:
-  ```js
-  $(document).ready(function(){
-    $('#alert').click(function(){
-      alert('hello there');
-      $('#alert-tracker').append("<p>alert clicked!</p>");
-    });
+
+HTML:
+
+```html
+<button id="alert">Push to Alert</button>
+```
+
+JS:
+
+```js
+$(document).ready(function(){
+  $('#alert').click(function(){
+    alert('hello there');
+    $('#alert-tracker').append("<p>alert clicked!</p>");
   });
+});
+```
+
 + Pretty cool, huh! 
 + Now go get some practice with the labs on Learn.co!
 
 ## Conclusion
-jQuery is magic - it lets users interactive with our pages in awesome ways.
+jQuery is magic - it lets users interact with our pages in awesome ways and allows those pages to do awesome things.
 
 ## Hints and Hurdles
 + The `$` is like saying "hey jQuery, wake up. It's time for you to get to work"
++ Make sure the page is loaded using `$(document).ready()` before trying to hook jQuery up to the DOM
