@@ -12,7 +12,7 @@
         <td>9:00 - 11:30</td>
         <td>Project Ideation</td>
         <td>
-     
+            <a href="lectures/intro-to-project-mode">Lecture: Intro to Project Mode</a>
         </td>
     </tr>
     <tr>

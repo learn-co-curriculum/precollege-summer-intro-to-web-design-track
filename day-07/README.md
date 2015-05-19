@@ -12,7 +12,7 @@
         <td>9:00 - 9:15</td>
         <td>To Do: </td>
         <td>
-            <b>Create One</b>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-to-web-development-jquery-card-flipper-to-do">ToDo: jQuery Card Flipper</a>
         </td>
     </tr>
     <tr>
