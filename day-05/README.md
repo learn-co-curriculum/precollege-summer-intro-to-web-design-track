@@ -66,7 +66,7 @@
     
 </table>
 
-## SWABTs
+## SWBATs
 * UX — Explain the significance of 'User Experience' in the context of programming.
 * UX - Identify and critique design decisions in their favorite websites and apps.
 * IDEATION — Use storyboarding as a tool for generating compelling narratives and virtual experiences 
