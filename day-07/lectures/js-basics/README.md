@@ -24,45 +24,6 @@ We've seen how we can use jQuery to manipulate the elements of a website. Now we
 ### Variables
 
 + A variable is like a bucket that we can store some data inside and then later change the data it stores.
-<<<<<<< HEAD
-	+ The bucket has a name that is arbitrary but should make it easy for a developer to understand what goes inside
-+ You need to declare variables explicitly in JavaScript with the `var` keyword like this:
-	+ `var x;` 
-	+ `var` lets JavaScript know that you've just made a variable
-+ Naming variables: start with letter (a-z) and can contain 0-9, a-z, A-Z, you can also use `_ `never use spaces ' ' or or illegal characters (! % ?)
-+ For variable names consisting of multiple words you should use camelCase or snake_case (camelCase is generally what JS developers use by convention and is called that becauseTheLettersMakeHumpsInTheName)
-+ Let's assign a value in x (remember we declared var x; previously)
-	+ `x = 10;`
-+ I can refer directly to x and change its value using `=` symbol
-+ We can also declare and assign a value simultaneously.
-	+ `var y = 20;`
-+ Declare multiple variables at once using comma separation.
-	```js
-	var a = 1,
-	b = 2, 
-	c = 3;
-	```
-+ We end our statements with semicolons
-
-### Math
-
-+ JavaScript supports the basic math operators you would expect (`+`, `-`, `*`, `/`)
-+ Anytime we see an equation in code JS will try to run the equations
-	+ So `10*3` becomes `30` to the computer running your code.  
-+ Perform math on variables
-	```js
-	var x = 10, 
-	y = 20,
-	myMath = x + y;
-	//What does myMath equal? (30)
-
-	x = 5;
-	myMath = x + y;
-	//What does myMath equal now? (25)
-```
-+ JS also supports something called "Modulo", which we represent with the `%`
-+ `x%y` returns the remainder of `x/y`. `5%2` equals 1. `4%2` equals 0.
-=======
 + You need to declare variables explicitly in JavaScript with the `var` keyword
 + Naming variables: start with letter a-z A-Z remaining 0-9 a-z A-Z, you can also use `_ `never use spaces ' ' or or illegal characters (! % ?)
 + For variable names consisting of multiple words you should use camelCase or snake_case (camelCase is generally what JS developers use by convention and is called that becauseTheLettersMakeHumpsInTheName)
@@ -72,7 +33,6 @@ We've seen how we can use jQuery to manipulate the elements of a website. Now we
 ### Math
 
 + JavaScript supports the basic math operators you would expect (`+`, `-`, `*`, `/`, `%`)
->>>>>>> day07
 
 ### Constants
 

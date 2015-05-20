@@ -14,7 +14,7 @@ This is the progression of Facebook from 2004.  What changes do you notices?  Wh
 
 ### Lesson Plan
 
-Mini-activity:  Have every student pull out their phones.  Have them turn to a partner and explain all of the user options at any given interface, the user flow, and identify and critque design decsions.  
+Mini-activity:  Have every student pull out their phones.  Have them turn to a partner and explain all of the user options at any given interface, the user flow, and identify and critique design decisions. 
 
 + What are some sites or apps that you found intuitive to use? 
 	* What are some things that they have in common? 

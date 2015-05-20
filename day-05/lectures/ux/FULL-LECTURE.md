@@ -15,7 +15,7 @@ This is the progression of Facebook from 2004.  What changes do you notices?  Wh
 
 ### Lesson Plan
 
-Mini-activity:  Have every student pull out their phones.  Have them turn to a partner and explain all of the user options at any given interface, the user flow, and identify and critque design decsions.  Have them answer what they think the motivations were of the designer.
+Mini-activity:  Have every student pull out their phones.  Have them turn to a partner and explain all of the user options at any given interface, the user flow, and identify and critique design decisions.  Have them answer what they think the motivations were of the designer.
 + Questions to think about
 	* Why is the Main button of the iPhone at the bottom of the phone? In the center?
 	* Why is the camera at the top?  The volume on the sides?  Why are the apps square?  With soft edges?  Why is the screen scroll to the sides? 
@@ -23,6 +23,15 @@ Mini-activity:  Have every student pull out their phones.  Have them turn to a p
 + When we make choices for our sites, we want to make them as intuitive to use as possible
 	* This is to say that a user should be able to use the site the way you intended without any explicit instructions
 
++ Take a look at this teapot. 
+
+![teapot](http://blog.webafrica.co.za/wp-content/uploads/2013/05/teapot.jpg)
++ What makes this a bad user experience? 
+	* It's awkward/unnatural - you'd have to twist your wrist to pour tea
++ Check out these doors - would you push or pull to open them?
+	*![push](https://www.ibmhcorp.com/img/products/6928-barras-puertas-de-emergencia-herrajes-contafuegos-accesorios-puertas-cortafuego-contra-incendios-antipanico-horizontal-breakout-exit-panic-bars-emergency-exit-door-handles-hardware-firewalls-fire-doors-accesories.jpg)
+	*![pull](http://www.steinerdoors.com/products/pics/22_IMG_0253-01.jpg)
++ How can you tell, just by the design of these items, how you're meant to use them?
 + What are some sites or apps that you found intuitive to use? 
 	* *Have them name a few*
 	* What are some things that they have in common? 
