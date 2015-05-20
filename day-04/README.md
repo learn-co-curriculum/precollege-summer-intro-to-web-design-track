@@ -30,8 +30,6 @@
         <td>
         <a href="https://github.com/learn-co-curriculum/Css-Graffiti-Override">Lab: Graffiti Override</a>
         </br>
-        Pseudo Selector Lab***
-        </br>
         <a href="https://github.com/learn-co-curriculum/css-issue-bot-9000">Lab: CSS Issue Bot 9000</a>
         </td>
     </tr>
