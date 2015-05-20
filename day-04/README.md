@@ -14,7 +14,7 @@
         <td>
             <a href="https://docs.google.com/presentation/d/1NJ4YCU7Sj1H_KoMkF-s2aswr-b39JMNTWILe4bLTmNU/edit#slide=id.gafe5a1ee8_0_0">Day 4 Deck</a>
             <br>
-            To-Do<a href="https://github.com/learn-co-curriculum/css-issue-bot-9000">CSS Issue Bot 9000</a>
+            <a href="https://github.com/learn-co-curriculum/My-Little-Rainbow">ToDo: My Little Rainbow</a>
         </td>
     </tr>
     <tr>
@@ -30,9 +30,7 @@
         <td>
         <a href="https://github.com/learn-co-curriculum/Css-Graffiti-Override">Lab: Graffiti Override</a>
         </br>
-        Pseudo Selector Lab***
-        </br>
-        1 more (scaling and/or border properties)?
+        <a href="https://github.com/learn-co-curriculum/css-issue-bot-9000">Lab: CSS Issue Bot 9000</a>
         </td>
     </tr>
     <tr>
