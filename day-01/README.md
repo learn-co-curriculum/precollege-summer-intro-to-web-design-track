@@ -22,7 +22,8 @@
         <td>10:20 - 11:00</td>
         <td> CLI </td>
         <td> 
-            <a href="lectures/cli">Lecture Guide: CLI</a></br>
+            <a href="lectures/cli">Lecture Notes: CLI</a></br>
+            <a href="lectures/cli/FULL-LECTURE.md">Full Lecture: CLI</a></br>
             <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Castle Code Along</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Advanced CLI</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-cli-cultural-piece">Resource: Command Line Fun</a>
