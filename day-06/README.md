@@ -12,7 +12,7 @@
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
-            <a href="https://github.com/learn-co-curriculum/Hs-Zhw-Shoes-Layout">ToDo: ZHW Shoes</a>
+            <a href="https://github.com/learn-co-curriculum/css-issue-bot-9000">ToDo: CSS Issue Bot 9000</a>
         </td>
     </tr>
     <tr>
