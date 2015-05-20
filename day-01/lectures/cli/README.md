@@ -1,10 +1,11 @@
-## Unit 1: Command Line - Lecture Notes
+# Unit 1: Command Line - Lecture Notes
 
-### SWBATs
+## Objective
 
-Objective: Students will be able to navigate their system’s file structure using the CLI (command line interface) in terminal.
+Students will be able to navigate their system’s file structure using the CLI (command line interface) in terminal.
 
-#### CLI
+## SWBATs
+
 * Understand and explain what a terminal is and why we use it
 * Navigate through directories using relative and absolute paths
 * Use the cd command to move up and down directories
@@ -13,10 +14,12 @@ Objective: Students will be able to navigate their system’s file structure usi
 * Move files and directories using the `mv` command
 
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
+
 Back in the day (the 1980s!), computers only had a terminal to control them. Later on, Graphical User Interfaces (GUIs) were created to make computers more accessible (like for your computer-illiterate grandparents). Developers continue to use the terminal instead of the GUI because it speeds up development and allows for more granular control.
 
-### Lesson Plan
+## Lesson Plan
+
 ***Any students that have done this lesson before should do the advanced [CLI Bash Scripting Lab](https://github.com/learn-co-curriculum/hs-advanced-cli) ***
 
 You're going to learn about the command line by planning for a trip. 
@@ -45,12 +48,12 @@ You're going to learn about the command line by planning for a trip.
   + create 3 things to see or do in each city.
   + on your whiteboard, draw out the tree for each directory and file inside the trip directory.
 
-### Conclusion / So What?
+## Conclusion / So What?
 + As we learn to build complicated applications, being able to swiftly navigate your computer using the command line will make your life much easier. The command line will be important not just for navigation, but you'll also use it to do things like boot the local server for your web apps, write scripts to automate tasks, and execute other important functions on your computer.
 
-### Hints and Hurdles
+## Hints and Hurdles
 + Navigating your computer from the command line is a lot about muscle memory. It's important that students get a lot of repetition in with these commands.
 + In [Lab: Find The Missing Pets]( https://github.com/learn-co-curriculum/find-missing-pet), instructor should complete one or two examples before releasing students.
 
-### Additional Media
+## Additional Media
 + It might be fun for the class to play around with these [CLI easter eggs](https://github.com/learn-co-curriculum/hs-cli-cultural-piece).

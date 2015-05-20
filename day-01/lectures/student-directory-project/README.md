@@ -1,4 +1,4 @@
-###SWBATS
+## SWBATS
 ***Students will create their own profile page using HTML!***
 
   + Create, read, and understand a simple page using html tags
@@ -11,7 +11,7 @@
   + Add a link to a page using the a tag
   + Create relative links within a site
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
 + Start with an altered tweet from Justin Bieber on the screen using the dev tools that says “I LOVE FLATIRON SCHOOL AND CODING. EVERYONE SHOULD ATTEND AFTER SCHOOL.”  
   * Don’t have dev tools up. 
   * Let them know by the end of the lesson they’ll learn how we did that.
@@ -24,7 +24,7 @@
     * Services like Pocket and Embedly use it to pull articles to save to your reading list, without pulling the entire site. 
     * Ever been frustrated that you didn't have an option to translate a page from another language into English? HTML tags control that
 
-### Lesson Plan
+## Lesson Plan
 
 [Lab: Student Directory Project](https://github.com/learn-co-curriculum/hs-intro-web-student-directory)
 
@@ -90,9 +90,9 @@ Today, we'll be building a student directory with all of your profile informatio
 + Give them time to customize their pages
 + For students who finish this up really quickly have them try out the [HTML Playground lab](https://github.com/learn-co-curriculum/html-playground).
 
-### Conclusion / So What?
+## Conclusion / So What?
 HTML makes up every single page on the internet. You can't create a web page without it. 
 
-### Hints and Hurdles
+## Hints and Hurdles
 + Indentation does not matter to our browser when it reads the html and displays it but it is SUPER important for humans reading our code.
   * Indentation helps us keep track of what is nested where and helps us to check for our opening and closing brackets. 

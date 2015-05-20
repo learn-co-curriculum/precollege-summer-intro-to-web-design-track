@@ -86,7 +86,7 @@
 
 </table>
 
-## SWBAT
+## SWBATs
 
 ### HTML
 
@@ -111,21 +111,3 @@
 + Adjust backgrounds elements
 + Use hexadecimal, rgba, and rgb color values
 + Read documentation of CSS properties
-
-## Resources
-
-[Deck: How The Internet Works](https://docs.google.com/presentation/d/1t0MNjDKfmiSJSG0LP3dmEfK25guIIW8tncV41Hugk2E/edit#slide=id.gafe5def2e_0_109)
-
-[Deck: Visual Hierarchy](https://docs.google.com/presentation/d/1zDmP-gLao4qE5Fi6qBwQ66cSQccfKN-mZDIKbcLDmFE/edit#slide=id.gafebb4385_0_32)
-
-## Lectures
-
-<a href="lectures/HTML_Fundamentals">HTML Fundamentals</a>
-
-<a href="lectures/CSS_Fundamentals">CSS Fundamentals</a>
-
-<a href="lectures/visual_hierarchy">Visual Hierarchy</a>
-
-<a href="lectures/how_the_internet_works">How The Internet Works</a>
-
-<a href="lectures/independent_study">Independent Study Guide</a>

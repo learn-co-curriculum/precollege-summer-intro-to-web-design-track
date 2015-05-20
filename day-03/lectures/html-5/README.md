@@ -14,7 +14,7 @@ We've already learned some of the basics of using html tags. Today, we're going 
 
 HTML code can be hard for a human being to read! Breaking up and describing our content makes it easier to collaborate with other programmers. 
 
-### Lesson Plan 
+## Lesson Plan 
 
 
 + We've already learned about some html tags to identify content on our page. *What are some of the different tags we know how to use?* 

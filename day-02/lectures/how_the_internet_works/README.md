@@ -1,4 +1,5 @@
-##SWABTS:
+##SWABTs
+
 ***Explain how loading a web page in your browser works***
 
 ## Motivation / Why Should You Care?

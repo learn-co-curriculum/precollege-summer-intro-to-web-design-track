@@ -4,7 +4,7 @@
 
 Students will be able to use the box model to create cohesive page layouts
 
-## SWBATS
+## SWBATs
 
 + Understand box model and how it is affected by padding, margin and border
 + Understand how to use box-sizing property to standardize the box-model across browsers
@@ -145,8 +145,8 @@ Most browsers display `div`,`p`,`h` in `block` style. That means that each eleme
 + ***Now it’s time for you to apply your skills to your personal page!***
 
 
-### Conclusion 
+## Conclusion 
 With CSS, we can controls the entire layout of our page, and how elements relate to each other.
 
-### Hints/Hurdles
+## Hints/Hurdles
 + Make sure you are familiar with all the coding examples, or create your own examples before class. Layout can get tricky and CSS elements can compete with each other. It's easy to break things live and not be able to dig yourself out.

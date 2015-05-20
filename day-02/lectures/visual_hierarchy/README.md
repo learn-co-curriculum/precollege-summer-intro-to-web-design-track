@@ -1,13 +1,14 @@
 # Visual Hierarchy - Lecture Notes
 
+## Objective
 
-##Objective
 Students will be able to Understand and use concepts of visual hierarchy to provide appropriate weight to the important features of a site.
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
+
 You may have a great idea for a website and build something that works, but soon notice that people are coming and then leaving after a very short amount of time. They're not engaging or clicking on any of the links. Sometimes they might end up not being interested in your sight, but without a good design, it could be that users can't find the things they're looking for.
 
-### Lesson Plan
+## Lesson Plan
 
 [Deck](https://docs.google.com/presentation/d/1zDmP-gLao4qE5Fi6qBwQ66cSQccfKN-mZDIKbcLDmFE/edit#slide=id.gafebb4385_0_32)
 
@@ -43,6 +44,6 @@ You may have a great idea for a website and build something that works, but soon
 
 <img src="https://s3.amazonaws.com/after-school-assets/visual-hierarchy-above-the-fold.png">
 
-### Conclusion / So What?
+## Conclusion / So What?
 Design principals play a huge part in determining the amount of action your page gets. Visual hierarchy can help you provide the right amount of weight to get the most important parts of your page noticed.
 

@@ -1,16 +1,20 @@
-### Objective
+# Git Basics
+
+## Objective
 Students will understand the purpose of git and github, understand how to commit locally and push to a remote repository
 
-###SWABTS
+## SWABTS
 
 + GIT - `add` and `commit` files to local repository
 + GITHUB - `push` and `commit` to a remote repository
 + GITHUB - Submit a pull request
 
-### Motivation / Why Should You Care?
+## Motivation / Why Should You Care?
+
 It’s time to bring all of your individual pieces of the student project together. To do that we are going to need to track your progress locally in `git`, then push up your code to Github so we can add all of your individual submissions to our directory.
 
-### Lesson Plan
+## Lesson Plan
+
 + Git and Github aren't the same thing
   * Github: where we save our code in the cloud, while `git` is a version control system that lives on your computer.
   * You use `git` from the command line, like when you cloned a lab to your computer using `git clone`
@@ -32,8 +36,10 @@ It’s time to bring all of your individual pieces of the student project togeth
   * Click the `Pull Request` button in the top right corner and confirm.
   * Sends a notification to the owner of the repo that you have new content you would like them to review and `pull` into their version
 
-### Conclusion / So What?
+## Conclusion / So What?
+
 This is the exact workflow for developers at every tech company. Every time you get work done, you git add, commit and push to save the state of your work. Then to get your code pulled into a master code base we have to get it approved. This means sending a notification. Look [real world projects use this flow](https://github.com/jquery/jquery/pull/2268)
 
-### Useful Metaphors
+## Useful Metaphors
+
 + Airplane analogy: Process of putting code on Github is similar to a plane taking off: first individual passengers get on, then plane pulls away from the terminal, then takes off
