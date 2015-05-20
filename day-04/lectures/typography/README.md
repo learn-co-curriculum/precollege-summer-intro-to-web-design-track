@@ -37,3 +37,4 @@ What is typography? Typography can simply be described as the art of type. It's 
 ### Conclusion/So What?
 
 + Next time while reading your favorite blog or newspaper, observe the fonts, line heights (the distance between each line), line lengths (how many letters per line), and font weights (bold, normal, light). CSS3 gives you great control over fonts and text, so an understanding of the basic rules of typography will come in handy as you design and build websites.
+
