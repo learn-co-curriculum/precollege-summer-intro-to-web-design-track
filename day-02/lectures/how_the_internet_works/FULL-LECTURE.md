@@ -6,6 +6,7 @@ How many times a day do you use the internet? How many times do you load a diffe
 
 ## Lesson Plan
 + See the slide deck [here](https://docs.google.com/presentation/d/1t0MNjDKfmiSJSG0LP3dmEfK25guIIW8tncV41Hugk2E/edit?usp=sharing)
++ Each slide contains notes for the lecture content. 
 
 ## Conclusion / So What?
 Both computers and websites have their own unique IP addresses, which allow open communication for requesting and recveing information on the internet.
