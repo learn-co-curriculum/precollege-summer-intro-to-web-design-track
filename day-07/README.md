@@ -36,7 +36,7 @@
         </td>
     </tr>
     <tr>
-        <td>12:30 - 1:30</td>
+        <td>12:30 - 2:50</td>
         <td>Labs</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/js-atm-function-based">Lab: ATM</a>
@@ -46,16 +46,16 @@
             <a href="https://github.com/learn-co-curriculum/whac-a-mole.js">Stretch Lab: Whac-a-Mole</a>
             <br>
             <a href="https://github.com/learn-co-curriculum/task-list/blob/solution/js/tasklist.js">Stretch Lab: Task List</a>
-        </td>
-    </tr>
-    <tr>
-        <td>1:30 - 2:30</td>
-        <td>Lab: jQuery Event Handlers</td>
-        <td>
+            <br>
             <a href="https://github.com/learn-co-curriculum/jQuery-user-input-calculator">Lab: Calculator</a>
         </td>
     </tr>
-    
+    <tr>
+        <td>2:50 - 3:00</td>
+        <td> Wrap Up </td>
+        <td>
+        </td>
+    </tr>
 </table>
 
 ## SWBATs
