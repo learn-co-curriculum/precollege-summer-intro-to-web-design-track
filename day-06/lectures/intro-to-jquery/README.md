@@ -17,7 +17,11 @@
 
 ## Motivation/ Why Should You Care
 
-jQuery is a powerful JavaScript library that can control all the magic you see on your page, from sliding menus to animations. [Beyonce](http://www.beyonce.com/) has some amazing jQuery on her page. Using Javascript and jQuery makes our pages interactive and awesome.
+jQuery is a powerful JavaScript library that can control all the magic you see on your page, from sliding menus to animations. [Beyonce](http://www.beyonce.com/) has some amazing jQuery on her page. Using Javascript and jQuery makes our pages interactive and awesome. Over half of all websites use jQuery, including 75% of the top 100 sites. That's half of ALL WEBSITES. IN. THE. WORLD. 
+
+![jQuery Stats](http://royal.pingdom.com/wp-content/uploads/2012/06/jquery-stats-580px.jpg)
+
+So where did the magical library of jQuery come from? It was developed by John Resig, a 20 year old college kid who wanted to make it easier for himself to use JavaScript. He then gave it away, for FREE, for anyone to use. 
 
 ## Lesson  Plan
 
