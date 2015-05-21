@@ -22,8 +22,8 @@
         <td>10:20 - 11:00</td>
         <td> CLI </td>
         <td> 
+            <a href="lectures/cli/LECTURE.md">Lecture: CLI</a></br>
             <a href="lectures/cli">Lecture Notes: CLI</a></br>
-            <a href="lectures/cli/FULL-LECTURE.md">Full Lecture: CLI</a></br>
             <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Castle Code Along</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Advanced CLI</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-cli-cultural-piece">Resource: Command Line Fun</a>
@@ -32,7 +32,7 @@
     <tr>
         <td>11:00 - 11:30</td>
         <td> Student Directory Project Intro / HTML INTRO </td>
-        <td><a href="lectures/student-directory-project">Lecture Guide</a></td>
+        <td><a href="lectures/student-directory-project">Lecture: Student Directory Project</a></td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
@@ -57,7 +57,8 @@
         <td>2:20 - 2:50</td>
         <td> Git Add, Commit, Push, Pull Request</td>
         <td>
-            <a href="lectures/git-basics">Lecture Guide</a></br>
+            <a href="lectures/git-basics/LECTURE.md">Lecture: Git Basics</a></br>
+            <a href="lectures/git-basics">Lecture Notes: Git Basics</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-git-code-along-catch-up">Interactive Practice: Github I</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-foundations-git-studyguide">Interactive Practice II: Github II</a></br>
         </td>
@@ -70,7 +71,7 @@
 
 </table>
 
-##SWBATS
+##SWBATs
 
 ###CLI
 + Understand and explain what the terminal is and why we use it
@@ -90,17 +91,3 @@
 + Explain the purpose of HTML
 + Understand the components of an HTML element (opening tag, content, closing tag)
 + Modify content between HTML tags
-
-
-## Resources
-
-+ In General for Day 1:
-  + Students need to download Sublime Text
-
-## Lectures
-
-[Command Line](https://github.com/learn-co-curriculum/hs-ruby1-teachers-guide-command-line)
-
-[Student Directory Intro](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-html)
-
-[Git Add, Commit, Push](https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-git-2)

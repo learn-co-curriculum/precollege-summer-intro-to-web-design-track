@@ -1,4 +1,4 @@
-## Unit 1: Command Line - Lecture Notes
+##Command Line - Full Lecture
 
 ### SWBATs
 

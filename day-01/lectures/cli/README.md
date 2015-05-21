@@ -1,4 +1,6 @@
-# Unit 1: Command Line - Lecture Notes
+#Day-01: Command Line
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## Objective
 
