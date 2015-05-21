@@ -1,4 +1,6 @@
-#JavaScript Basics
+#DAY-07 JavaScript Basics
+
+_A full lecture is available [here](LECTURE.md)_
 
 ##SWBATs
 

@@ -1,4 +1,4 @@
-#JavaScript Basics
+#JavaScript Basics - Full Lecture
 
 ##SWBATs
 
