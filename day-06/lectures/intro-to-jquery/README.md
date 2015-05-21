@@ -1,6 +1,8 @@
-## Intro to jQuery - Full Lecture
+##DAY-06 Intro to jQuery
 
-### SWBATS
+_A full lecture is available [here](LECTURE.md)_
+
+### SWBATs
 
 ***Students will be able to understand the fundamentals of jQuery and incorporate them into their projects***
 
