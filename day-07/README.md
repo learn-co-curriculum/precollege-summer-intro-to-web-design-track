@@ -48,7 +48,7 @@
             <br>
             <a href="https://github.com/learn-co-curriculum/task-list/blob/solution/js/tasklist.js">Stretch Lab: Task List</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/jQuery-user-input-calculator">Lab: Calculator</a>
+            <a href="https://github.com/learn-co-curriculum/jQuery-user-input-calculator">Stretch Lab: Calculator</a>
         </td>
     </tr>
     <tr>
