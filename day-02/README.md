@@ -40,7 +40,7 @@
       <td>
         <a href="lectures/CSS_Fundamentals/LECTURE.md">Lecture: CSS Fundamentals</a></br> 
         <a href="lectures/CSS_Fundamentals">Lecture Notes: CSS Fundamentals</a></br>
-        <a href="lectures/code_snippet1.md">Resource: Code Samples for CSS Fundamentals</a></br>
+        <a href="lectures/CSS_Fundamentals/code_snippet1.md">Resource: Code Samples for CSS Fundamentals</a></br>
         <a href="https://docs.google.com/presentation/d/1wTkUPKfSKt7ueUeKsZ6cYQ0RjRzpnEDLCqKKTB041P8/edit#slide=id.p19">Resource: CSS Fundamentals Slides</a></br>
       </td>
     </tr>
