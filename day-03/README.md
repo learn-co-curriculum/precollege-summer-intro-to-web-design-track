@@ -14,9 +14,7 @@
         <td>
             <a href="https://docs.google.com/presentation/d/1fQJi5vcTuZMPRFLYZk_jALiKJwacFMZWD0TbNG4n-P4/edit#slide=id.gafe34ef86_0_53">Day 3 Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/css-kitten-wheelbarrow">To-Do: Kitten Wheelbarrow</a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/Dev-Tools-Super-Power">To-Do: Dev Tools Super Power</a>
+            <a href="https://github.com/learn-co-curriculum/css-kitten-wheelbarrow">To-Do: Kitten Wheelbarrow</a>                        
         </td>
     </tr>
     <tr>
@@ -28,7 +26,14 @@
         </td>
     </tr>
     <tr>
-        <td>10:00 - 11:30</td>
+        <td>10:00 - 10:15</td>
+        <td>HTML5 Lab</td>
+        <td> 
+            <a href="https://github.com/learn-co-curriculum/Dev-Tools-Super-Power">To-Do: Dev Tools Super Power</a>
+        </td>
+    </tr>
+    <tr>
+        <td>10:15 - 11:30</td>
         <td> CSS Layout</td>
         <td> 
             <a href="lectures/css-layout/LECTURE.md">Lecture: CSS Layout</a><br>

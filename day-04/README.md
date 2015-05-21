@@ -53,7 +53,7 @@
         <td>
             <a href="lectures/bootstrap/LECTURE.md">Lecture: Bootstrap</a></br>
             <a href="lectures/bootstrap">Lecture Notes: Bootstrap</a></br>
-            <a href="https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough">Walkthrough: Bootstrap</a></br>
+            <a href="https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough">Student Walkthrough: Bootstrap</a></br>
         </td>
     </tr>
     <tr>
