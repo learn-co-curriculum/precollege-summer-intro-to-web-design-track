@@ -1,4 +1,6 @@
-# CSS Layout - Lecture Notes
+# DAY-03 CSS Layout 
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## Objective
 

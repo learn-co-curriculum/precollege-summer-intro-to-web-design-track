@@ -23,13 +23,16 @@
         <td>9:15 - 10:00</td>
         <td> HTML5 Semantic Elements</td>
         <td> 
-            <a href="lectures/html-5">Lecture: HTML 5</a>
+            <a href="lectures/html-5/LECTURE.md">Lecture: HTML 5</a><br>
+            <a href="lectures/html-5">Lecture Notes: HTML 5</a><br>
         </td>
     </tr>
     <tr>
         <td>10:00 - 11:30</td>
         <td> CSS Layout</td>
-        <td> <a href="lectures/css-layout">Lecture: CSS Layout</a>
+        <td> 
+            <a href="lectures/css-layout/LECTURE.md">Lecture: CSS Layout</a><br>
+            <a href="lectures/css-layout">Lecture Notes: CSS Layout</a><br>
         </td>
     </tr>
     <tr>
@@ -60,7 +63,7 @@
     </tr>
 </table>
 
-## SWBATS
+## SWBATs
 
 ###HTML
 
@@ -77,9 +80,3 @@
 + Understand how to apply clearfix solution
 + Understand how to use CSS position properties - relative, absolute and fixed
 + Use background properties for box styling
-
-## Resources
-
-## Lectures
-
-<a href="https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-css-layout"> CSS Layout</a>
