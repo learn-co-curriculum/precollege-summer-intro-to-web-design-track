@@ -19,7 +19,8 @@
         <td>9:15 - 10:45</td>
         <td>Lecture: JavaScript Basics</td>
         <td>
-            <a href="lectures/js-basics">Lecture: JavaScript Basics</a>
+            <a href="lectures/js-basics/LECTURE.md">Lecture: JavaScript Basics</a><br>
+            <a href="lectures/js-basics">Lecture Notes: JavaScript Basics</a><br>
         </td>
     </tr>
     <tr>
@@ -47,7 +48,7 @@
             <br>
             <a href="https://github.com/learn-co-curriculum/task-list/blob/solution/js/tasklist.js">Stretch Lab: Task List</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/jQuery-user-input-calculator">Lab: Calculator</a>
+            <a href="https://github.com/learn-co-curriculum/jQuery-user-input-calculator">Stretch Lab: Calculator</a>
         </td>
     </tr>
     <tr>
@@ -72,9 +73,3 @@
 + Add event handlers to DOM Elements
 + Create, Read, Update, and Delete (CRUD) HTML elements using jQuery
 + Understand how to use JavaScript plugins (jQuery UI)
-
-## Resources
-[Donut Lab](https://github.com/learn-co-curriculum/js-donut-lab/tree/master): Explores Javascript Conditionals
-
-
-## Lectures

@@ -1,4 +1,4 @@
-# Day 1 - Welcome and Intros - Lecture Notes
+#Welcome and Intros - Full Lecture
 
 + Welcome everyone as they come in! 
 + Play an icebreaker game! Two of our favorites are: 

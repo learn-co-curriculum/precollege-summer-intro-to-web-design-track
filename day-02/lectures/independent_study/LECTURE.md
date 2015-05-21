@@ -1,3 +1,5 @@
+#Independent Study - Full Lecture
+
 ###Intro:
 At the end of every day we are going to give you guys time for independent study. We know that there are topics in class that will especially appeal to you individually that we may not get to spend a lot of time on. As you get more advanced, there will be things you really want to learn. We want to give you all the time to develop those interests and skills.
 
