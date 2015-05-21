@@ -1,4 +1,6 @@
-# Visual Hierarchy - Lecture Notes
+#DAY-02 Visual Hierarchy
+
+_A full lecture is available [here](LECTURE.md)_
 
 ##Objective
 
