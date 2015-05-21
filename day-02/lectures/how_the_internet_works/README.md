@@ -1,3 +1,7 @@
+#DAY-02 How the Internet Works
+
+_A full lecture is available [here](LECTURE.md)_
+
 ##SWABTs
 
 ***Explain how loading a web page in your browser works***

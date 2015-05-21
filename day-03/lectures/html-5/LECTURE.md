@@ -1,4 +1,4 @@
-# HTML-5 - Lecture Notes
+# HTML-5 - Full Lecture
 
 ## SWBATs
 

@@ -1,4 +1,4 @@
-# Bootstrap - Lecture Notes
+# Bootstrap - Full Lecture
 
 ## SWBATs
 

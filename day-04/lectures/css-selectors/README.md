@@ -1,4 +1,6 @@
-# CSS Selectors
+#DAY-04 CSS Selectors
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## SWBATs
 

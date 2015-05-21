@@ -1,4 +1,4 @@
-# HTML Fundamentals
+# HTML Fundamentals - Full Lecture
 
 ## Objective
 

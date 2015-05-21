@@ -1,4 +1,6 @@
-# CSS Fundamentals
+#DAY-02 CSS Fundamentals
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## Overview
 

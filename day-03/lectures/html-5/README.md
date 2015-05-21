@@ -1,4 +1,6 @@
-# HTML-5
+#DAY-03 HTML-5
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## SWBATs
 

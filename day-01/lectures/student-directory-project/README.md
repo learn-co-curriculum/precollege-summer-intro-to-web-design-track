@@ -1,36 +1,20 @@
-## SWBATS
+#DAY-01 Student Directory Project
+
+_A full lecture is available [here](LECTURE.md)_
+
+## SWBATs
 ***Students will create their own profile page using HTML!***
 
-<<<<<<< HEAD
-  + Create, read, and understand a simple page using html tags
-  + Add an image to a page using the img tag
-  + Experiment with unknown CSS tags
-  + Add text to a page using p and h1-h6 tags
-  + Create an ordered and unordered list using the ol, ul, li tags
-  + Structure an html page using doctype, html, head, title, body tags
-  + Organize chunks of html with div tags
-  + Add a link to a page using the a tag
-  + Create relative links within a site
-
-## Motivation / Why Should You Care?
-=======
 ### Motivation / Why Should You Care?
->>>>>>> 1755854150f511bf9dfcfe2260d05e716acca0bf
+
 + Start with an altered tweet from Justin Bieber on the screen using the dev tools that says “I LOVE FLATIRON SCHOOL AND CODING. EVERYONE SHOULD ATTEND AFTER SCHOOL.”  
   * Let them know by the end of the lesson they’ll learn how we did that.
 + Ask students for their favorite websites and bring it up on the screen and click ‘view source’
 + Web pages are made up of two things: HTML and CSS. First we’re going to start with HTML. HTML, hypertext markup language, is the structure and content of a web page. All it does is tell the browser what different types of content is on the page through "Semantic tags".
 
-<<<<<<< HEAD
-## Lesson Plan
 
-[Lab: Student Directory Project](https://github.com/learn-co-curriculum/hs-intro-web-student-directory)
-
-Today, we'll be building a student directory with all of your profile information on it. By the end of this project, you'll have deployed live, working code to the internet the same way professional web developers do. 
-=======
 ### Lesson Plan
 Today, we'll be building a student directory with all of your profile information on it. By the end of this project, you'll have deployed live, working code to the internet the same way professional web developers do. [Lab: Student Directory Project](https://github.com/learn-co-curriculum/hs-intro-web-student-directory)
->>>>>>> 1755854150f511bf9dfcfe2260d05e716acca0bf
 
 + `cd` into this new directory we just cloned and open up the entire thing in your text editor
 + Open up index.html in your text editor - then right click on the page and click `open in browser` 

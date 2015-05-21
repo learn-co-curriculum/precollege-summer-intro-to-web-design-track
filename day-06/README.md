@@ -19,14 +19,16 @@
         <td>9:15 - 10:00</td>
         <td>Intro to jQuery</td>
         <td>
-            <a href="lectures/intro-to-jquery">Lecture: Intro to jQuery</a>
+            <a href="lectures/intro-to-jquery/LECTURE.md">Lecture: Intro to jQuery</a><br>
+            <a href="lectures/intro-to-jquery">Lecture Notes: Intro to jQuery</a><br>
         </td>
     </tr>
     <tr>
         <td>10:00 - 10:30</td>
         <td>Interactive Practice: jQuery Selectors</td>
         <td>
-            <a href="lectures/using-selectors">Interactive Practice: jQuery Selectors</a>
+            <a href="lectures/using-selectors/LECTURE.md">Lecture (Interactive Practice): jQuery Selectors</a><br>
+            <a href="lectures/using-selectors">Lecture Notes (Interactive Practice): jQuery Selectors</a><br>
         </td>
     </tr>
     <tr>
@@ -66,7 +68,7 @@
     </tr>
 </table>
 
-## SWBAT
+## SWBATs
 
 + Understand that Javascript provides a language to add behaviors to our web pages.
 + Include Javascript in their HTML using `<script>` tags with `src` and in-line Javascript.
@@ -77,11 +79,3 @@
 + Manipulate existing DOM elements through `jQuery` (change text, change properties).
 + Insert DOM and modify the page with methods like `append` and `prepend`.
 + Understand what a DOM Event is and how to add a handler for an event.
-
-## Resources
-
-[CodeAcademy - jQuery](http://www.codecademy.com/en/tracks/jquery)
-[CodeSchool - jQuery](http://try.jquery.com/)
-[TreeHouse - jQuery Basics](http://teamtreehouse.com/library/jquery-basics)
-
-## Lectures

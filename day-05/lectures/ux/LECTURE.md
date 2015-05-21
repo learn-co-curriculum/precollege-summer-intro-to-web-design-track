@@ -1,4 +1,4 @@
-## User Experience Design - Lecture Notes
+## User Experience Design - Full Lecture
 
 ### SWBATs
 

@@ -1,6 +1,6 @@
-# Typography
+# Typography - Full Lecture
 
-##SWABTS
+##SWBATs
 ***Students will be able to recognize appropriate font size, style, and spacing to create a more readable site design***
 
 ## Motivation

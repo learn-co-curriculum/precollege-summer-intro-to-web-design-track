@@ -1,4 +1,4 @@
-# CSS Fundamentals
+# CSS Fundamentals - Full Lecture
 
 ## Overview
 

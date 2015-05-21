@@ -1,4 +1,4 @@
-## Wireframing - Lecture Notes
+## Wireframing - Full Lecture
 
 **Each group needs…** 
 + A Gliffy account

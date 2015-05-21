@@ -1,7 +1,9 @@
+#Git Basics - Full Lecture
+
 ### Objective
 Students will understand the purpose of git and github, understand how to commit locally and push to a remote repository
 
-###SWABTS
+###SWBATs
 
 + GIT - `add` and `commit` files to local repository
 + GITHUB - `push` and `commit` to a remote repository

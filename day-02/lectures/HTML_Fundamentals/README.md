@@ -1,4 +1,6 @@
-# HTML Fundamentals
+#DAY-02 HTML Fundamentals
+
+_A full lecture is available [here](LECTURE.md)_
 
 ## Objective
 

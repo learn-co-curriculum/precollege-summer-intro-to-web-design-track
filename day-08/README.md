@@ -12,7 +12,8 @@
         <td>9:00 - 11:30</td>
         <td>Project Ideation</td>
         <td>
-            <a href="lectures/intro-to-project-mode">Lecture: Intro to Project Mode</a>
+            <a href="lectures/intro-to-project-mode/LECTURE.md">Lecture: Intro to Project Mode</a><br>
+            <a href="lectures/intro-to-project-mode">Lecture Notes: Intro to Project Mode</a><br>
         </td>
     </tr>
     <tr>
@@ -29,7 +30,3 @@
         </td>
     </tr>
 </table>
-
-## Resources
-
-## Lectures

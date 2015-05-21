@@ -1,10 +1,10 @@
-# CSS Layout - Lecture Notes
+# CSS Layout - Full Lecture
 
 ## Objective
 
 Students will be able to use the box model to create cohesive page layouts
 
-## SWBATS
+## SWBATs
 
 + Understand box model and how it is affected by padding, margin and border
 + Understand how to use box-sizing property to standardize the box-model across browsers

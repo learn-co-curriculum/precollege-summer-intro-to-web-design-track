@@ -1,6 +1,6 @@
 # Intro to jQuery - Full Lecture
 
-## SWBATS
+## SWBATs
 
 ***Students will be able to understand the fundamentals of jQuery and incorporate them into their projects***
 

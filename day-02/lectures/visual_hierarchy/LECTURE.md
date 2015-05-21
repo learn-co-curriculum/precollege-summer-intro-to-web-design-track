@@ -1,4 +1,4 @@
-# Visual Hierarchy - Lecture Notes
+# Visual Hierarchy - Full Lecture
 
 
 ##Objective
