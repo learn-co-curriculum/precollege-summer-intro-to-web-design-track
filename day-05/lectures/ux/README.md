@@ -1,4 +1,6 @@
-## User Experience Design - Lecture Notes
+#DAY-05 User Experience Design
+
+_A full lecture is available [here](LECTURE.md)_
 
 ### SWBATs
 

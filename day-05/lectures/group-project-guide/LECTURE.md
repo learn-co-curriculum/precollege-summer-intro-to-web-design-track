@@ -1,4 +1,4 @@
-## HTML/CSS Group Challenge - Lecture Notes
+## HTML/CSS Group Challenge - Full Lecture
 
 ### Group Project
 **Challenge:** Build a multi-page Choose Your Own Adventure game site
