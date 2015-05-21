@@ -16,7 +16,7 @@
     <tr>
         <td>10:00 - 10:20</td>
         <td> Learn Setup and Demo</td>
-        <td> ??</td>
+        <td><a href="https://github.com/learn-co-curriculum/tf-using-nitrous-io">Lecture: Nitrous Setup</a></td>
     </tr>
     <tr>
         <td>10:20 - 11:00</td>
