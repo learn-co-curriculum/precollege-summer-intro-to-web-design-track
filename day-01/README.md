@@ -32,7 +32,10 @@
     <tr>
         <td>11:00 - 11:30</td>
         <td> Student Directory Project Intro / HTML INTRO </td>
-        <td><a href="lectures/student-directory-project">Lecture: Student Directory Project</a></td>
+        <td>
+        <a href="lectures/student-directory-project/LECTURE.md">Lecture: Student Directory Project</a><br>
+        <a href="lectures/student-directory-project">Lecture Notes: Student Directory Project</a><br>
+        </td>
     </tr>
     <tr>
         <td>11:30 - 12:30</td>
@@ -44,7 +47,7 @@
         <td> Work on Student Project </td>
         <td> 
             <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a></br>
-            If students finish early, have them work on CLI labs or HTML playground. 
+            If students finish early, have them work on CLI labs or HTML playground.<br> 
             <a href="https://github.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
         </td>
     </tr>
