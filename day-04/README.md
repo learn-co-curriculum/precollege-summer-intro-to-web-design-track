@@ -21,7 +21,8 @@
         <td>9:15 - 10:15</td>
         <td> Lecture: Descendant and Pseudo Selectors </td>
         <td>
-            <a href="lectures/css-selectors">Lecture: CSS Selectors</a>
+            <a href="lectures/css-selectors/LECTURE.md">Lecture: CSS Selectors</a><br>
+            <a href="lectures/css-selectors">Lecture Notes: CSS Selectors</a><br>
         </td>
     </tr>
     <tr>
@@ -42,14 +43,16 @@
         <td>12:30 - 1:00</td>
         <td> User Experience Lecture: Typography </td>
         <td>
-            <a href="lectures/typography">Lecture: Typography</a>
+            <a href="lectures/typography/LECTURE.md">Lecture: Typography</a><br>
+            <a href="lectures/typography">Lecture Notes: Typography</a><br>
         </td>
     </tr>
     <tr>
         <td>1:00 - 1:45</td>
         <td> Lecture: Grid System and Bootstrap </td>
         <td>
-            <a href="lectures/bootstrap">Lecture: Bootstrap</a></br>
+            <a href="lectures/bootstrap/LECTURE.md">Lecture: Bootstrap</a></br>
+            <a href="lectures/bootstrap">Lecture Notes: Bootstrap</a></br>
             <a href="https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough">Walkthrough: Bootstrap</a></br>
         </td>
     </tr>
@@ -69,7 +72,7 @@
     </tr>
 </table>
 
-## SWBAT
+## SWBATs
 
 ### CSS
 
@@ -85,12 +88,3 @@
 ### UX
 
 + Understand and use general typography theory and language
-
-
-## Resources
-
-## Lectures
-
-[CSS Selectors](lectures/css-selectors)
-
-[Typography](lectures/typography)

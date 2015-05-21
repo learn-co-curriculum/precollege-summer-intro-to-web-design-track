@@ -1,6 +1,8 @@
-# Typography
+#DAY-04 Typography
 
-##SWABTS
+_A full lecture is available [here](LECTURE.md)_
+
+##SWBATs
 ***Students will be able to recognize appropriate font size, style, and spacing to create a more readable site design***
 
 ## Motivation
