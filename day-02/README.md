@@ -14,8 +14,6 @@
         <td>
         <a href="https://docs.google.com/presentation/d/13WdKRsOFH1jBkkdLtMhrjSPVCRljYivgM3JUMLgpNmY/edit">Day 2 Deck</a></br>
         <a href="https://github.com/learn-co-curriculum/hs-cli-world-travel-todo">To Do: World Travel</a>
-        <br>
-        <a href="https://github.com/learn-co-curriculum/Html-Album-Cover">To Do: Happy</a>
         </td>
     </tr>
     <tr>
@@ -27,14 +25,16 @@
         </td>
     </tr>
     <tr>
-        <td>10:00 - 10:15</td>
+        <td>10:00 - 10:45</td>
         <td>HTML Fundamentals Lab</td>
         <td> 
           <a href="https://github.com/learn-co-curriculum/HTML-ISSUE-BOT-9000">Lab: HTML Issue Bot 9000</a>
+        <br>
+        <a href="https://github.com/learn-co-curriculum/Html-Album-Cover">Lab: Happy</a>
         </td>
     </tr>
     <tr>
-      <td>10:15 - 11:00</td>
+      <td>10:45 - 11:30</td>
       <td>CSS Fundamentals </td>
       <td> 
         <a href="lectures/CSS_Fundamentals">Lecture: CSS Fundamentals</a></br>
@@ -43,7 +43,12 @@
       </td>
     </tr>
     <tr>
-      <td>11:00 - 11:30</td>
+      <td>11:30 - 12:30</td>
+      <td>Lunch</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12:30 - 1:00</td>
       <td>Design Principal: Visual Hierarchy </td>
       <td> 
         <a href="https://docs.google.com/presentation/d/1zDmP-gLao4qE5Fi6qBwQ66cSQccfKN-mZDIKbcLDmFE/edit#slide=id.gafebb4385_0_32">Deck: Visual Hierarchy</a></br>
@@ -51,12 +56,12 @@
       </td>
     </tr>
     <tr>
-      <td>11:30 - 12:30</td>
-      <td>Lunch</td>
-      <td></td>
+      <td>1:00 - 1:30</td>
+      <td>Improv</td>
+      <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
     </tr>
     <tr>
-      <td>12:30 - 1:15</td>
+      <td>1:30 - 2:15</td>
       <td>How The Internet Works</td>
       <td> 
         <a href="lectures/how_the_internet_works">Lecture: How the Internet Works</a></br>
@@ -64,12 +69,7 @@
       </td>
     </tr>
     <tr>
-      <td>1:15 - 1:45</td>
-      <td>Improv</td>
-      <td> <a href="https://github.com/learn-co-curriculum/tf-improv-games">Improv Games</a></td>
-    </tr>
-    <tr>
-      <td>1:45 - 2:50</td>
+      <td>2:15 - 2:50</td>
       <td>Independent Study</td>
       <td> 
         <a href="lectures/independent_study">Independent Study Guide</a></br>
