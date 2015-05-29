@@ -115,42 +115,42 @@ combine; //returns "105"
 	+ `"Foobar".replace(/o/g, "x").toUpperCase(); //returns "FXXBAR"`
 
 ### Data Type Conversion
-	+ Concatenating empty string changes number to a string.
++ Concatenating empty string changes number to a string.
 	```js
 		var stringy = 12 + ' ';
 		typeof stringy; //prints “string”
 	```
-	+ `parseInt` changes a string to a whole number.
++ `parseInt` changes a string to a whole number.
 	```js
 		combineStuff = parseInt('10') + 5;
 		combineStuff; //prints 15
 	```
-	+ What the heck happens if I try converting text to a number?
++ What the heck happens if I try converting text to a number?
 	```js
 		var userName = parseInt('bob'); //returns NaN
 		//NaN stands for Not a Number
 	```
-	+ What if I want to convert to a floating number instead of an integer?
++ What if I want to convert to a floating number instead of an integer?
 	```js
 		var gallonsGas = parseFloat('10.25');
 		gallonsGas; //reports 10.25 as number
 	```
-	+ `parseInt` stops at whole number and ignores characters that are not numbers. 10xffffff same as 10.12345 becomes 10. Where as `parseFloat` maintains decimal values.
++ `parseInt` stops at whole number and ignores characters that are not numbers. 10xffffff same as 10.12345 becomes 10. Where as `parseFloat` maintains decimal values.
 
 ### Dialog Boxes and JS Console
-	+ alerts (Outputs a string)
-		+ `alert('warning do not attempt to cook food using this website!');`
-	+ confirm (Boolean values)
-		+ `var delete = confirm('Are you sure you want to delete this?');` //true or false
-	+ prompt
-		+ `var age = prompt('Please enter your age: ');` //captures the value inserted.
-	+ Log
-		+ `console.log(age);` 
-		+ reports the age they entered into the JS Console located in the developer tool window.
-		+ *ProTip: This can be a great way to show output of code as you're working. [JSbin](http://jsbin.com/?js,console) or similar editors usually have a console window
++ alerts (Outputs a string)
+	+ `alert('warning do not attempt to cook food using this website!');`
++ confirm (Boolean values)
+	+ `var delete = confirm('Are you sure you want to delete this?');` //true or false
++ prompt
+	+ `var age = prompt('Please enter your age: ');` //captures the value inserted.
++ Log
+	+ `console.log(age);` 
+	+ reports the age they entered into the JS Console located in the developer tool window.
+	+ *ProTip: This can be a great way to show output of code as you're working. [JSbin](http://jsbin.com/?js,console) or similar editors usually have a console window
 
 ### Doing math with JavaScript: 
-	+ Arithmetic Operators
++ Arithmetic Operators
 
 <img src= "https://s3.amazonaws.com/after-school-assets/jquery.png">
 
