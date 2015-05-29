@@ -93,8 +93,8 @@ h1 {
 + Put links to your other pages in an unordered list using ul and li tags
   * We will style these links as a nav bar in our next class. 
 
-### Conclusion / So What?
+## Conclusion / So What?
 CSS allows us to add styling to our page. Together, HTML and CSS give us the web as we know it. 
 
-### Hints and Hurdles
+## Hints and Hurdles
 + Test all your CSS examples first and know how you're going to live code them. It's easy to make mistakes here that are hard to get out of on the spot. 

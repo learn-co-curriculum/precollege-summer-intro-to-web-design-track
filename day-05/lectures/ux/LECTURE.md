@@ -2,7 +2,7 @@
 
 ### SWBATs
 
-+ Know what User Experience is and how it 
++ Know what User Experience is and how it affects products
 + Apply UX principles to their design choices
 + Use UX resources to aid them in making their decisions
 

@@ -204,13 +204,12 @@ Add pages to your site by creating three separate html files
   * If your site has `index.html` and `facts.html` and they're in the same directory, having a link from `index.html` to `facts.html` looks like this: `<a href="facts.html">click here for more facts</a>`. This is a relative link.
 + Put links in an unordered list using `ul` and `li` tags
 
-
-
-
 ## Conclusion / So What?
+
 HTML allows us to define and label the content of our page. Across browsers, there isn't a specification about how text without tags should be rendered. You have no control over how it's displayed, and in future versions of a browser, your code might not be displayed.
 
 ## Hints and Hurdles
+
 + An HTML element is composed of an opening tag, content, and a closing tag
 + Students should have their HTML files in both the browser and in the text editor. 
 
