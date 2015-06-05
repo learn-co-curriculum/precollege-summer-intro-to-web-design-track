@@ -16,7 +16,11 @@
     <tr>
         <td>10:00 - 10:20</td>
         <td> Learn Setup and Demo</td>
-        <td><a href="https://github.com/learn-co-curriculum/tf-using-nitrous-io">Lecture: Nitrous Setup</a></td>
+        <td>
+            <a href="https://github.com/learn-co-curriculum/tf-using-nitrous-io">Lecture Guides: Nitrous Setup</a>
+            <br>
+           <a href="hs-nitrous-ssh-setup"> Nitrous Trouble Shooting/Setup</a>
+        </td>
     </tr>
     <tr>
         <td>10:20 - 11:00</td>
