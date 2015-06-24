@@ -47,6 +47,14 @@ footer {
 ```
 + But it is a little cleaner and saves you some time by eliminating the need to add a div with the class or ID footer.
 + Not all older browsers support these HTML5 semantic elements and in this case they just show up as a normal `div` element
++
+#Presentation Suggestion 
+This content is a great opportunity for near-total release.  
+	+Explain what a "div" is. 
+	+Display a website that makes use of all the various types of divs, like The Washington Post
+	+Display the types of divs listed above
+	+Give the students a time limit to PEP to learn as much as possible about these divs and add 		them to their personal site. 
+	+ http://www.w3schools.com/html/html_layout.asp is a great resource for any students who may be 	struggling with this lesson. 
 
 ### Fancy audio/video tags
 
