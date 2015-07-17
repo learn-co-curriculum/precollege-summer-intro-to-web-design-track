@@ -79,6 +79,7 @@
         <a href="lectures/independent_study/LECTURE.md">Independent Study Guide</a></br>
         Students who want to can work on the Riyadh Blog lab for HTML/CSS practice.</br>
         <a href="https://github.com/learn-co-curriculum/FE-RIYADH-BLOG">Lab: Riyadh Blog</a></br>
+        <a href="https://github.com/learn-co-curriculum/hs-css-graffiti-override">Stretch Lab: Graffiti Override</a></br>
       </td>
     </tr>
     <tr>
