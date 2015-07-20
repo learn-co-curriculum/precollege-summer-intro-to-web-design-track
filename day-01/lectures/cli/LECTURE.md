@@ -37,14 +37,14 @@ You've been recruited by MI6 as the next 007. The name's Bond. James Bond. The i
   + touch a villian file (like oddjob, goldfinger, jaws)
   + take out the villian with `rm`.
   + remove an entire directory using `rm -rf` once you've completed your task there.
-+ Accidentally place a file in the wrong directory, then show students how to move it with `mv`.
++ Accidentally place a file in the wrong directory(you followed the wrong clue, it happens to even the most seasoned spies), then show students how to move it with `mv`.
 + Students practice moving up the tree using `cd ..`.
 + Important: directories only know what’s directly inside of them.
 + Show students how to write out the relative path to each mission city from the mission directory.
 + Show students how to write out the absolute path to different files and directories.
 + Interactive Practice - have students...
-  + use `cd  ..` to move to the trip directory.
-  + create one destination city directory.
+  + use `cd  ..` to move to the mission directory.
+  + create one mission city directory.
   + create two new settings directories inside the city directory.
   + create files of treasures to recover on the mission.
   + on your whiteboard, draw out the tree for each directory and file inside the trip directory.
