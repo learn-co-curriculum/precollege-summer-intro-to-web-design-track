@@ -33,17 +33,13 @@ Today, we'll be building a student directory with all of your profile informatio
 + `<!doctype html>`:  tells our browser we're using HTML5 
 + `<html>`: opening HTML tag. Closing tag `</html>` is at the bottom.
 + Opening a closing tags create little baskets. Inside of this html basket we are going to nest all of our html.
-+ `<head> </head>`: The head of our document is where we store all of the meta data
++ `<head> </head>`: The head of our document is where we store all of the meta data -- information that the browser needs, but that your users don't necessarily need to see or know about. 
 + `<title></title>`: shows text in the tab in the browser
 + `<link>`: link to stylesheets
 + `<body></body>`: 
   + `ids` and `classes`: use these to help with CSS
 + Header: Comments mark the header
   *This grayed out text is called a comment.
-+ Scroll to where you see the comment: `<!--Begin Splash Image-->`
-+ `<img>` tag:
-    * `src="#"`: attribute of the img tag. stands for source
-+ Students save a photo of themselves in the `img/students` directory and change the `src` 
 + `<h4></h4>`: header tags
   * h1-h6
 + `<a href="#"></a>`: link.
@@ -52,6 +48,10 @@ Today, we'll be building a student directory with all of your profile informatio
 + `<p></p>` paragraph tags. 
 + `<ul></ul>`: unordered list.
 + `<li></li>`: list item. 
++ Scroll to where you see the comment: `<!--Begin Splash Image-->`
++ `<img>` tag:
+    * `src="#"`: attribute of the img tag. stands for source
++ Students save a photo of themselves in the `img/students` directory and change the `src` 
 
 ## Conclusion / So What?
 HTML makes up every single page on the internet. You can't create a web page without it. 
