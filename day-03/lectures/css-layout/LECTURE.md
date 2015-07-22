@@ -34,19 +34,10 @@ Yesterday we used CSS to style the fonts, images and backgrounds of our page. To
 + These sizing attributes are part of something that we call the box model.
 
 <img src="https://s3.amazonaws.com/after-school-assets/box_model.png">
-
-+ Unfortunately, not all browsers treat these attributes the same. Most browsers follow the WC3 model but Internet Explorer is a rogue. Here are the two models:
-
 <img src="https://s3.amazonaws.com/after-school-assets/w3c_box_model.png">
 
++
 
-+ Luckily we have a box-sizing property that allows us to choose which model we want to follow. Here are the two options:
-	* For IE model
-	```css
-	 div {
-	 box-size: border-box;
-	}
-	```
 	* W3C model:
 	```css
 	div {
@@ -150,3 +141,13 @@ With CSS, we can controls the entire layout of our page, and how elements relate
 
 ### Hints/Hurdles
 + Make sure you are familiar with all the coding examples, or create your own examples before class. Layout can get tricky and CSS elements can compete with each other. It's easy to break things live and not be able to dig yourself out.
+
+
+###Note:
++  Unfortunately, not all browsers treat sizing attributes the same. Most browsers follow the WC3 model but Internet Explorer is a rogue. All students should be using Chrome browser as it's required for Nitrous, but here is the box sizing model for Internet Explorer.
+  * For IE model
+  ```css
+   div {
+   box-size: border-box;
+  }
+  ```
