@@ -51,8 +51,10 @@
         <td> Work on Student Project </td>
         <td> 
             <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a></br>
-            If students finish early, have them work on CLI labs or HTML playground.<br> 
+            If students finish early, have them work on CLI and HTML labs.<br> 
             <a href="https://github.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-album-cover">Lab: HTML Album Cover</a>
+            <a href="https://github.com/learn-co-curriculum/hs-album-cover">Lab: HTML Issue Bot</a></br>
         </td>
     </tr>
     <tr>
