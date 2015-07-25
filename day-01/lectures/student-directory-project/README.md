@@ -53,6 +53,16 @@ Today, we'll be building a student directory with all of your profile informatio
     * `src="#"`: attribute of the img tag. stands for source
 + Students save a photo of themselves in the `img/students` directory and change the `src` 
 
+##Stretch Activities 
+
+Some students may have already taken the course or are familiar with the basics of the command line and git. Here are some ideas and stretch concepts you can use to continue to challenge students like this during this exercise.
+
++ Once students have finished editing their student profile pages and their profile menu page havem them merge their repositories together with another student. This is a good chance to work through merge conflicts. 
+
++ Challenge students to add further customization to the profile page with background colors, custom CSS and fonts.
+
++ If students are comfortable with the command line, give them the Clmystery lab. 
+
 ## Conclusion / So What?
 HTML makes up every single page on the internet. You can't create a web page without it. 
 
