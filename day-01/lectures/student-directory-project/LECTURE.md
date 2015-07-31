@@ -72,12 +72,6 @@ Today, we'll be building a student directory with all of your profile informatio
 + Header: Comments mark the header
   *This grayed out text is called a comment.
   * HTML structure for our header or nav bar. You can see that I’ve made a note that this is the beginning of the header. 
-+ Scroll to where you see the comment: `<!--Begin Splash Image-->`
-+ `<img>`  tag:
-    * Doesn't have a closing tag
-    * `src="#"`: attribute of the img tag. stands for source
-    * Which photo does this src point to now?
-+ Students save a photo of themselves in the `img/students` directory and change the `src` 
 + `<h4></h4>`: header tags
   * h1-h6
   * Add Student name
@@ -89,6 +83,12 @@ Today, we'll be building a student directory with all of your profile informatio
 + `<p></p>` paragraph tags. 
 + `<ul></ul>`: unordered list.
 + `<li></li>`: list item. 
++ Scroll to where you see the comment: `<!--Begin Splash Image-->`
++ `<img>`  tag:
+    * Doesn't have a closing tag
+    * `src="#"`: attribute of the img tag. stands for source
+    * Which photo does this src point to now?
++ Students save a photo of themselves in the `img/students` directory and change the `src` 
 + Give them time to customize their pages
 + For students who finish this up really quickly have them try out the [HTML Playground lab](https://github.com/learn-co-curriculum/html-playground).
 
