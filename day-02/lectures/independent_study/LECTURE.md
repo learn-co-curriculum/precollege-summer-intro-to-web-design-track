@@ -10,10 +10,11 @@ We want to be able to treat you all like adults, and a lot of our ability to do 
 There will always be labs on Learn.co that you can work on but a couple of other projects that you might want to consider are:
 
 + Set up an online portfolio to show off your work. Here are some examples:
-  * http://marisaposter.com/ 
   * http://catherinecodes.com/  
   * http://mitchboyer.com/ 
-  * http://randallreedjr.com/portfolio/ 
+  * http://randallreedjr.com/portfolio/
+  * http://cassidoo.co/
+  * http://tholman.com/ 
 
 Start blogging about your experience. Writing about what you are learning here is a great way to solidify the concepts, share your experience and build your online presence.
   * http://christinehcho.tumblr.com/ 

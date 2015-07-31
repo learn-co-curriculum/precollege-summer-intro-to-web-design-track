@@ -79,6 +79,9 @@
         <a href="lectures/independent_study/LECTURE.md">Independent Study Guide</a></br>
         Students who want to can work on the Riyadh Blog lab for HTML/CSS practice.</br>
         <a href="https://github.com/learn-co-curriculum/FE-RIYADH-BLOG">Lab: Riyadh Blog</a></br>
+        For very advance students let them try out this interactive CSS practice -- does incorporae understanding of CSS hierarchy.
+        <a href="http://flukeout.github.io/">Interactive CSS Practice</a></br>
+        
       </td>
     </tr>
     <tr>

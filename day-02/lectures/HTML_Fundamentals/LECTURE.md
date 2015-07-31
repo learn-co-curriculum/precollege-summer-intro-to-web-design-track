@@ -22,6 +22,10 @@ Yesterday you used a prepared template to create personal pages for our student 
 
 ## Lesson Plan
 
++ After setup with doctype, html and head tags demo in JSFiddle. These tags are already built-in for us in JSFiddle. 
++ JSFiddle is like a playground where we can try out code and see if it works without worrying about starting a server and whether our files are connected. We can use it to get something working the way we want and then copy and paste it into our main code. 
+
+
 ### Setup
 
 *Students should be able to follow along with this demo*
@@ -45,7 +49,7 @@ You are now have a blank HTML page that's ready to turn into anything!
 People make websites about all sorts of stuff:
 + [Corgis?](http://corgiaddict.com/) 
 + [Bacon?](http://www.royalbaconsociety.com/)
-+ [Sanwiches?](http://fortheloveofsandwich.tumblr.com/) 
++ [Sandwiches?](http://fortheloveofsandwich.tumblr.com/) 
 + [Norwegian Olympic Curling Team’s pants?](https://www.facebook.com/NOCTP)
 
 *Ask the students for some website ideas about things they love.*
@@ -59,19 +63,14 @@ Every HTML tag has an opening and closing tag with its content in the middle. Th
 </tag>
 ```
 
-Tags can also have attributes applied to them. These can be thought of as modifying or providing additional information to a tag. If `teacher` was a tag, it might have an attribute `subject` or `personality`.  A tag can have any number of attributes. These are placed in the opening tag like so:
+Element tags can also have attributes applied to them. These can be thought of as modifying or providing additional information to a tag. Not all tags have the same attributes, and some have required attributes while others are optional. 
+
++ Img tags for instance require an src (source) attribute. They can also take an alt(alternative text) attribute, but it's not required. It is a good idea to add alt text to your images though so Google and other search engines can more easily find your content. 
+
++ The syntax for attributes is always attribute name, followed by an equals sign and then whatever the attribute is in a set of quotes.
 
 ```html
-<tag attribute="attribute value" attribute2="2nd attribute">
-    .... CONTENT GOES HERE ....
-</tag>
-```
-Or with fictional `teacher` tag it would look like
-
-```html
-<teacher subject="coding" personality="super strict">
-    .... CONTENT GOES HERE ....
-</teacher>
+<img src="/images/puppies.jpg" alt="cute puppies romping around">
 ```
 
 ### Tag Nesting and Whitespace
@@ -172,6 +171,23 @@ Netflix might use headers like this:
 </ol>
 ```
 
+####Tables
+
+```html
+<table>
+  <tr>
+    <th> Name </th>
+    <th> Thread pitch (mm) </th>
+  </tr>
+  <tr>
+    <td> M4 </td>
+    <td> 0.7 </td>
+  </tr>
+</table>
+
+```
+
+
 #### Links
 Links use an `<a>` tag, which stands for *anchor*. If you wanted a link to Google it would look like this:
 ```html
@@ -185,6 +201,20 @@ Images use an `<img>` tag to embed an image in a webpage.
 <img src="your_image_location">
 ```
 The `src` attribute can be a URL of an image from the Internet or a relative link to an asset on your computer.
+
+####Relative vs. Absolute Paths
+
++ An absolute path is one that is permanent and will stay the same no matter where your index.html page is reading from. 
+
+```
+<a href="http://www.example.com/">This is an absolute url Link</a>
+VS.
+<a href="about.html">This is a relative url Link</a>
+```
+
++ A relative link is something you use to access files from within your own project. Your files know about each other because they come from the same source. You can't always trust the internet...someone might take down a photo or change the link. You also need a place to put photos you create yourself. Save them to your images folder and you can use paths within your own computer that look like this:
+
+  + The starting point for this path wherever the document you're referencing from lives. So, if your index.html file is in your root folder, this path is saying from the root go into images and inside of images you'll find a file called cat-on-roomba.gif.
 
 ## Practice
 
