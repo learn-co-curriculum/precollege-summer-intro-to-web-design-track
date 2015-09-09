@@ -9,12 +9,12 @@
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 10:00</td>
+        <td>9:00 - 9:30</td>
         <td> Welcome and Intros</td>
         <td> <a href="https://docs.google.com/presentation/d/12H4MDWtvhW_3LY4MKj8qvCKZORWZX2Pw6qIuiVqkdUU/edit#slide=id.p">Day 1 Deck</a> </td>
     </tr>
     <tr>
-        <td>10:00 - 10:20</td>
+        <td>9:30 - 10:00</td>
         <td> Learn Setup and Demo</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/tf-using-nitrous-io">Lecture Guides: Nitrous Setup</a>
@@ -23,12 +23,13 @@
         </td>
     </tr>
     <tr>
-        <td>10:20 - 11:00</td>
+        <td>10:00 - 11:00</td>
         <td> CLI </td>
         <td> 
             <a href="lectures/cli/LECTURE.md">Lecture: CLI</a></br>
             <a href="lectures/cli">Lecture Notes: CLI</a></br>
-            <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Castle Code Along</a></br>
+            <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Find Missing Pet</a></br>
+            <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Walk-through: Command Line Castle Code Along</a><br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Advanced CLI</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-cli-cultural-piece">Resource: Command Line Fun</a>
         </td>

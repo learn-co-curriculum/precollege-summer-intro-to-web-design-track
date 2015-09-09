@@ -17,7 +17,7 @@ Objective: Students will be able to navigate their system’s file structure usi
 Back in the day (the 1980s!), computers only had a terminal to control them. Later on, Graphical User Interfaces (GUIs) were created to make computers more accessible (like for your computer-illiterate grandparents). Developers continue to use the terminal instead of the GUI because it speeds up development and allows for more granular control.
 
 ### Lesson Plan
-***Any students that have done this lesson before should do the advanced [CLI Bash Scripting Lab](https://github.com/learn-co-curriculum/hs-advanced-cli) ***
+***Any students that have done this lesson before should do the advanced [CLI Bash Scripting Lab](https://github.com/learn-co-curriculum/hs-advanced-cli)***
 
 #### The Backstory
 You've been recruited by MI6 as the next 007. The name's Bond. James Bond. The idea is to loosely follow the plot of one of the Bond movies...have fun with it and take students input of what your mission should be. The idea is that Bond should go to different cities and then specific locations in that city and then within that location he needs to recover classic 007 artificats like a microchip with codes to hack into The Main Frame, a map with the location to a submarine carrying nuclear warheads, a Golden Gun, a bag of flawless, uncut diamonds etc. The mission is to get this item back into safe hands of Her Majesty's Secret Service.
