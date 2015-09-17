@@ -18,7 +18,7 @@ Students will be able to use the box model to create cohesive page layouts
 
 ## Motivation
 
-Yesterday we used CSS to style the fonts, images and backgrounds of our page. Today we’re going to learn how to use CSS to break up and arrange the content on our page.
+Yesterday we used CSS to style the fonts, images and backgrounds of our page. Today we're going to learn how to use CSS to break up and arrange the content on our page.
 
 ## Lesson Plan
 

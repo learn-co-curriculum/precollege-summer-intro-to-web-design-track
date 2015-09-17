@@ -27,6 +27,7 @@
         <td> CLI </td>
         <td> 
             <a href="lectures/cli/LECTURE.md">Lecture: CLI</a></br>
+            <a href="lectures/complete-a-lab"> Lecture: How to Complete a lab - 5 min</a><br>
             <a href="lectures/cli">Lecture Notes: CLI</a></br>
             <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Find Missing Pet</a></br>
             <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Walk-through: Command Line Castle Code Along</a><br>

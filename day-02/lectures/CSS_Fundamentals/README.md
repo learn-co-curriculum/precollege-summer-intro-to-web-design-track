@@ -16,6 +16,7 @@ Create a brand new HTML page and style it with CSS
 + Adjust basic properties of images: `height`, `width`
 + Adjust backgrounds elements
 + Use hexadecimal, rgba, and rgb color values
++ Use classes and IDs to style specific HTML elements
 
 ## Motivation / Why Should You Care?
 
@@ -38,6 +39,8 @@ CSS stands for Cascading Style Sheets. We write CSS in separate files, so that e
 + Refresh your browser: won't see change because we haven't linked our stylesheet. 
 + Add `<link rel="stylesheet" type="text/css" href="css/style.css">` inside head tag in `index.html`
 + Other styling to play around with:text size, image size, centering text, background color, background image and have them style their page (see code snippets [here](./code_snippet1.md))
++ Put three paragraphs on the page and make the first one have a font color of red by using and ID
++ Then use a class to make the first and last paragraph font color red
 
 ### Colors
 

@@ -37,7 +37,7 @@ CSS is awesome, but can be time consuming to write. Bootstrap allows developers 
 
 ### Grid System
 
-+ Bootstrap comes with some great layout features as well. Imagine if we divied our site into twelve equal-sized columns. Rather than describing the size of our elements in pixels or percentages, we could describe them by number of columns they take up.
++ Bootstrap comes with some great layout features as well. Imagine if we divided our site into twelve equal-sized columns. Rather than describing the size of our elements in pixels or percentages, we could describe them by number of columns they take up.
 + The human brain is good at identifying patterns and one way that patterns are reflected in design is through the use of grids.
 + A grid is a tool that can be used to establish a spacial hierarchy of the content. It can be fixed or fluid, horizontal or vertical, uniform or responsive. Grids should be viewed as guides, not boundaries; good designers know how to use grids, great designers know how and when to break them.
 + The rules of threes or four 

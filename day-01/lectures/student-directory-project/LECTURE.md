@@ -33,15 +33,16 @@
 Today, we'll be building a student directory with all of your profile information on it. By the end of this project, you'll have deployed live, working code to the internet the same way professional web developers do. 
 
 + `cd` into this new directory we just cloned and open up the entire thing in your text editor
-+ Open up index.html in your text editor - then right click on the page and click `open in browser` 
++ Open up index.html in your text editor 
++ Run `python -m SimpleHTTPServer 3000` in terminal, and then click `Preview - port 3000`
   * This is what the home page of our student directory looks like. 
-  * I’ll be adding your photos and names here. 
+  * I'll be adding your photos and names here. 
   * Click on the sample student to see what your personal profile page will look like. - just a template. You'll be customizing your own
-+ Walkthrough of the directories and files in this directory. I’m going to go from the bottom to the top. 
++ Walkthrough of the directories and files in this directory. I'm going to go from the bottom to the top. 
 + `README.md`: holds instructions on how to complete the lab. There will always be a README file in the labs and it contains the text that is displayed on Learn.
 + `index.html`: It is standard convention to name a home page index.html. 
-  * When we deploy this student directory, the browser rendering the page will automatically look for an `index.html` file in the root of the project and render that as the homepage. We’ll be talking more about this process tomorrow.
-+ `students` directory: It’s going to hold all of the individual files for each of your profiles. 
+  * When we deploy this student directory, the browser rendering the page will automatically look for an `index.html` file in the root of the project and render that as the homepage. We'll be talking more about this process tomorrow.
++ `students` directory: It's going to hold all of the individual files for each of your profiles. 
   * Click on the arrow to expand the page. You can see we have our student template page there, but you need to add your own page. 
 + In terminal from inside the main directory for this project:
   * enter `ls` 

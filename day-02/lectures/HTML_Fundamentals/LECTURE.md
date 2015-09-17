@@ -63,9 +63,9 @@ Every HTML tag has an opening and closing tag with its content in the middle. Th
 </tag>
 ```
 
-Element tags can also have attributes applied to them. These can be thought of as modifying or providing additional information to a tag. Not all tags have the same attributes, and some have required attributes while others are optional. 
++ Element tags can also have attributes applied to them. These can be thought of as modifying or providing additional information to a tag. Not all tags have the same attributes, and some have required attributes while others are optional. 
 
-+ Img tags for instance require an src (source) attribute. They can also take an alt(alternative text) attribute, but it's not required. It is a good idea to add alt text to your images though so Google and other search engines can more easily find your content. 
++ `img` tags for instance require an src (source) attribute. They can also take an `alt` (alternative text) attribute, but it's not required. It is a good idea to add `alt` text to your images though so Google and other search engines can more easily find your content. 
 
 + The syntax for attributes is always attribute name, followed by an equals sign and then whatever the attribute is in a set of quotes.
 
@@ -109,7 +109,7 @@ However, be careful to close (`</tag>`) the nested tag before closing it's paren
 <head>
   <body>
 </head>
-</body
+</body>
 ```
 
 This is wrong because we should close tags in the reverse order that we opened them. In our case we opened `<head>` then `<body>`, so we need to close them with `</body>` then `</head>`.

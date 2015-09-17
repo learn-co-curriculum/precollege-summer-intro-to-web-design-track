@@ -14,13 +14,14 @@ Create a brand new HTML page and style it with CSS
 + Adjust basic properties of images: `height`, `width`
 + Adjust backgrounds elements
 + Use hexadecimal, rgba, and rgb color values
++ Use classes and IDs to style specific HTML elements
 
 ## Motivation / Why Should You Care?
 
-Have Beyonce’s twitter page up with all stylesheets unlinked (with dev tools can just delete all the link tags). Explain that this is what her twitter looks like with JUST HTML. It’s a lot like what our sites look like with just HTML.
+Have Beyonce’s twitter page up with all stylesheets unlinked (with dev tools can just delete all the link tags). Explain that this is what her twitter looks like with JUST HTML. It's a lot like what our sites look like with just HTML.
 
 Have students point out things that look different, from what it normally looks like -- all the styling.
-So far, all we’ve been able to do is put content on a page with HTML to make some ugly looking websites. So how do we actually make our sites stuff look good? CSS!
+So far, all we've been able to do is put content on a page with HTML to make some ugly looking websites. So how do we actually make our sites stuff look good? CSS!
 CSS stands for Cascading Style Sheets. We write CSS in separate files, so that each file of our web site does one job and one job only. Single purpose files.
 
 *Ask your students what they would want to style about their website? Or the one you have shown.*
@@ -53,6 +54,45 @@ h1 {
     * We have to tell our `index.html` how to find `style.css`, so it needs to go inside css directory first
 + Other styling to play around with:text size, image size, centering text, background color, background image and have them style their page.
   * see code snippets [here](./code_snippet1.md)
+
++ What would happen if I had three different paragraphs on my page, so three separate opening and closing `p` tags and I wanted to make the `color` of the first paragaraph red, but keep the other two black.
+```html
+<p> PARAGRAPH 1 </p>
+<p> PARAGRAPH 2 </p>
+<p> PARAGRAPH 3 </p>
+```
+```css
+p {
+  color: red;
+}
+```
+  + this would change the font color of all THREE paragraphs to red. Instead, I can define an ID on the first paragraph, and use that as my CSS selector:
+```html
+<p id="first"> PARAGRAPH 1 </p>
+<p> PARAGRAPH 2 </p>
+<p> PARAGRAPH 3 </p>
+```
+```css
+#first {
+  color: red;
+}
+```
++ When we define an ID we already do `id="id-name"`. The ID name is always in quotes. When we want to use that id as our CSS selector, we have to put a `#` in front, so our CSS knows to look in our HTML for an id.
+
++ What if I wanted the first and third paragraph in red but the middle in black? Well ID's have to be unique, they can only be defined just once per site, so I couldn't just add `id="first"` to the third paragraph. Instead, I can define a class.
+
+```html
+<p class="red"> PARAGRAPH 1 </p>
+<p> PARAGRAPH 2 </p>
+<p class="red" > PARAGRAPH 3 </p>
+```
+```css
+.red {
+  color: red;
+}
+```
+
++ You set up a class just like you do an ID, but you can repeat classes. In our CSS, we mark it's a class with a `.`.
 
 ### Colors
 

@@ -8,9 +8,9 @@ _A full lecture is available [here](LECTURE.md)_
 ### Motivation / Why Should You Care?
 
 + Start with an altered tweet from Justin Bieber on the screen using the dev tools that says “I LOVE FLATIRON SCHOOL AND CODING. EVERYONE SHOULD ATTEND AFTER SCHOOL.”  
-  * Let them know by the end of the lesson they’ll learn how we did that.
-+ Ask students for their favorite websites and bring it up on the screen and click ‘view source’
-+ Web pages are made up of two things: HTML and CSS. First we’re going to start with HTML. HTML, hypertext markup language, is the structure and content of a web page. All it does is tell the browser what different types of content is on the page through "Semantic tags".
+  * Let them know by the end of the lesson they'll learn how we did that.
++ Ask students for their favorite websites and bring it up on the screen and click `view source`
++ Web pages are made up of two things: HTML and CSS. First we're going to start with HTML. HTML, hypertext markup language, is the structure and content of a web page. All it does is tell the browser what different types of content is on the page through "Semantic tags".
 
 
 ### Lesson Plan
@@ -57,7 +57,7 @@ Today, we'll be building a student directory with all of your profile informatio
 
 Some students may have already taken the course or are familiar with the basics of the command line and git. Here are some ideas and stretch concepts you can use to continue to challenge students like this during this exercise.
 
-+ Once students have finished editing their student profile pages and their profile menu page havem them merge their repositories together with another student. This is a good chance to work through merge conflicts. 
++ Once students have finished editing their student profile pages and their profile menu page have them merge their repositories together with another student. This is a good chance to work through merge conflicts. 
 
 + Challenge students to add further customization to the profile page with background colors, custom CSS and fonts.
 
