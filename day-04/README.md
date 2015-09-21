@@ -14,7 +14,7 @@
         <td>
             <a href="https://docs.google.com/presentation/d/1NJ4YCU7Sj1H_KoMkF-s2aswr-b39JMNTWILe4bLTmNU/edit#slide=id.gafe5a1ee8_0_0">Day 4 Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/My-Little-Rainbow">ToDo: My Little Rainbow</a>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-positioning-todo">ToDo: Puzzle Master</a>
         </td>
     </tr>
     <tr>
@@ -69,7 +69,8 @@
         <td> 
             Tell the kids they're awesome.
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a>
+            Micro Feedback<br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-bootstrap-carousel-code-challenge">Code Challenge: Bootstrap Carousel</a>
         </td>
     </tr>
 </table>

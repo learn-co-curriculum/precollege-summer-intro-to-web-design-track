@@ -90,7 +90,8 @@
         <td> 
             Tell the kids they're awesome.
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a>
+            Micro Feedback<br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-kitchen-code-challenge"> Code Challenge: Kitchen Organizer</a>
         </td>
     </tr>
 

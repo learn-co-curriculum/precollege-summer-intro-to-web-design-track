@@ -13,7 +13,7 @@
         <td> To Do: Selectors</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1IT7IQpPvNgd9TyYDu2tSoBw_ozNYUufaB9D-RArG15U/edit">Day 5 Deck</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-css-online-diner">ToDo: Online Diner Game</a>
+            <a href="https://github.com/learn-co-curriculum/hs-responsive-web-design-stretch">To Do: Responsive Web Design</a>
             
         </td>
     </tr>
@@ -67,7 +67,8 @@
         <td> 
             Tell the kids they're awesome.
             <br>
-            Mid-Course Survey
+            Mid-Course Survey<br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-sunset-skyline-code-challenge">Code Challenge: Sunset Skyline</a>
         </td>
     </tr>
     

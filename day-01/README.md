@@ -80,7 +80,8 @@
         <td> 
             Tell the kids they're awesome.
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a>
+            Micro Feedback<br>
+            <a href="https://github.com/learn-co-curriculum/hs-ed-sheeran-album-cover"> Code Challenge: Ed Sheeran Album Cover</a>
         </td>
     </tr>
 

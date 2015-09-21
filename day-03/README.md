@@ -14,7 +14,7 @@
         <td>
             <a href="https://docs.google.com/presentation/d/1fQJi5vcTuZMPRFLYZk_jALiKJwacFMZWD0TbNG4n-P4/edit#slide=id.gafe34ef86_0_53">Day 3 Deck</a>
             <br>
-            <a href="https://github.com/learn-co-curriculum/css-kitten-wheelbarrow">To-Do: Kitten Wheelbarrow</a>                        
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-css-todo">To-Do: Finish Your Homework</a>                        
         </td>
     </tr>
     <tr>
@@ -66,7 +66,8 @@
         <td> 
             Tell the kids they're awesome.
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a>
+            Micro Feedback<br>
+            <a href="https://github.com/learn-co-curriculum/hs-css-todo"> Code Challenge: CSS Garden</a>
         </td>
     </tr>
 </table>
