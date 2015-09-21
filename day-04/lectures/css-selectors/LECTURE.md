@@ -4,7 +4,7 @@
 
 ### CSS
 
-+ Understand how to use descendant selectors
++ Use descendant selectors (Descendent,  sibling)
 + Use pseudo selectors
 + Use display-state property to show/hide elements
 + Use scaling elements - px and %
@@ -31,6 +31,8 @@ We're starting to make some complex HTML pages and sometimes you need to get rea
     + `a:hover`
 
 ### Special Selectors
+
+#### Descendant Selectors
 
 + A descendent selector targets the last selector listed (li in the example above), using the previously listed selectors to narrow its scope. 
 
@@ -109,6 +111,8 @@ appear in red text.
 
 +If you do this the grandchildren will not be affected by any CSS you specify here, they will show up in black text.
 
+#### Sibling Selector
+
 + The `sibling selector` is very specific - like the child selector - but it does not depend on nested elements. It targets the next element that comes after. 
 ```html
 <h3>An h3 Element</h3>
@@ -122,6 +126,8 @@ h3 + p {
 }
 ```
 In this example, only the `p` element directly following the h3 element will be styled - the text "I'm a p directly after an h3 element." will appear in green.
+
+#### Precedent Selector
 
 + The more general sibling selector is called the `precedent selector`. It will target all the siblings following an indicated selector - not just the one immediately following the selector. It does NOT affect siblings that are nested within another element though. Here is an example that all the text following the first line of text will show up in red color
 
@@ -141,7 +147,8 @@ In this example, only the `p` element directly following the h3 element will be 
 ```
 
 
-### `Universal` 
+#### Universal Selector
+
 + Universal selector will affect everything on the page. This helpful if you want to remove default margin and padding from HTML elements so that you can have granular control over layout.
 
 ```css
@@ -169,7 +176,6 @@ a[target="_blank"] {
   color: green
 }
 ```
-
 
 The attribute selector can really help you target elements in unique ways. Examples:
 
