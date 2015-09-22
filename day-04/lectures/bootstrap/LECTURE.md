@@ -2,14 +2,14 @@
 
 ## SWBATs
 
-+ Understand the concept of a CSS library
++ Explain the concept of a CSS library
 + Include CSS libraries such as Bootstrap by using the `<link>` tab
 + Use Bootstrap Resources to add styling to their sites
-+ Understand the concept of the 'grid' and how to use it to create responsive designs
++ Explain the concept of the 'grid' and how to use it to create responsive designs
 
 ## Motivation/Why Should I Care? 
 
-CSS is awesome, but can be time consuming to write. Bootstrap allows developers to make beautiful sites very quickly.
+CSS is awesome, and without it we would have very ugly sites, but it can be time consuming to write and frustrating. Properties override each other, inheritance can work against you, and suddenly nothing looks the way it's supposed to. Bootstrap is a frontend framework that allows developers to make beautiful sites very quickly. Lots of websites use Bootstrap including Vogue, Lyft, NBA, Target, and many many more.
 
 ## Lesson Plan
 
@@ -23,10 +23,17 @@ CSS is awesome, but can be time consuming to write. Bootstrap allows developers 
 	* We can download the files and include them with our project, the same way we include our own custom css files. 
 	* These files are also hosted for us to use by MaxCDN. By simply including a link in our `<head>` section, we can get the same access to those files. 
 + Make sure to include this link on any projects that you want to use Bootstrap: `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">`
-
-### Styling Your Page With Classes
-
 + Once we have bootstrap included in our project, we can add pre-defined classes to our HTML elements and they'll automatically get that style. 
+
+#### Set Up Your Container
+
+To make sure we're assigning the right styles to the right content, it's important to wrap content in containers. Web developers often use `<div>` tags to draw an imaginary box around a chunk of HTML. This defines a section of code separate from the rest of the code. Our first container is going to wrap up all the code in the body. So **right after your opening** `<body>` **tag**, paste the following code. Make sure **Everything** you add to the body after this point goes inside this tag!
+
+```html
+<div class="container">
+  <!-- MAKE SURE EVERYTHING YOU WANT FOR YOUR BODY GOES INSIDE THIS TAG! -->
+</div>
+```
 + Check out this example *open this [page](./bootstrap.html) in your browser*
 + Here's a button with no styling at all. 
 + When I give the button a class of `btn-primary`, it changes. What changed? 
@@ -34,6 +41,30 @@ CSS is awesome, but can be time consuming to write. Bootstrap allows developers 
 	* Font
 	* Shape
 + What defined those changes? Bootstrap. 
+
+### Glyphicons
+
+Bootstrap has a lot of cool free glyphicons (as well as the [Noun Project](https://thenounproject.com/)). Let's use a few! Copy and paste the code below underneath your table. Look for the closing table tag (`</table`).
+
+```html
+<div id="gylphicons">
+  <h2> Glyphicons</h2>
+  <span class="glyphicon glyphicon-search center" aria-hidden="true"></span>
+  <span class="glyphicon glyphicon-copyright-mark center" aria-hidden="true"></span>
+</div>
+```
+
+Check out Bootstrap's list of free glyphicons [here](http://getbootstrap.com/components/#glyphicons). In order to use a glyphicon, you set the name of the glyphicon has the class on a `span` tag.
+
+Let's say I wanted to use the plus sign glyphicon:
+
+<img src="https://s3.amazonaws.com/after-school-assets/glyphicon.png"> 
+
+This glyphicon has the name "glyphicon glyphicon-plus". That name is what I would use as the class on a `span` tag:
+
+```html
+<span class="glyphicon glyphicon-plus"></span>
+```
 
 ### Grid System
 

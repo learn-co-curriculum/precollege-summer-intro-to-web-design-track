@@ -30,8 +30,10 @@
             <a href="lectures/complete-a-lab"> Lecture: How to Complete a lab - 5 min</a><br>
             <a href="lectures/cli">Lecture Notes: CLI</a></br>
             <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Lab: Find Missing Pet</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-sinatra-organizer">Lab: Sinatra Organizer</a><br>
             <a href="https://github.com/learn-co-curriculum/command_line_castle_code_along">Walk-through: Command Line Castle Code Along</a><br>
             <a href="https://github.com/learn-co-curriculum/hs-advanced-cli">Stretch Lab: Advanced CLI</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-cli-mystery"> Stretch Lab: CLI Mystery</a><br>
             <a href="https://github.com/learn-co-curriculum/hs-cli-cultural-piece">Resource: Command Line Fun</a>
         </td>
     </tr>
@@ -55,8 +57,7 @@
             <a href="https://github.com/learn-co-curriculum/hs-intro-web-student-directory">Lab: Student Directory Project</a></br>
             If students finish early, have them work on CLI and HTML labs.<br> 
             <a href="https://github.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
-            <a href="https://github.com/learn-co-curriculum/hs-album-cover">Lab: HTML Album Cover</a>
-            <a href="https://github.com/learn-co-curriculum/hs-album-cover">Lab: HTML Issue Bot</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-empire-state-css-challenge"> Stretch Lab: Empire State</a>
         </td>
     </tr>
     <tr>

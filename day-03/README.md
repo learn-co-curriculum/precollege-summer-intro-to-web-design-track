@@ -29,7 +29,7 @@
         <td>10:00 - 10:15</td>
         <td>HTML5 Lab</td>
         <td> 
-            <a href="https://github.com/learn-co-curriculum/Dev-Tools-Super-Power">To-Do: Dev Tools Super Power</a>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-html5-lab">To-Do: HTML5 Fixer</a>
         </td>
     </tr>
     <tr>
@@ -48,11 +48,14 @@
     <tr>
         <td>12:30 - 1:50</td>
         <td> CSS LAYOUT LABS</td>
-        <td> <a href="https://github.com/learn-co-curriculum/Hs-Empire-State-Css-Challenge">Lab: Empire State</a>
-        <br>
-        <a href="https://github.com/learn-co-curriculum/hs-zetsy">Lab: Zetsy</a>
-        <br>
-        <a href="https://github.com/learn-co-curriculum/hs-zhw-shoes-layout"> Lab: ZHW Shoes</a>
+        <td> 
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-iphone-organizer"> Lab: iPhone Organizer</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-empire-state-css-challenge"> Lab: Empire State</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-zhw-shoes-layout"> Lab: ZHW Shoes</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-zetsy">Lab: Zetsy </a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-dorm-posters-lab"> Lab: Dorm Posters</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-flags">Lab: Flags</a>
+
          </td>
     </tr>
     <tr>

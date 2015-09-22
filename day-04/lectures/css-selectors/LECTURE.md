@@ -4,11 +4,11 @@
 
 ### CSS
 
-+ Use descendant selectors (Descendent,  sibling)
++ Use descendant selectors (Descendent,  sibling, precendent )
 + Use pseudo selectors
-+ Use display-state property to show/hide elements
-+ Use scaling elements - px and %
-+ Understand and use border property for box styling, including border radius and box shadow
++ Use the universal selector
++ Use attribute selectors
++ Use compound selectors
 
 ## Motivation
 

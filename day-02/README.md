@@ -29,9 +29,10 @@
         <td>10:00 - 10:45</td>
         <td>HTML Fundamentals Lab</td>
         <td> 
-          <a href="https://github.com/learn-co-curriculum/HTML-ISSUE-BOT-9000">Lab: HTML Issue Bot 9000</a>
+          <a href="https://github.com/learn-co-curriculum/html-album-cover"> Lab: Album Cover</a><br>
+          <a href="https://github.com/learn-co-curriculum/hs-issue-bot-9000">Lab: HTML Issue Bot 9000</a>
         <br>
-        <a href="https://github.com/learn-co-curriculum/Html-Album-Cover">Lab: Happy</a>
+        <a href="https://github.com/learn-co-curriculum/dev-tools-super-power"> Lab: Dev Tools Super Power</a>
         </td>
     </tr>
     <tr>
@@ -42,6 +43,9 @@
         <a href="lectures/CSS_Fundamentals">Lecture Notes: CSS Fundamentals</a></br>
         <a href="lectures/CSS_Fundamentals/code_snippet1.md">Resource: Code Samples for CSS Fundamentals</a></br>
         <a href="https://docs.google.com/presentation/d/1wTkUPKfSKt7ueUeKsZ6cYQ0RjRzpnEDLCqKKTB041P8/edit#slide=id.p19">Resource: CSS Fundamentals Slides</a></br>
+        <a href="https://github.com/learn-co-curriculum/hs-css-issue-bot-9000"> Lab: CSS Issue Bot 9000</a><br>
+        <a href="https://github.com/learn-co-curriculum/hs-my-little-rainbow">Lab: My Little Rainbow</a><br>
+        <a href="https://github.com/learn-co-curriculum/fe-riyadh-blog">Stretch Lab: Riyadh Blog</a>
       </td>
     </tr>
     <tr>
@@ -79,7 +83,7 @@
         <a href="lectures/independent_study/LECTURE.md">Independent Study Guide</a></br>
         Students who want to can work on the Riyadh Blog lab for HTML/CSS practice.</br>
         <a href="https://github.com/learn-co-curriculum/FE-RIYADH-BLOG">Lab: Riyadh Blog</a></br>
-        For very advance students let them try out this interactive CSS practice -- does incorporae understanding of CSS hierarchy.
+        For very advance students let them try out this interactive CSS practice -- does incorporate understanding of CSS hierarchy.
         <a href="http://flukeout.github.io/">Interactive CSS Practice</a></br>
         
       </td>
