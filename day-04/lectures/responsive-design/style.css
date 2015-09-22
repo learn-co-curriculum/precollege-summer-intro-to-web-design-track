@@ -1,0 +1,55 @@
+/*////////// Text & Box Styles //////////*/
+
+.red-bk { background: red; }
+.yellow-bk { background: yellow; }
+.green-bk { background: green; }
+.black-bk { background: black; }
+.white-txt { color: white; }
+
+/*////////// Grid System //////////*/
+
+* { box-sizing: border-box; }
+
+.container { 
+    width: 90%;
+    margin: 0 auto;
+}
+
+.row { 
+    clear: both;
+    margin-bottom: 2%;
+}
+.row:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    line-height: 0;
+}
+
+.col-1{
+    width: 100%;
+    padding: 20px;
+}
+
+.col-3 {
+    display: inline-block;
+    width: 33%;
+    margin: 0;
+    padding: 20px;
+}
+
+/*////////// Responsive Styles //////////*/
+
+@media only screen and (max-width: 700px) {
+   .col-1, .col-3{
+        float: left;
+        width: 100%;
+        padding: 20px;
+        margin-left: 2%;
+    }
+
+  
+}
+
