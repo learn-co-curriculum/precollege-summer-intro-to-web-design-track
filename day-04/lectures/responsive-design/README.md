@@ -1,8 +1,10 @@
-# Responsive Web Design - FULL LECTURE
+# Responsive Web Design - ABRIDGED
 
 ## SWBATs
 + Explain the purpose of responsive web design
 + Use media queries to implement a responsive web design
++ Use `max-width` and `min-width` appropriately
+
 
 ## Motivation
 + Ever looked at a website on your phone and the text was so tiny and the layout so bad and it was hard to maneuver? It's a horrible experience.
@@ -16,12 +18,12 @@
 + Responsive web design allows you to build a website that looks great on any size browser, tablet or smart phone with just one code base. It's the smartest way to ensure that whatever browser size a user is using, they will love your site. Sweethatclub.org is a great example of a website that is fully responsive.
 
 ## Lesson Plan
-+ We're going to use a 'Desktop Down' approach to responsive design, which means we're going to design our site to be optimized for the desktop, and scale down as the screen gets smaller for mobile. This might mean we have to remove some features. 
-+ You can also use a 'Mobile Up' approach which designs for a mobile phone first, and scales up for a Desktop. This version typically adds features for a desktop, but we're going to follow the 'Desktop Down' approach
++ We're going to use a 'Desktop Down' approach to responsive design (build for desktop, scale down for mobile)
++ You can also use a 'Mobile Up' approach which designs for a mobile phone first, and scales up for a Desktop.
 
-+ We've been hired as developers for a reggae music store. They want a responsive site that has a heading that spans the entire width of the top of the page, and then below that, three columns for Roots music, Dancehall music, and Dub music. When the page shrinks for a mobile phone, they want it to scale to one column, keeping the heading at the top and the music genres following one under the other.
++ Reggae music store responsive site 
 
-+ Let's create a directory for this project, and call it `reggae_music`. Go ahead and make `index.html` and `style.css` files inside that directory.
++ Create `reggae_music` directory and `index.html` and `style.css` files inside that directory.
 
 HTML:
 ```
@@ -91,10 +93,7 @@ CSS
     padding: 20px;
 }
 ```
-+ We have one big `div` with the class `container`. Inside of that, we have a `div` for the header with the `h1` "Jahstafari Tunes". The header is styled to take up 100% of the width of the screen, have a black background and white text.
-+ Next we have a `div` with the class `row` and inside that, 3 `div`s for each music genre. Each of these genre `div`s are styled so that they take up 33% of the screen, display inline-block, and have different colored backgrounds.
-
-+ Now that we have our desktop version, let's shrink our browser to see what happens the our code. It should look super messy. We want it all to stack, so now we need to add specific styling based on different sized browser windows.
++ Now that we have our desktop version - it looks awful if you shrink to a smart phone sized screen. Time to add media queries. 
 
 CSS:
 ```css
@@ -105,17 +104,14 @@ CSS:
         padding: 20px;
         margin-left: 2%;
     }
-
-  
 }
 ```
 
-+ `@media` is our call that we're defining a new media query
-+ `only screen` sets up a condition that the query will only apply to specific size screens. It's considered best practice to include the `only` so that older browsers that don't support media queries will ignore the command.
-+ Because we're building from a Desktop Down approach, we set `(max-width: 700px)`, which basically says if the browser window is less than 700px wide, apply this styling below. This is part of the Desktop Down approach. You can also set `min-width` which is part of the Mobile Up approach. If you set `(min-width: 700px)` it would look for browsers larger than 700px wide.
-+ The styling we're applying is to float the heading and the music genres to the left and, set a margin of 2% and have them take up 100% of the width of the screen so they will stack on top of each other
-+ This will prevent words stick out further than their backgrounds, and making boxes so small that text is no longer readable.
-
++ `@media` is a call that we're defining a new media query
++ `only screen` sets up a condition that the query will only apply to specific size screens and lets older browsers ignore the media query
++ `(max-width: 700px)`, which basically says if the browser window is less than 700px wide, apply this styling below. 
++ alternatively - `min-width` which is part of the Mobile Up approach. If you set `(min-width: 700px)` it would look for browsers larger than 700px wide.
++ styling goes in between `{}`
 
 ## Conclusion / So What?
 + responsive web design is crucial for designing a great experience for users across all browser sizes. In a world where people use different sized phones and tablets and computers, it's impossible to guarantee that all users will use one type of device. It's best to plan for all to be used

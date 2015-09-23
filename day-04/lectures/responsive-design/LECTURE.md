@@ -3,6 +3,7 @@
 ## SWBATs
 + Explain the purpose of responsive web design
 + Use media queries to implement a responsive web design
++ Use `max-width` and `min-width` appropriately
 
 ## Motivation
 + Ever looked at a website on your phone and the text was so tiny and the layout so bad and it was hard to maneuver? It's a horrible experience.
