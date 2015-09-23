@@ -10,15 +10,26 @@
     </tr>
     <tr>
         <td>9:00 - 9:30</td>
-        <td> To Do: Selectors</td>
+        <td> To Do</td>
         <td>
             <a href="https://docs.google.com/presentation/d/1IT7IQpPvNgd9TyYDu2tSoBw_ozNYUufaB9D-RArG15U/edit">Day 5 Deck</a></br>
             <a href="https://github.com/learn-co-curriculum/hs-responsive-web-design-stretch">To Do: Responsive Web Design</a>
             
         </td>
     </tr>
-        <tr>
-        <td>9:30 - 10:00</td>
+    <tr>
+        <td>9:30 - 10:15</td>
+        <td> 
+          Sprites Rollover
+        </td>
+        <td>
+            <a href="lectures/sprite-rollovers/LECTURE.md">Lecture: Sprite Rollovers</a></br>
+            <a href="lectures/ux">Lecture Notes: Sprite Rollovers</a></br>
+            <a href="https://github.com/learn-co-curriculum/Fe-Concentration-Game">Lab: Concentration Game</a></br>
+        </td>
+    </tr>
+    <tr>
+        <td>10:15 - 10:45</td>
         <td> 
            User Experience Design 
         </td>
@@ -29,7 +40,7 @@
         </td>
     </tr>
     <tr>
-        <td>10:00 - 10:30</td>
+        <td>10:45 - 11:15</td>
         <td> Introduce Group Project/Storyboarding </td>
         <td>
             <a href="lectures/group-project-guide/LECTURE.md">Lecture: Project Guidelines</a></br>
@@ -40,7 +51,7 @@
         </td>
     </tr>
     <tr>
-        <td>10:30 - 11:00</td>
+        <td>11:15 - 11:45</td>
         <td> Wireframing </td>
         <td>
             <a href="lectures/wireframing/LECTURE.md">Lecture: Wireframing</a></br>
@@ -49,7 +60,7 @@
         </td>
     </tr>
     <tr>
-        <td>11:00 - 2:00</td>
+        <td>11:45 - 2:00</td>
         <td> Group Project — Choose your own adventure </td>
         <td> 
             <a href="https://github.com/learn-co-curriculum/Hs-Html-Css-Group-Project">Lab - Choose Your Own Adventure</a></br>

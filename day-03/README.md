@@ -23,13 +23,7 @@
         <td> 
             <a href="lectures/html-5/LECTURE.md">Lecture: HTML 5</a><br>
             <a href="lectures/html-5">Lecture Notes: HTML 5</a><br>
-        </td>
-    </tr>
-    <tr>
-        <td>10:00 - 10:15</td>
-        <td>HTML5 Lab</td>
-        <td> 
-            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-html5-lab">To-Do: HTML5 Fixer</a>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-html5-lab">Lab: HTML5 Fixer</a>
         </td>
     </tr>
     <tr>
@@ -54,7 +48,8 @@
             <a href="https://github.com/learn-co-curriculum/hs-zhw-shoes-layout"> Lab: ZHW Shoes</a><br>
             <a href="https://github.com/learn-co-curriculum/hs-zetsy">Lab: Zetsy </a><br>
             <a href="https://github.com/learn-co-curriculum/hs-dorm-posters-lab"> Lab: Dorm Posters</a><br>
-            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-flags">Lab: Flags</a>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-flags">Lab: Flags</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-winning-hand"> Lab: Winning Hand</a>
 
          </td>
     </tr>

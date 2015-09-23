@@ -32,7 +32,8 @@
           <a href="https://github.com/learn-co-curriculum/html-album-cover"> Lab: Album Cover</a><br>
           <a href="https://github.com/learn-co-curriculum/hs-issue-bot-9000">Lab: HTML Issue Bot 9000</a>
         <br>
-        <a href="https://github.com/learn-co-curriculum/dev-tools-super-power"> Lab: Dev Tools Super Power</a>
+        <a href="https://github.com/learn-co-curriculum/dev-tools-super-power"> Lab: Dev Tools Super Power</a><br>
+        <a href="https://github.com/learn-co-curriculum/hs-tourism-website-lab"> Lab: Tourism</a>
         </td>
     </tr>
     <tr>

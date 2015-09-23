@@ -18,7 +18,7 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:15</td>
+        <td>9:15 - 9:45</td>
         <td> Lecture: Descendant and Pseudo Selectors </td>
         <td>
             <a href="lectures/css-selectors/LECTURE.md">Lecture: CSS Selectors</a><br>
@@ -26,14 +26,25 @@
         </td>
     </tr>
     <tr>
-        <td>10:15 - 11:30</td>
+        <td>9:45 - 10:15</td>
         <td> Selector Labs </td>
         <td>
-        <a href="https://github.com/learn-co-curriculum/Css-Graffiti-Override">Lab: Graffiti Override</a>
+        <a href="https://github.com/learn-co-curriculum/Css-Graffiti-Override">Lab: Graffiti Override</a><br>
+        <a href="https://github.com/learn-co-curriculum/hs-intro-software-engineering-css-selectors"> Lab: CSS Gems</a><br>
+        <a href="https://github.com/learn-co-curriculum/hs-kitten-wheelbarrow"> Lab: Kitten Wheelbarrow</a>
         </br>
         </td>
     </tr>
     <tr>
+        <td>10:15 - 11:30</td>
+        <td> Responsive Design Lecture and Labs</td>
+        <td>
+            <a href="lectures/responsive-design/LECTURE.md">Lecture: Responsive Design</a><br>
+            <a href="lectures/responsive-design/README.md">Lecture Notes</a><br>
+            <a href="https://github.com/learn-co-curriculum/Animal-Save"> Lab: Animal Save</a>
+        </td>
+    </tr>
+        <tr>
         <td>11:30 - 12:30</td>
         <td> Lunch </td>
         <td>

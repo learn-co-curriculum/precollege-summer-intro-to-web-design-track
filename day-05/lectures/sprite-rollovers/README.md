@@ -1,4 +1,4 @@
-# Sprites and Rollovers - FULL LECTURE
+# Sprites and Rollovers - LECTURE NOTES
 
 ## SWBATs
 + Explain what an image sprite is
