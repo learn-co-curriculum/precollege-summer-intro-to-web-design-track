@@ -1,0 +1,13 @@
+a {
+    display: block;
+    width: 42px;
+    height: 75px;
+    overflow: hidden; /* sets overflow outside the element to hidden */
+    white-space: nowrap; /* prevent line breaks (text wrapping) */
+    background: url(https://s3.amazonaws.com/after-school-assets/GravitatorSprites.png) no-repeat; /* set background image */
+    background-position: -110px 0;
+}
+
+a:hover {
+    background-position: -270px 0; /* background-position accepts two values the first being horizontal movement and the second being vertical movement. this will re-position image to left 185px on hover */
+}
