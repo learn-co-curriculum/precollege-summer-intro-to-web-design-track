@@ -19,16 +19,15 @@
         <td>9:15 - 10:15</td>
         <td>JS Conditionals + Arrays </td>
         <td>
-            <a href="lectures/js-conditionals-structures/LECTURE.md">Lecture: JS Conditionals and Arrays</a>
-            NEED TO ADD ARRAYS SECTION TO LECTURE
-            NEED LECTURE NOTES
+            <a href="lectures/js-conditionals-structures/LECTURE.md">Lecture: JS Conditionals</a>
+            <a href="lectures/js-arrays/LECTURE.md">Lecture: JS Arrays</a> 
         </td>
     </tr>
     <tr>
         <td>10:15 - 11:30</td>
         <td>JS Conditionals + Arrays Labs </td>
         <td>
-           review labs from day 6 and build
+           BULDING LABS NEED TO ADD
         </td>
     </tr>
 
@@ -36,7 +35,7 @@
         <td>11:30 - 12:30</td>
         <td>Lunch</td>
         <td>
-            
+            Eat Food!
         </td>
     </tr>
 

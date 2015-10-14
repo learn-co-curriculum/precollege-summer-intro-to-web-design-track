@@ -1,4 +1,4 @@
-# Arrays - Full Lecture
+v# Arrays - Full Lecture
 
 ## SWBAT
 + Explain what an array is and when to use it
@@ -90,6 +90,9 @@ We can also add and remove items from an array. Arrays actually have methods bui
 `var lastName = names.pop()` will remove the last item in an array and return it. Since we just added "Alfred" to the end that is what `names.pop()` returns and stores in `lastName`.
 
 Here are some other cool methods: `.sort()`, `.splice()`, `split()`.
+
+**HAVE STUDENTS DO:**
+[Interactive Practice](https://github.com/learn-co-curriculum/hs-intro-web-design-array-interactive-practice)
 
 [Mini Lab](https://github.com/learn-co-curriculum/hs-js-arrays-mini-lab): Manipulating arrays (start with array and then have 10 instructions, what does array look like at the end?)
 *Answer: ["Peru", "Laos", "Chad", "Cuba", "Togo", "Iraq", "Iran", "Mali", "Oman", "Fiji"]*

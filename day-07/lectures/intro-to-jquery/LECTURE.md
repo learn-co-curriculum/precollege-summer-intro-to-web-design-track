@@ -53,7 +53,7 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
 
 ### jQuery Intro
 
-+ We can use vanilla Javascript to manipulate the DOM, but it's a lot easier to use jQuery. 
++ We can use vanilla JavaScript to manipulate the DOM, but it's a lot easier to use jQuery. 
 + So what is jQuery?
   + jQuery is a JavaScript library
 + What is a library?
@@ -154,8 +154,8 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
 ### Events
 
 #### Document Ready
-+ You’ll notice that here we are calling the ready method on the `$(document)` object and that ready function takes an argument that is another function. This happens a lot in jQuery. 
-+ Our javascript files often get loaded before any other elements on our page. This can be dangerous if we want to access the DOM before it has loaded 
++ You'll notice that here we are calling the ready method on the `$(document)` object and that ready function takes an argument that is another function. This happens a lot in jQuery. 
++ Our JavaScript files often get loaded before any other elements on our page. This can be dangerous if we want to access the DOM before it has loaded 
 + If we apply jQuery selectors before any DOM elements have loaded on our page then nothing will happen since those elements don't exist yet
 + Using Document Ready is the same as saying, "Okay, as soon as the page is done loading, apply all of our cool jQuery methods"
 
