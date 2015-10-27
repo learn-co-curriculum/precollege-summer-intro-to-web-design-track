@@ -16,18 +16,20 @@
         </td>
     </tr>
     <tr>
-        <td>9:15 - 10:45</td>
+        <td>9:15 - 11:00</td>
         <td>Lecture: JavaScript Basics</td>
         <td>
             <a href="lectures/js-basics/LECTURE.md">Lecture: JavaScript Basics</a><br>
             <a href="lectures/js-basics">Lecture Notes: JavaScript Basics</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-interactive-practice-strings">String Interactive Practice</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-interactive-practice-variables"> Variables Interactive Practice</a><br>
         </td>
     </tr>
     <tr>
-        <td>10:45 - 11:30</td>
-        <td>Lecture: JavaScript Basics Labs</td>
+        <td>11:00 - 11:30</td>
+        <td>Improv Games!</td>
         <td>
-            NEED TO BUILD
+            Play Games
         </td>
     </tr>
     
@@ -35,22 +37,16 @@
         <td>11:30 - 12:30</td>
         <td>Lunch</td>
         <td>
+            Eat Food!
         </td>
     </tr>
     <tr>
         <td>12:30 - 2:50</td>
         <td>Labs</td>
         <td>
-            REVIEW WHICH LABS MIGHT BE TOO DIFFICULT
-            <a href="https://github.com/learn-co-curriculum/js-atm-function-based">Lab: ATM</a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/fe-jquery-simple-calc">Lab: Simple Calculator</a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/whac-a-mole.js">Stretch Lab: Whac-a-Mole</a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/task-list/blob/solution/js/tasklist.js">Stretch Lab: Task List</a>
-            <br>
-            <a href="https://github.com/learn-co-curriculum/jQuery-user-input-calculator">Stretch Lab: Calculator</a>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-trip-planner">Lab: Trip Planner</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-airline-ticket-maker">Lab: Airline Ticket Master</a>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-js-user-input-mini-lab">Lab: User Input Mini Lab</a>
         </td>
     </tr>
     <tr>
@@ -59,7 +55,7 @@
         <td> 
             Tell the kids they're awesome.
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-restaurant-code-challenge"> Restaurateur Code Challenge<a/>
         </td>
     </tr>
 </table>

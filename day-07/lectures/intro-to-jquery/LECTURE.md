@@ -83,7 +83,7 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
 ### Using jQuery 
 
 + Set up steps for using jQuery in your websites:
-  +  Include link to jQuery core library between your `<head>` tags:
+  +  Include link to jQuery core library just before closing `</body>` tag:
    `<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>`
   + Link to your custom js file
   `<script src=”./js/app.js"></script>`
@@ -94,7 +94,6 @@ Before we can really dive into jQuery we need to understand the DOM. The DOM, st
        // your app code goes here.
     });
     ```
-
 
 
 ### Document Ready

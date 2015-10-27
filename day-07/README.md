@@ -12,7 +12,7 @@
         <td>9:00 - 9:15</td>
         <td>ToDo</td>
         <td>
-            NEED TODO
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-decorate-room"> To Do: Room Decorator</a>
         </td>
     </tr>
     <tr>
@@ -27,7 +27,13 @@
         <td>10:15 - 11:30</td>
         <td>JS Conditionals + Arrays Labs </td>
         <td>
-           BULDING LABS NEED TO ADD
+           <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-gimme-money"> Conditionals Lab: Gimme My Money</a><br>
+           <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-donut-counter"> Conditionals Lab: Donut Counter</a><br>
+           <a href="https://github.com/learn-co-curriculum/hs-vanilla-js-calculator"> Conditionals Lab: Calculator</a><br>
+           <a href="https://github.com/learn-co-curriculum/hs-js-arrays-mini-lab"> Array Lab: Four Letter Countries</a><br>
+           <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-playlist-maker">Array Lab: Playlister</a><br>
+           <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-beatles-array-loops"> Array Stretch Lab: Beatles</a>
+
         </td>
     </tr>
 
@@ -48,19 +54,15 @@
         </td>
     </tr>
     <tr>
-        <td>12:30 - 1:30</td>
-        <td>Interactive Practice: jQuery Selectors</td>
-        <td>
-            <a href="lectures/using-selectors/LECTURE.md">Lecture (Interactive Practice): jQuery Selectors</a><br>
-            <a href="lectures/using-selectors">Lecture Notes (Interactive Practice): jQuery Selectors</a><br>
-        </td>
-    </tr>
-    <tr>
-        <td>1:30 - 2:50</td>
-        <td>Group Labs: jQuery Selectors and Methods</td>
+        <td>12:30 - 2:50</td>
+        <td>jQuery Lab</td>
         <td>
             <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors">Lab: jQuery Exploring Selectors</a></br>
-            <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods">Lab: Exploring jQuery Methods</a></br>s
+            <a href="https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods">Lab: Exploring jQuery Methods</a></br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-horoscope-reader"> Lab: Horoscope Reader</a><br>
+            <a href="https://github.com/learn-co-curriculum/jquery-traffic-light"> Lab: jQuery Traffic Light</a><br>
+            <a href="https://github.com/learn-co-curriculum/hs-intro-web-design-atm">Stretch Lab: ATM</a><br>
+            <a href="https://github.com/learn-co-curriculum/whac-a-mole.js">Stretch Lab: Whac-A-Mole</a>
         </td>
     </tr>
     <tr>
@@ -69,7 +71,7 @@
         <td> 
             Tell the kids they're awesome.
             <br>
-            <a href="https://github.com/learn-co-curriculum/hs-post-class-survey">Micro Feedback</a>
+            <a href="https://github.com/learn-co-curriculum/hs-jquery-game-show">Code Challenge: jQuery Game Show</a>
         </td>
     </tr>
 </table>
