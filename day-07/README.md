@@ -51,6 +51,7 @@
         <td>
             <a href="lectures/intro-to-jquery/LECTURE.md">Lecture: Intro to jQuery</a><br>
             <a href="lectures/intro-to-jquery">Lecture Notes: Intro to jQuery</a><br>
+            <a href="lectures/using-selectors/LECTURE.md"> Lecture: Using Selectors (this is short)</a>
         </td>
     </tr>
     <tr>
