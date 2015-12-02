@@ -31,3 +31,5 @@ Here you'll find:
 
 ### [Day 10 - Project 3](day-10/)
 
+
+<a href='https://learn.co/lessons/precollege-summer-intro-to-web-design-track' data-visibility='hidden'>View this lesson on Learn.co</a>
